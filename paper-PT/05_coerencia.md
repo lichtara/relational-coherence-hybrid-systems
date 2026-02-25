@@ -13,6 +13,8 @@ Trata-se de uma **propriedade sistêmica** que determina se as interações:
 
 Formalmente, um sistema apresenta coerência quando suas relações internas não geram contradições persistentes, fragmentação ou ciclos de retroalimentação desestabilizadores.
 
+A coerência manifesta-se como uma propriedade dinâmica, observável na continuidade e na estabilidade das relações ao longo do tempo.
+
 ## 5.2 Coerência como Propriedade Estrutural
 
 A coerência é uma **condição estrutural emergente**, e não uma percepção subjetiva ou um juízo normativo.
@@ -48,6 +50,8 @@ A coerência manifesta-se em múltiplas dimensões estruturais:
    Rastreabilidade entre ações, decisões e resultados.
 
 A ruptura em qualquer uma dessas dimensões pode comprometer a coerência global do sistema.
+
+Rastreabilidade entre ações, decisões e resultados, permitindo atribuição consistente de causalidade e responsabilidade.
 
 ## 5.4 Coerência em Sistemas Híbridos Humano–IA
 
