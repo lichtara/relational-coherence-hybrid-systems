@@ -104,16 +104,40 @@ Os **limites institucionais** são particularmente relevantes como mecanismos de
 
 No interior da estrutura triádica, a interação **Campo–Limite** assegura que as fronteiras permaneçam significativas e operantes, contribuindo para a estabilidade relacional e evitando formas abstratas ou ineficazes de limitação. Os limites adquirem legitimidade apenas na medida em que ressoam com as condições relacionais vividas no sistema. Ao mesmo tempo, sua articulação pode transformar o campo ao redefinir papéis, responsabilidades e modos de participação. Essa co-constituição evidencia por que os limites não podem ser tratados como restrições externas, mas devem ser compreendidos como **componentes integrais do desenho relacional de sistemas governáveis**.
 
-
 ## 7.4 Condições de Estabilidade e Ruptura
+
+A análise das interações diádicas na subseção anterior evidencia que Campo, Coerência e Limite operam sempre de forma interdependente e dinâmica. No entanto, a mera existência dessas interações não garante a sustentabilidade do sistema ao longo do tempo. Esta subseção desloca, portanto, o foco das dinâmicas relacionais para as condições estruturais sob as quais essas dinâmicas permanecem estáveis — ou, alternativamente, entram em ruptura.
 
 Esta subseção identifica as condições sob as quais a estrutura triádica se sustenta ou colapsa.
 
 ### 7.4.1 Condições de Estabilidade Estrutural
 
-* Limiares mínimos de coerência
-* Articulação adequada de limites
-* Transparência e legibilidade do campo
+A estabilidade da estrutura triádica depende de um conjunto de condições **necessárias — embora não suficientes** — que permitem que **Campo**, **Coerência** e **Limite** permaneçam mutuamente reforçadores ao longo do tempo. Estabilidade estrutural não implica estase nem ausência de conflito; ela designa, antes, a **capacidade do sistema de absorver variação, contestação e mudança** sem perder governabilidade ou inteligibilidade relacional. Três condições interdependentes são particularmente críticas: **limiares mínimos de coerência**, **articulação adequada de limites** e **transparência e legibilidade do campo**.
+
+**Limiares mínimos de coerência.**
+Para que um sistema híbrido humano–IA permaneça governável, a coerência deve ultrapassar um limiar mínimo nas dimensões temporal, funcional e normativa. Abaixo desse limiar, os componentes do sistema podem continuar operando localmente, mas o sistema como um todo torna-se **ininteligível e não responsabilizável**.
+
+Coerência mínima não requer alinhamento total nem consenso pleno. Ela exige, antes, integração suficiente para que os participantes do sistema possam: (a) compreender como as ações se propagam entre camadas, (b) antecipar as consequências de intervenções e (c) localizar responsabilidades por decisões e resultados. Quando esse limiar não é alcançado, surgem cadeias decisórias opacas, lógicas operacionais conflitantes e erosão da confiança — mesmo em sistemas que permanecem tecnicamente funcionais.
+
+Esses limiares são **dependentes do contexto**. Domínios de alto impacto, como saúde, administração pública ou sistemas judiciais, demandam níveis mais elevados de coerência do que ambientes exploratórios ou de baixo risco. A estabilidade estrutural, portanto, não exige coerência máxima, mas **coerência calibrada às condições sociais, éticas e institucionais do sistema**.
+
+**Articulação adequada de limites.**
+A estabilidade estrutural também depende da presença de limites que sejam **claramente articulados, operacionalmente aplicáveis e inteligíveis no interior do campo relacional**. Os limites devem definir, de forma consistente, escopos de autoridade, condições de ação e mecanismos de accountability entre componentes humanos, institucionais e técnicos.
+
+Limites mal articulados — seja por excessiva vagueza, complexidade desnecessária ou desalinhamento com as práticas efetivas do sistema — falham como condições estabilizadoras. Essas falhas tendem a produzir dois efeitos recorrentes: a **erosão dos limites**, quando fronteiras existem apenas formalmente, ou a **hipertrofia normativa**, quando restrições se acumulam sem integração real aos processos do sistema.
+
+A articulação adequada de limites requer coerência entre limites explícitos e implícitos. Regras formais, políticas institucionais e constrangimentos técnicos devem ser compatíveis com capacidades cognitivas humanas, rotinas organizacionais e expectativas éticas compartilhadas. Quando essa compatibilidade não se estabelece, os limites tornam-se simbólicos ou performativos, enfraquecendo tanto a coerência quanto a legitimidade do sistema. A estabilidade não decorre da mera existência de limites, mas de sua **integração estrutural aos processos relacionais**.
+
+**Transparência e legibilidade do campo.**
+A terceira condição de estabilidade diz respeito ao grau de **transparência e legibilidade do próprio campo relacional**. Transparência do campo refere-se à visibilidade das estruturas de relação — papéis, dependências, trajetórias decisórias e assimetrias de poder. Legibilidade, por sua vez, diz respeito à capacidade dos participantes de **interpretar essas estruturas e orientar suas ações de forma informada**.
+
+Campos opacos ou pouco legíveis comprometem a estabilidade mesmo quando coerência e limites estão formalmente presentes. Os participantes podem cumprir regras ou interagir com sistemas sem compreender como os resultados são produzidos ou como as responsabilidades estão distribuídas. Nesses contextos, a confiança torna-se frágil, a contestação se distorce e os mecanismos corretivos deixam de operar.
+
+Em sistemas híbridos humano–IA, a opacidade do campo é frequentemente amplificada pela mediação algorítmica, pela escala e pela velocidade dos processos automatizados. Cadeias causais tornam-se difíceis de rastrear, enquanto a sobreposição institucional difunde a accountability. A estabilidade estrutural exige, portanto, esforços deliberados para tornar o campo **suficientemente legível**, por meio de práticas de transparência, interpretabilidade, governança participativa e supervisão reflexiva.
+
+É crucial notar que transparência do campo não implica visibilidade total nem divulgação irrestrita. Ela requer, antes, que a estrutura relacional seja **inteligível o bastante** para sustentar participação informada, supervisão significativa e intervenção responsável. A opacidade excessiva desestabiliza a estrutura triádica ao dissociar a coerência da experiência relacional vivida e ao tornar os limites abstratos ou inaplicáveis.
+
+Em conjunto, essas três condições delineiam os **requisitos estruturais mínimos** para a sustentação do modelo triádico. Quando os limiares mínimos de coerência são atingidos, os limites estão adequadamente articulados e o campo permanece transparente e legível, sistemas híbridos humano–IA preservam sua capacidade de governança adaptativa. Quando uma ou mais dessas condições falham, o sistema torna-se vulnerável aos modos de ruptura analisados na subseção seguinte.
 
 ### 7.4.2 Modos de Ruptura
 
