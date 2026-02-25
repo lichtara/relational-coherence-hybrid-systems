@@ -7,13 +7,13 @@ No âmbito de sistemas híbridos humano–IA–institucionais, **Coerência** é
 Coerência não é consenso, alinhamento de valores ou uniformidade comportamental.
 Trata-se de uma **propriedade sistêmica** que determina se as interações:
 
-* Permanecem mutuamente interpretáveis
-* Produzem resultados não contraditórios
-* Preservam a continuidade funcional entre agentes e subsistemas
+* permanecem mutuamente interpretáveis;
+* produzem resultados não contraditórios;
+* preservam a continuidade funcional entre agentes e subsistemas.
 
 Formalmente, um sistema apresenta coerência quando suas relações internas não geram contradições persistentes, fragmentação ou ciclos de retroalimentação desestabilizadores.
 
-A coerência manifesta-se como uma propriedade dinâmica, observável na continuidade e na estabilidade das relações ao longo do tempo.
+A coerência manifesta-se como uma **propriedade dinâmica**, observável na continuidade e na estabilidade das relações ao longo do tempo.
 
 ## 5.2 Coerência como Propriedade Estrutural
 
@@ -24,9 +24,9 @@ Por outro lado, um sistema pode admitir diversidade e dissenso mantendo-se coere
 
 A coerência existe quando:
 
-* As ações realizadas dentro do campo são compatíveis com suas restrições
-* Os ciclos de retroalimentação reforçam a inteligibilidade em vez de amplificar ruído
-* As decisões entre subsistemas não se anulam mutuamente
+* as ações realizadas dentro do campo são compatíveis com suas restrições;
+* os ciclos de retroalimentação reforçam a inteligibilidade em vez de amplificar ruído;
+* as decisões entre subsistemas não se anulam mutuamente.
 
 É, portanto, possível analisar a coerência independentemente de avaliações morais, reconhecendo simultaneamente sua necessidade para a governabilidade.
 
@@ -47,11 +47,9 @@ A coerência manifesta-se em múltiplas dimensões estruturais:
    Estabilidade das expectativas entre agentes e subsistemas em interação.
 
 5. **Coerência causal**
-   Rastreabilidade entre ações, decisões e resultados.
+   Rastreabilidade entre ações, decisões e resultados, permitindo atribuição consistente de causalidade e responsabilidade.
 
 A ruptura em qualquer uma dessas dimensões pode comprometer a coerência global do sistema.
-
-Rastreabilidade entre ações, decisões e resultados, permitindo atribuição consistente de causalidade e responsabilidade.
 
 ## 5.4 Coerência em Sistemas Híbridos Humano–IA
 
@@ -59,10 +57,10 @@ Sistemas híbridos enfrentam desafios específicos de coerência devido às assi
 
 Fontes recorrentes de incoerência incluem:
 
-* Modelos interpretativos divergentes entre humanos e algoritmos
-* Objetivos de otimização desalinhados em relação às metas institucionais
-* Decisões automatizadas operando além das escalas temporais ou cognitivas humanas
-* Atualizações de modelos que alteram o comportamento do sistema sem adaptação institucional correspondente
+* modelos interpretativos divergentes entre humanos e algoritmos;
+* objetivos de otimização desalinhados em relação às metas institucionais;
+* decisões automatizadas operando além das escalas temporais ou cognitivas humanas;
+* atualizações de modelos que alteram o comportamento do sistema sem adaptação institucional correspondente.
 
 Nesses sistemas, a incoerência frequentemente emerge não de falhas técnicas, mas de **desalinhamentos estruturais**.
 
@@ -72,9 +70,9 @@ A confiança não é a causa da coerência; ela é uma **consequência** de coer
 
 Quando sistemas exibem coerência:
 
-* Agentes podem formar expectativas confiáveis
-* Atribuições de responsabilidade tornam-se significativas
-* Erros podem ser identificados e corrigidos
+* agentes podem formar expectativas confiáveis;
+* atribuições de responsabilidade tornam-se significativas;
+* erros podem ser identificados e corrigidos.
 
 Em contraste, a incoerência persistente leva à erosão da confiança, mesmo em sistemas tecnicamente funcionais.
 
@@ -93,7 +91,7 @@ Diversos padrões recorrentes de incoerência são observados em sistemas híbri
 * **Difusão de responsabilidade**
   Quando cadeias causais atravessam fronteiras institucionais e algorítmicas sem accountability.
 
-* **Dessicronização temporal**
+* **Dessincronização temporal**
   Quando processos automatizados superam os mecanismos de governança.
 
 Esses padrões frequentemente coexistem e se reforçam mutuamente.
@@ -104,9 +102,9 @@ Embora a coerência seja essencial para a estabilidade do sistema, ela não impe
 
 Um sistema pode ser internamente coerente e ainda assim produzir resultados insustentáveis ou injustos se:
 
-* Carecer de fronteiras explícitas
-* Expandir seu escopo operacional sem controle
-* Produzir efeitos que excedam a capacidade institucional
+* carecer de fronteiras explícitas;
+* expandir seu escopo operacional sem controle;
+* produzir efeitos que excedam a capacidade institucional.
 
 Assim, a coerência deve ser estruturalmente limitada.
 
