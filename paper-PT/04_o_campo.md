@@ -42,10 +42,10 @@ Um campo é composto por dimensões estruturais interativas, incluindo, mas não
    A forma como a informação é gerada, filtrada, amplificada, suprimida ou retardada.
 
 4. **Dinâmicas temporais**
-   Os ritmos, ciclos de retroalimentação e atrasos que governam interação e resposta.
+   Os ritmos, ciclos de **retroalimentação** e atrasos que governam interação e resposta.
 
 5. **Distribuição de poder**
-   Assimetrias na agência, na autoridade decisória e na alavancagem sistêmica.
+   Assimetrias na **agência**, na autoridade decisória e na alavancagem sistêmica.
 
 Essas dimensões determinam conjuntamente o **estado do campo** em um dado momento.
 
@@ -64,16 +64,16 @@ O campo, portanto, não é estático; ele evolui à medida que modelos são reen
 
 ## 4.5 Campo e Governabilidade
 
-A governabilidade não depende de agentes isolados, mas das **propriedades estruturais do campo**.
+A **governabilidade** não depende de agentes isolados, mas das **propriedades estruturais do campo**.
 
 Um sistema torna-se difícil ou impossível de governar quando:
 
 * As fronteiras do campo são indefinidas ou instáveis
 * Os fluxos informacionais são assimétricos ou opacos
 * As restrições são implícitas em vez de explícitas
-* Ciclos de retroalimentação operam mais rapidamente do que a resposta institucional
+* Ciclos de **retroalimentação** operam mais rapidamente do que a resposta institucional
 
-Nesses casos, as tentativas de governança concentram-se em comportamentos de superfície, enquanto o campo subjacente permanece inalterado.
+Nesses casos, as tentativas de **governança** concentram-se em comportamentos de superfície, enquanto o campo subjacente permanece inalterado.
 
 ## 4.6 Condições Patológicas de Campo
 
@@ -82,7 +82,7 @@ Certas configurações de campo minam sistematicamente a coerência e a sustenta
 Exemplos incluem:
 
 * **Campos super-restritos**, nos quais os agentes carecem de graus de liberdade significativos
-* **Campos sub-restritos**, nos quais responsabilidade e accountability se dissolvem
+* **Campos sub-restritos**, nos quais responsabilidade e *accountability* se dissolvem
 * **Campos fragmentados**, nos quais agentes operam sob lógicas locais incompatíveis
 * **Campos opacos**, nos quais as relações causais são inacessíveis aos participantes
 
