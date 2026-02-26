@@ -433,7 +433,6 @@ Cada bloco mostra **efeitos progressivos e interdependentes**, enfatizando como 
 
 ---
 
-
 ```mermaid
 flowchart TD
     A[💠 Estrutura Triádica<br>Governança | Inteligibilidade | Accountability] --> B[🔻 Modos de Ruptura]
