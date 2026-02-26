@@ -377,6 +377,61 @@ flowchart TD
 
 ---
 
+### 7.4.2 Modos de Ruptura — Versão Super-Avançada (Visual)
+
+```mermaid
+flowchart TD
+    A[**Estrutura Triádica**] --> B[**Colapso do Campo**]
+    A --> C[**Quebra de Coerência**]
+    A --> D[**Erosão ou Extrapolação de Limites**]
+
+    B --> B1[Perda do solo relacional compartilhado]
+    B --> B2[Opacidade nos processos decisórios]
+    B --> B3[Fragmentação de confiança e coordenação]
+    B --> B4[Governança sistêmica enfraquecida]
+
+    C --> C1[Desalinhamento temporal]
+    C --> C2[Desalinhamento funcional]
+    C --> C3[Desalinhamento normativo]
+    C --> C4[Cadeias decisórias opacas e difusão de responsabilidade]
+
+    D --> D1[Erosão de limites: adiamento ou diluição de responsabilidade]
+    D --> D2[Extrapolação de limites: rigidez excessiva ou regras desconectadas do contexto]
+    D --> D3[Supressão de julgamento contextual e aprendizagem]
+    D --> D4[Accountability fragilizada]
+
+    style A fill:#fefbd8,stroke:#333,stroke-width:2px
+    style B fill:#fcd5ce,stroke:#333,stroke-width:1px
+    style C fill:#dcedc2,stroke:#333,stroke-width:1px
+    style D fill:#cfe0e8,stroke:#333,stroke-width:1px
+    style B1 fill:#ffebee
+    style B2 fill:#ffebee
+    style B3 fill:#ffebee
+    style B4 fill:#ffebee
+    style C1 fill:#e8f5e9
+    style C2 fill:#e8f5e9
+    style C3 fill:#e8f5e9
+    style C4 fill:#e8f5e9
+    style D1 fill:#e3f2fd
+    style D2 fill:#e3f2fd
+    style D3 fill:#e3f2fd
+    style D4 fill:#e3f2fd
+
+    classDef header fill:#fefbd8,stroke:#333,stroke-width:2px,font-weight:bold;
+````
+
+---
+
+#### 🔹 Como ler o diagrama:
+
+1. **Estrutura Triádica (A)**: O núcleo do sistema, sustentando governabilidade, inteligibilidade e accountability.
+2. **Colapso do Campo (B)**: Ruptura relacional — quando o solo compartilhado de significado e confiança se perde.
+3. **Quebra de Coerência (C)**: Ruptura de alinhamento entre camadas — processos e normas deixam de operar de forma coerente.
+4. **Erosão ou Extrapolação de Limites (D)**: Ruptura de fronteiras — limites institucionais ou técnicos falham em delimitar responsabilidade e supervisionar ações.
+
+Cada bloco mostra **efeitos progressivos e interdependentes**, enfatizando como falhas na estrutura triádica são cumulativas e reforçam-se mutuamente.
+
+---
 
 
 
