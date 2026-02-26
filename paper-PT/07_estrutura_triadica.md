@@ -270,6 +270,59 @@ flowchart TB
 Cada modo de ruptura influencia os demais, criando **ciclos de retroalimentação** que podem intensificar a fragilidade sistêmica.
 
 
+---
+
+
+```mermaid
+flowchart TD
+    style A fill:#FFDAB9,stroke:#333,stroke-width:2px
+    style B fill:#ADD8E6,stroke:#333,stroke-width:2px
+    style C fill:#FFB6C1,stroke:#333,stroke-width:2px
+    style TRI fill:#FFFACD,stroke:#333,stroke-width:3px,stroke-dasharray: 5 5
+
+    TRI[**Estrutura Triádica**\nGovernança • Coerência • Limites]
+
+    A[**Colapso do Campo**\n- Perda do solo relacional\n- Coordenação e confiança fragmentadas\n- Significado compartilhado corroído] 
+    B[**Quebra de Coerência**\n- Desalinhamento entre camadas\n- Cadeias decisórias opacas\n- Difusão de responsabilidade] 
+    C[**Erosão ou Extrapolação de Limites**\n- Falha na articulação das fronteiras\n- Diluição ou rigidez excessiva de limites\n- Accountability comprometida]
+
+    TRI --> A
+    TRI --> B
+    TRI --> C
+
+    A --- B
+    B --- C
+    C --- A
+
+    classDef modo fill:#f9f,stroke:#333,stroke-width:1px,color:#000;
+    class A,B,C modo;
+```
+
+### Como funciona este diagrama:
+
+* O **bloco central** representa a **Estrutura Triádica**.
+* Cada **modo de ruptura** é um bloco colorido ligado à triade.
+* As linhas tracejadas entre os modos indicam que **os modos se reforçam mutuamente**, produzindo efeitos em cascata.
+* As cores ajudam a diferenciar rapidamente cada tipo de ruptura:
+
+  * Laranja (Campo), Azul (Coerência), Rosa (Limites).
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
