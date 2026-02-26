@@ -219,7 +219,7 @@ flowchart TD
     M -.-> N
 
     N -->|Dificuldade de reversão| O[🧩 Fragilidade Sistêmica]
-
+```
 
 
 ### Explicação Visual:
@@ -257,7 +257,7 @@ flowchart TB
     class B colapso;
     class C coerencia;
     class D limites;
-
+```
 
 
 ### Explicação Visual:
