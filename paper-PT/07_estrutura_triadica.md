@@ -247,6 +247,25 @@ Limites efetivos são incorporados à arquitetura do sistema, aos processos de g
 
 Integrar limites ao design de sistemas híbridos assegura que agentes humanos e de IA operem **dentro de um framework relacionalmente inteligível e eticamente coerente**, preservando tanto a estabilidade sistêmica quanto a accountability. Limites não são obstáculos à automação ou ao alinhamento; constituem **facilitadores de governança sustentável**, garantindo que Campo e Coerência permaneçam coerentes, legíveis e adaptáveis ao longo do tempo.
 
+# 
+
+### 7.5.4 Observações Integrativas
+
+As subseções anteriores analisaram a participação da IA no **Campo relacional**, os riscos associados à coerência imposta por automação e a função estabilizadora dos **Limites**. Esta subseção final sintetiza essas percepções para destacar a **interdependência prática entre Campo, Coerência e Limite** e delinear **principais princípios para a governança de sistemas híbridos**.
+
+**Interdependência Campo–Coerência–Limite na prática.**
+
+Sistemas híbridos ilustram que os elementos da tríade se reforçam mutuamente. A IA pode **fortalecer a tríade** quando seus outputs aumentam a inteligibilidade, estabilizam o alinhamento e respeitam limites estabelecidos. Em contrapartida, intervenções algorítmicas podem **enfraquecer a tríade** quando a automação prioriza eficiência em detrimento da legibilidade relacional, contorna limites ou provoca desalinhamento entre camadas temporais, funcionais ou normativas. Na prática, esses efeitos não são isolados: alterações em um componente propagam-se aos demais por meio de ciclos de retroalimentação, ressaltando a natureza sistêmica da coerência relacional.
+
+**Orientações gerais para a governança híbrida.**
+
+A gestão eficaz de sistemas híbridos humano–IA requer atenção contínua à estrutura triádica:
+
+- **Monitoramento contínuo do Campo:** Garantir que padrões relacionais, assimetrias de poder e quadros interpretativos permaneçam inteligíveis para todos os atores relevantes. Devem ser empregadas estratégias de transparência e visibilidade para manter entendimento compartilhado.
+- **Avaliação periódica da coerência automatizada:** O alinhamento automatizado deve ser avaliado não apenas quanto à eficiência, mas também quanto à compatibilidade funcional e normativa. Desalinhamentos devem ser identificados e corrigidos antes que comprometam a inteligibilidade sistêmica.
+- **Revisão adaptativa e calibração dos Limites:** Os limites devem ser revisitados e ajustados em resposta a mudanças no Campo ou na Coerência. Tanto fronteiras explícitas quanto implícitas devem evoluir para preservar a agência diferenciada, a accountability e a estabilidade do sistema.
+
+A aplicação desses princípios permite que os mecanismos de governança **potencializem as capacidades da IA** enquanto mitigam os riscos sistêmicos identificados na Seção 7.4.2. O modelo triádico fornece, assim, um quadro conceitual e operacional para projetar, monitorar e adaptar sistemas híbridos humano–IA de modo a sustentar inteligibilidade, confiança e accountability ao longo do tempo.
 
 
 
