@@ -168,6 +168,118 @@ Nos três modos de ruptura, observa-se um **padrão estrutural comum**. A falha 
 
 Reconhecer esses modos de ruptura é essencial para diagnosticar a fragilidade sistêmica em sistemas híbridos humano–IA. Uma governança efetiva requer, portanto, atenção contínua à **integridade da estrutura triádica**, em vez de um foco exclusivo em desempenho técnico ou conformidade formal a regras.
 
+### 7.4.2 Modos de Ruptura – Versão Visual
+
+Quando a estabilidade estrutural não é mantida, a **estrutura triádica** se torna vulnerável a modos distintos de ruptura. Estes surgem como **processos graduais, relacionais e sistêmicos** que corroem governabilidade, inteligibilidade e accountability.
+
+| **Modo de Ruptura** | **Descrição** | **Exemplos em sistemas híbridos humano–IA** | **Efeitos na Governança** |
+|------------------------|----------------|-----------------------------------------------|-------------------------------|
+| **Colapso do Campo** | Perda do solo relacional compartilhado; atores perdem referência comum. | Opacidade em decisões; redistribuição assimétrica de agência; mudanças institucionais não acompanhadas por atualização do quadro interpretativo. | Decisões contestadas ou mal interpretadas; mecanismos formais tornam-se ineficazes; enfraquece construção coletiva de sentido. |
+| **Quebra de Coerência** | Desalinhamento entre dimensões temporais, funcionais ou normativas; campo parcialmente intacto. | Desalinhamento temporal: processos automatizados rápidos demais; funcional: conflito com papéis ou procedimentos; normativo: valores éticos dissociados do comportamento real. | Cadeias decisórias opacas; resultados inconsistentes; difusão de responsabilidade; confiança e legitimidade corroídas. |
+| **Erosão/Extrapolação de Limites** | Falha na articulação e operação das fronteiras estruturais. | Erosão: adiamento ou diluição da responsabilidade, dependência de sistemas automatizados. <br>Extrapolação: limites rígidos, proliferação de regras sem integração ao campo relacional. | Limites deixam de ser generativos; suprimem julgamento contextual; inibem aprendizado; conformidade performativa; accountability enfraquecida. |
+
+**Padrão estrutural comum:**  
+- Falha de governança surge de **desalinhamentos progressivos** na tríade.  
+- Colapso do campo compromete o solo relacional.  
+- Quebra de coerência desorganiza inteligibilidade entre camadas.  
+- Falhas de limites dissolvem responsabilidade e accountability.  
+- Os modos tendem a **reforçar-se mutuamente**, gerando efeitos em cascata.
+
+**Conclusão:**  
+Para sistemas híbridos humano–IA, a governança eficaz requer **atenção contínua à integridade da estrutura triádica**, não apenas ao desempenho técnico ou conformidade formal.
+
+
+## Modos de Ruptura na Estrutura Triádica (Visual)
+
+```mermaid
+flowchart TD
+    A[📦 Estrutura Triádica] --> B[🌐 Campo Relacional]
+    A --> C[⚖️ Coerência]
+    A --> D[🚧 Limites]
+
+    B -->|Falta de sustentação| E[💥 Colapso do Campo]
+    E --> F[Sistemas operam, mas relações fragmentadas]
+    E --> G[Perda de confiança e inteligibilidade]
+
+    C -->|Desalinhamento entre camadas| H[⚠️ Quebra de Coerência]
+    H --> I[Cadeias decisórias opacas]
+    H --> J[Resultados inconsistentes e difusão de responsabilidade]
+
+    D -->|Fronteiras insuficientes ou rígidas| K[🛑 Erosão/Extrapolação de Limites]
+    K --> L[Adiamento ou diluição da responsabilidade]
+    K --> M[Supressão do julgamento contextual e conformidade performativa]
+
+    style E fill:#FFB6C1,stroke:#FF69B4,stroke-width:2px
+    style H fill:#FFFACD,stroke:#FFD700,stroke-width:2px
+    style K fill:#B0E0E6,stroke:#1E90FF,stroke-width:2px
+
+    F -.-> N[🔄 Efeitos em cascata]
+    J -.-> N
+    L -.-> N
+    M -.-> N
+
+    N -->|Dificuldade de reversão| O[🧩 Fragilidade Sistêmica]
+
+
+
+### Explicação Visual:
+
+- **Colapso do Campo (vermelho)**: indica a perda do solo relacional compartilhado, levando a fragilidade na coordenação e inteligibilidade.
+- **Quebra de Coerência (azul)**: representa o desalinhamento entre camadas temporais, funcionais ou normativas, gerando decisões opacas e inconsistentes.
+- **Erosão ou Extrapolação de Limites (verde)**: falha na articulação das fronteiras, causando difusão de responsabilidade e perda de governabilidade.
+
+💡 **Setas de interdependência:**  
+Cada modo de ruptura influencia os demais, criando **ciclos de retroalimentação** que podem intensificar a fragilidade sistêmica.
+
+---
+
+
+
+
+
+# Modos de Ruptura da Estrutura Triádica
+
+```mermaid
+flowchart TB
+    classDef colapso fill:#FFCDD2,stroke:#B71C1C,stroke-width:2px,color:#B71C1C;
+    classDef coerencia fill:#BBDEFB,stroke:#0D47A1,stroke-width:2px,color:#0D47A1;
+    classDef limites fill:#C8E6C9,stroke:#1B5E20,stroke-width:2px,color:#1B5E20;
+    classDef link stroke:#333,stroke-width:1px;
+
+    A[Integridade da Estrutura Triádica] --> B[Colapso do Campo<br>Perda do solo relacional compartilhado]
+    A --> C[Quebra de Coerência<br>Desalinhamento entre camadas do sistema]
+    A --> D[Erosão ou Extrapolação de Limites<br>Falha na articulação das fronteiras]
+
+    B -->|Causa fragilidade relacional| C
+    C -->|Desalinha processos e normas| D
+    D -->|Reduz accountability e supervisão| B
+
+    class B colapso;
+    class C coerencia;
+    class D limites;
+
+
+
+### Explicação Visual:
+
+- **Colapso do Campo (vermelho)**: indica a perda do solo relacional compartilhado, levando a fragilidade na coordenação e inteligibilidade.
+- **Quebra de Coerência (azul)**: representa o desalinhamento entre camadas temporais, funcionais ou normativas, gerando decisões opacas e inconsistentes.
+- **Erosão ou Extrapolação de Limites (verde)**: falha na articulação das fronteiras, causando difusão de responsabilidade e perda de governabilidade.
+
+💡 **Setas de interdependência:**  
+Cada modo de ruptura influencia os demais, criando **ciclos de retroalimentação** que podem intensificar a fragilidade sistêmica.
+
+
+
+
+
+
+
+
+
+
+
+
 ## 7.5 Implicações para Sistemas Híbridos Humano–IA
 
 Esta subseção conecta a estrutura abstrata ao domínio dos sistemas híbridos.
@@ -200,52 +312,54 @@ Esses **ciclos de retroalimentação** podem produzir **estabilidade reforçada 
 
 ### 7.5.2 Riscos da Coerência Imposta pela Automação
 
-Embora os sistemas algorítmicos possam facilitar a coordenação e reduzir atritos operacionais, a **dependência excessiva de coerência automatizada** introduz vulnerabilidades sistêmicas quando o **Campo relacional** não é adequadamente incorporado na análise. A coerência imposta por automação — ainda que aparente eficaz do ponto de vista técnico — pode comprometer a **inteligibilidade**, a **accountability** e a **adaptabilidade** se as dinâmicas estruturais da tríade não forem consideradas de forma integrada.
+Sistemas algorítmicos podem facilitar a coordenação e reduzir atritos operacionais, mas a **dependência excessiva de coerência automatizada** introduz vulnerabilidades sistêmicas quando o **Campo relacional** não é devidamente considerado. Coerência imposta por automação — ainda que tecnicamente eficiente — pode comprometer a **inteligibilidade**, a **accountability** e a **adaptabilidade**, caso as dinâmicas estruturais da tríade não sejam integradas à análise.
 
-**Dependência excessiva do alinhamento algorítmico.**
+### Dependência excessiva do alinhamento algorítmico
 
-Processos automatizados podem produzir coerência aparente ao otimizar resultados decisórios, sincronizar ações entre camadas ou assegurar consistência procedimental. Entretanto, na ausência de sensibilidade ao Campo, essas intervenções tendem a gerar **coerência dissociada da realidade relacional**, criando desalinhamentos entre estruturas sociais, cognitivas e institucionais. Tal desconexão pode reduzir a interpretabilidade do sistema, obscurecer condições de intervenção humana ou institucional e comprometer a confiança coletiva.
+Processos automatizados podem gerar coerência aparente ao otimizar resultados, sincronizar ações entre camadas ou assegurar consistência procedimental. Contudo, sem sensibilidade ao Campo, essas intervenções tendem a produzir **coerência dissociada da realidade relacional**, criando desalinhamentos entre estruturas sociais, cognitivas e institucionais. Essa desconexão reduz a interpretabilidade do sistema, obscurece condições de intervenção humana ou institucional e compromete a confiança coletiva.
 
-**Riscos de rigidez e supressão da pluralidade.**
+### Rigidez e supressão da pluralidade
 
-A coerência mecanicamente imposta pode **constranger a diversidade de perspectivas, abordagens ou interpretações** presentes no sistema. Algoritmos que uniformizam decisões podem inadvertidamente reforçar dependência de trajetória, diminuindo flexibilidade e capacidade adaptativa. Em sistemas híbridos complexos, essa rigidez operacional limita a resposta a eventos inesperados, novas informações ou dilemas éticos, aumentando a probabilidade de falhas latentes e dificultando a resiliência sistêmica.
+A coerência mecanicamente imposta pode **restringir a diversidade de perspectivas, abordagens e interpretações** presentes no sistema. Algoritmos que uniformizam decisões reforçam dependência de trajetória, diminuindo flexibilidade e capacidade adaptativa. Em sistemas híbridos complexos, essa rigidez operacional limita a resposta a eventos inesperados, novas informações ou dilemas éticos, aumentando a probabilidade de falhas latentes e dificultando a resiliência sistêmica.
 
-**Desconexão entre normatividade e operacionalidade.**
+### Desconexão entre normatividade e operacionalidade
 
-A coerência automatizada frequentemente privilegia o alinhamento funcional ou procedimental em detrimento das normas e valores presentes no Campo. Quando os outputs algorítmicos conflitam com valores institucionais, normas éticas ou expectativas sociais, verifica-se a **erosão da coerência normativa**. Participantes podem cumprir tecnicamente os resultados automatizados, percebendo-os, contudo, como desalinhados com a finalidade institucional, obrigações éticas ou legitimidade social. Esta disjunção compromete confiança, perturba a legitimidade e dificulta a governança reflexiva.
+A coerência automatizada frequentemente privilegia o alinhamento funcional ou procedimental em detrimento das normas e valores do Campo. Quando os outputs algorítmicos conflitam com valores institucionais, normas éticas ou expectativas sociais, ocorre a **erosão da coerência normativa**. Participantes podem cumprir tecnicamente os resultados automatizados, percebendo-os, contudo, como desalinhados com finalidades institucionais, obrigações éticas ou legitimidade social. Essa disjunção compromete confiança, perturba a legitimidade e dificulta a governança reflexiva.
 
-**Efeitos em cascata sobre a governança.**
+### Efeitos em cascata sobre a governança
 
-Falhas de alinhamento sensível ao Campo reverberam pela tríade, afetando tanto os **Limites** quanto a coerência sistêmica. Sistemas automatizados que produzem outputs consistentes, porém opacos, podem inadvertidamente **difundir responsabilidades** entre atores humanos e institucionais. Interpretações equivocadas ou confiança acrítica nos resultados algorítmicos podem originar ciclos de retroalimentação que amplificam fragilidades latentes, gerando efeitos em cascata de difícil detecção e correção. Assim, a **imposição mecânica de coerência**, quando dissociada da sensibilidade relacional, paradoxalmente compromete tanto a inteligibilidade quanto a estabilidade sistêmica.
+Falhas de alinhamento sensível ao Campo reverberam pela tríade, afetando **Limites** e coerência sistêmica. Sistemas automatizados que produzem outputs consistentes, porém opacos, podem **difundir responsabilidades** entre atores humanos e institucionais. Interpretações equivocadas ou confiança acrítica nos resultados algorítmicos podem gerar ciclos de retroalimentação que ampliam fragilidades latentes, produzindo efeitos em cascata de difícil detecção e correção. Assim, a **imposição mecânica de coerência**, quando dissociada da sensibilidade relacional, compromete tanto a inteligibilidade quanto a estabilidade sistêmica.
 
-Em síntese, embora a automação possa reforçar processos de alinhamento, esses riscos evidenciam a necessidade de integrar **consciência do Campo e calibração de Limites** no design, implementação e monitoramento de sistemas híbridos humano–IA. Sustentar coerência adaptativa, inteligível e responsável exige atenção contínua às condições **relacionais e normativas** que estruturam o sistema, indo além da eficiência algorítmica para assegurar governabilidade efetiva.
+### Síntese
+
+Embora a automação possa reforçar processos de alinhamento, os riscos destacados evidenciam a necessidade de integrar **consciência do Campo e calibração de Limites** no design, implementação e monitoramento de sistemas híbridos humano–IA. Sustentar coerência adaptativa, inteligível e responsável exige atenção contínua às condições **relacionais e normativas**, ultrapassando a mera eficiência algorítmica para assegurar governabilidade efetiva.
 
 ### 7.5.3 Limites como Salvaguardas Essenciais
 
-Em sistemas híbridos humano–IA, os **Limites** funcionam como mecanismos estruturais fundamentais para a manutenção da inteligibilidade, da accountability e da capacidade adaptativa. Embora a participação da IA e a coerência automatizada possam aumentar a eficiência do sistema, na ausência de fronteiras bem definidas, esses mesmos mecanismos correm o risco de produzir fragilidade estrutural. Limites não operam meramente como restrições; constituem **salvaguardas estruturais** que preservam a integridade da tríade.
+Em sistemas híbridos humano–IA, os **Limites** atuam como mecanismos estruturais fundamentais para a manutenção da **inteligibilidade**, da **accountability** e da **capacidade adaptativa**. Embora a participação da IA e a coerência automatizada possam aumentar a eficiência, a ausência de fronteiras claras pode gerar **fragilidade estrutural**. Limites não funcionam apenas como restrições; constituem **salvaguardas estruturais** que preservam a integridade da tríade.
 
-**Preservação da agência diferenciada.**
+### Preservação da agência diferenciada
 
-Limites explícitos e implícitos delineiam os papéis e responsabilidades de **atores humanos, instituições e agentes algorítmicos**. Ao manter clara diferenciação, eles evitam a sobre-automação, a delegação indevida de autoridade decisória ou a confusão de responsabilidades. Essa clareza estrutural assegura que cada tipo de agente atue dentro de seu domínio de competência, contribuindo para ações coordenadas e responsabilizáveis dentro do Campo relacional.
+Limites explícitos e implícitos delineiam os papéis e responsabilidades de **atores humanos, instituições e agentes algorítmicos**. Ao manter clara diferenciação, evitam-se sobre-automação, delegação indevida de autoridade decisória ou confusão de responsabilidades. Essa clareza estrutural assegura que cada tipo de agente atue dentro de seu domínio de competência, promovendo ações coordenadas e responsabilizáveis no Campo relacional.
 
-**Accountability e responsabilidade distribuída.**
+### Accountability e responsabilidade distribuída
 
-Os limites funcionam como mecanismos de supervisão e intervenção, permitindo que os participantes atribuam responsabilidades de forma adequada. Limites explícitos — tais como políticas, protocolos técnicos ou regras procedimentais — oferecem quadros inspecionáveis para governança. Limites implícitos, decorrentes de restrições cognitivas, institucionais e éticas, complementam as estruturas formais ao moldar a forma como os atores interpretam e exercem autoridade. Em conjunto, essas fronteiras garantem que a accountability seja **distribuída e inteligível**, mitigando o risco de difusão de responsabilidade em sistemas híbridos complexos.
+Os limites funcionam como mecanismos de supervisão e intervenção, permitindo que os participantes atribuam responsabilidades de forma adequada. Limites explícitos — como políticas, protocolos técnicos ou regras procedimentais — oferecem quadros inspecionáveis de governança. Limites implícitos, derivados de restrições cognitivas, institucionais e éticas, complementam essas estruturas ao moldar como os atores interpretam e exercem autoridade. Em conjunto, essas fronteiras garantem que a **accountability seja distribuída e inteligível**, mitigando o risco de difusão de responsabilidade em sistemas híbridos complexos.
 
-**Prevenção de rupturas estruturais.**
+### Prevenção de rupturas estruturais
 
-Os limites desempenham papel crítico na mitigação do **colapso do Campo** e da **quebra de coerência**, os principais modos de ruptura estrutural identificados na Seção 7.4.2. Ao definir ações permissíveis, escopos de autoridade e caminhos de escalonamento, os limites estabilizam dinâmicas relacionais e sustentam o alinhamento inteligível. Fronteiras bem calibradas previnem rigidez excessiva sem permitir sub-limitação, mantendo tanto a adaptabilidade quanto a resiliência do sistema.
+Limites desempenham papel crítico na mitigação do **colapso do Campo** e da **quebra de coerência**, principais modos de ruptura estrutural (Seção 7.4.2). Ao definir ações permissíveis, escopos de autoridade e caminhos de escalonamento, eles estabilizam dinâmicas relacionais e sustentam o alinhamento inteligível. Fronteiras bem calibradas previnem rigidez excessiva sem permitir sub-limitação, mantendo adaptabilidade e resiliência do sistema.
 
-**Integração de limites no design de sistemas híbridos.**
+### Integração de limites no design de sistemas híbridos
 
 Limites efetivos são incorporados à arquitetura do sistema, aos processos de governança e aos fluxos operacionais. Exemplos incluem:
 
-- Estruturas políticas que especificam condições para decisões automatizadas
-- Protocolos técnicos que definem limiares de intervenção
-- Sistemas de alerta e monitoramento que sinalizam violações ou anomalias potenciais
-- Mecanismos de governança participativa que envolvem stakeholders na revisão e ajuste das fronteiras
+- Estruturas políticas que especificam condições para decisões automatizadas;
+- Protocolos técnicos que definem limiares de intervenção;
+- Sistemas de alerta e monitoramento que sinalizam violações ou anomalias potenciais;
+- Mecanismos de governança participativa que envolvem stakeholders na revisão e ajuste das fronteiras.
 
-Integrar limites ao design de sistemas híbridos assegura que agentes humanos e de IA operem **dentro de um framework relacionalmente inteligível e eticamente coerente**, preservando tanto a estabilidade sistêmica quanto a accountability. Limites não são obstáculos à automação ou ao alinhamento; constituem **facilitadores de governança sustentável**, garantindo que Campo e Coerência permaneçam coerentes, legíveis e adaptáveis ao longo do tempo.
+Integrar limites ao design de sistemas híbridos assegura que agentes humanos e de IA operem **dentro de um framework relacionalmente inteligível e eticamente coerente**, preservando estabilidade sistêmica e accountability. Limites não são obstáculos à automação ou ao alinhamento; constituem **facilitadores de governança sustentável**, garantindo que Campo e Coerência permaneçam coerentes, legíveis e adaptáveis ao longo do tempo.
 
 ### 7.5.4 Observações Integrativas
 
@@ -274,3 +388,6 @@ A análise evidencia que a estrutura triádica é **mínima e irreduzível**. A 
 O modelo triádico apresenta **relevância direta para a governança e o desenho institucional**. Ao conceituar sistemas de IA como participantes ativos de um Campo relacional e ao reconhecer a necessidade estrutural de Coerência e Limites, formuladores de políticas e designers institucionais podem antecipar riscos de sobre-automação, desalinhamento e opacidade. O modelo oferece um arcabouço conceitual e operacional para **desenvolver mecanismos de governança adaptativa**, assegurando que sistemas híbridos permaneçam inteligíveis, responsáveis e resilientes ao longo do tempo.
 
 Como preparação para a Seção 8, a estrutura triádica atua como **ponte conceitual entre análise estrutural e governança aplicada**, orientando o desenvolvimento de diretrizes práticas, salvaguardas institucionais e intervenções políticas destinadas a sustentar a coerência relacional em ambientes sociotécnicos caracterizados pela integração de agentes humanos e artificiais. O próximo capítulo expandirá esta base teórica para explorar **estratégias de governança específicas, mecanismos de supervisão e implicações políticas**, demonstrando como o modelo triádico pode orientar o desenho e a avaliação de sistemas híbridos responsáveis, adaptativos e eticamente alinhados.
+
+
+
