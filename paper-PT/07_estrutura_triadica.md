@@ -434,11 +434,40 @@ Cada bloco mostra **efeitos progressivos e interdependentes**, enfatizando como 
 ---
 
 
+```mermaid
+flowchart TD
+    A[💠 Estrutura Triádica<br>Governança | Inteligibilidade | Accountability] --> B[🔻 Modos de Ruptura]
 
+    B --> C1[🟢 Colapso do Campo<br>Perda do solo relacional compartilhado]
+    B --> C2[🟡 Quebra de Coerência<br>Desalinhamento entre camadas do sistema]
+    B --> C3[🔴 Erosão / Extrapolação de Limites<br>Falha na articulação das fronteiras]
 
+    C1 --> D1[💔 Relações fragmentadas ou opacas]
+    C1 --> D2[⚠️ Tomada de decisão contestada ou mal interpretada]
+    C1 --> D3[🛠 Mecanismos formais persistem, mas ineficazes]
 
+    C2 --> E1[⏳ Desalinhamento temporal]
+    C2 --> E2[🔄 Desalinhamento funcional]
+    C2 --> E3[⚖️ Desalinhamento normativo]
+    C2 --> E4[🔍 Cadeias decisórias opacas e resultados inconsistentes]
 
+    C3 --> F1[⏱ Adiamento ou diluição da responsabilidade]
+    C3 --> F2[🧱 Limites rígidos ou mal aplicados]
+    C3 --> F3[🚫 Supressão de julgamento contextual e aprendizagem]
 
+    style C1 fill:#d1f7d1,stroke:#333,stroke-width:1px
+    style C2 fill:#fff3b0,stroke:#333,stroke-width:1px
+    style C3 fill:#f7d1d1,stroke:#333,stroke-width:1px
+```
+
+💡 **Explicação visual:**
+
+* **A:** Estrutura triádica como base de estabilidade.
+* **B:** Início da vulnerabilidade aos modos de ruptura.
+* **C1, C2, C3:** Os três modos, codificados por cor (verde, amarelo, vermelho) para impacto e legibilidade.
+* **D, E, F:** Consequências específicas e exemplos de cada modo, mostrando como o colapso do campo, a quebra de coerência e os limites falhos afetam o sistema.
+
+---
 
 ## 7.5 Implicações para Sistemas Híbridos Humano–IA
 
