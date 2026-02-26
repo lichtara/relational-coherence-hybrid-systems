@@ -309,7 +309,41 @@ flowchart TD
 
 ---
 
+```mermaid
+flowchart TD
+    A[Estrutura Triádica] --> B[Campo Relacional]
+    A --> C[Coerência]
+    A --> D[Limites]
 
+    B --> E[Colapso do Campo]
+    C --> F[Quebra de Coerência]
+    D --> G[Erosão / Extrapolação de Limites]
+
+    E --> H[Perda de significado compartilhado]
+    F --> I[Desalinhamento temporal, funcional e normativo]
+    G --> J[Confusão de responsabilidade e supervisão]
+
+    H --> K[Fragilidade sistêmica]
+    I --> K
+    J --> K
+
+    style B fill:#FFEB99,stroke:#FFB300,stroke-width:2px
+    style C fill:#99D6FF,stroke:#3399FF,stroke-width:2px
+    style D fill:#FF9999,stroke:#FF3333,stroke-width:2px
+    style E fill:#FFD966,stroke:#FFB300,stroke-width:2px
+    style F fill:#66CCFF,stroke:#3399FF,stroke-width:2px
+    style G fill:#FF6666,stroke:#FF3333,stroke-width:2px
+    style K fill:#B3B3B3,stroke:#666666,stroke-width:2px,stroke-dasharray: 5 5
+```
+
+### 💡 Como funciona este diagrama:
+
+* **Estrutura triádica** é a base do sistema: Campo, Coerência e Limites.
+* Cada elemento da tríade pode gerar um modo de ruptura se não for sustentado: Colapso do Campo, Quebra de Coerência, Erosão/Extrapolação de Limites.
+* Cada modo de ruptura produz impactos concretos no sistema, culminando na **fragilidade sistêmica**, que é o efeito final da falha integrada da tríade.
+* As cores ajudam a diferenciar os componentes e suas rupturas.
+
+---
 
 
 
