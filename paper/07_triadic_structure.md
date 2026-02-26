@@ -4,8 +4,6 @@
 
 Integrate **Field, Coherence, and Limit** into a **triadic model** for hybrid human–AI systems, establishing the minimal and irreducible conditions for relational governability.
 
----
-
 ## **7.1 Rationale for a Triadic Model**
 
 * Limitations of dyadic/modular models:
@@ -14,9 +12,7 @@ Integrate **Field, Coherence, and Limit** into a **triadic model** for hybrid hu
   * Optimization-centered: ignores Limits → risk of enforced coherence, brittleness.
   * Boundary-centered: ignores Field → risk of destabilizing relational patterns.
 * Triadic model: Field + Coherence + Limit = structurally integrated, mutually constitutive, governance-relevant.
-
----
-
+  
 ## **7.2 Structural Definitions and Roles**
 
 ### **Field**
@@ -44,8 +40,6 @@ Integrate **Field, Coherence, and Limit** into a **triadic model** for hybrid hu
 * Explicit (policies, rules, protocols) vs. Implicit (cognitive, institutional, ethical)
 * Continuous interaction with Field and Coherence ensures intelligibility and legitimacy.
 
----
-
 ## **7.3 Relational Dynamics Within the Triad**
 
 ### **Dyadic Interactions**
@@ -63,8 +57,6 @@ Integrate **Field, Coherence, and Limit** into a **triadic model** for hybrid hu
    * Limits are enacted within Field, reshaping relational structure.
    * Misalignment → shadow practices, fragility; alignment → predictability and trust.
 
----
-
 ## **7.4 Conditions of Stability and Rupture**
 
 ### **7.4.1 Structural Stability Conditions**
@@ -79,8 +71,6 @@ Integrate **Field, Coherence, and Limit** into a **triadic model** for hybrid hu
 * **Coherence breakdown:** misalignment across layers → opaque decision chains, normative incoherence.
 * **Limit erosion/overextension:** boundaries fail or overconstrain → diffusion of responsibility, rigidity.
 * Cascading effects often emerge from interdependence of the triad.
-
----
 
 ## **7.5 Implications for Hybrid Human–AI Systems**
 
@@ -112,8 +102,6 @@ Integrate **Field, Coherence, and Limit** into a **triadic model** for hybrid hu
   * Evaluate automated coherence periodically
   * Adapt Limits dynamically
 
----
-
 ## **7.6 Summary and Transition to Governance Implications**
 
 * Triadic model is **minimal and irreducible**; absence/weakness of any element → systemic pathologies.
@@ -122,9 +110,7 @@ Integrate **Field, Coherence, and Limit** into a **triadic model** for hybrid hu
   * Supports adaptive governance, intelligibility, accountability.
 * Serves as **conceptual bridge** to Section 8, which develops concrete governance strategies and oversight mechanisms for hybrid systems.
 
----
-
-💡 **Key Conceptual Takeaways**
+**Key Conceptual Takeaways**
 
 1. Triad = Field + Coherence + Limit → mutually reinforcing, necessary for governability.
 2. Structural stability depends on thresholds, articulated limits, and legible Field.
@@ -397,4 +383,5 @@ The analysis demonstrates that the triadic structure is **both minimal and irred
 The triadic model is **directly relevant for governance and institutional design**. By conceptualizing AI systems as participants within a relational Field and by acknowledging the structural necessity of Coherence and Limits, policymakers and institutional designers can anticipate risks of over-automation, misalignment, and opacity. The model provides a framework for **designing adaptive governance mechanisms**, ensuring that hybrid systems remain intelligible, accountable, and resilient over time.
 
 In preparation for Section 8, the triadic framework serves as a **conceptual bridge between structural analysis and applied governance**. It informs the development of practical guidelines, institutional safeguards, and policy interventions aimed at sustaining relational coherence in socio-technical environments characterized by the integration of human and AI agents. The next chapter will extend this theoretical foundation to explore **specific governance strategies, oversight mechanisms, and policy implications**, illustrating how the triadic model can guide the design and evaluation of accountable, adaptive, and ethically aligned hybrid systems.
+
 
