@@ -345,19 +345,37 @@ flowchart TD
 
 ---
 
+```mermaid
+flowchart TD
+    style A fill:#FFD700,stroke:#333,stroke-width:2px
+    style B fill:#FF6F61,stroke:#333,stroke-width:2px
+    style C fill:#6FA3EF,stroke:#333,stroke-width:2px
+    style D fill:#C0C0C0,stroke:#333,stroke-width:2px
 
+    A[Campo Relacional Compartilhado<br> Base da Inteligibilidade] --> B[Colapso do Campo<br> Perda do solo relacional]
+    A --> C[Quebra de Coerência<br> Desalinhamento entre camadas]
+    A --> D[Erosão ou Extrapolação de Limites<br> Fronteiras enfraquecidas ou rígidas]
 
+    B --> C
+    B --> D
+    C --> D
+    D --> B
 
+    subgraph Nota
+        direction LR
+        N[ Observação: Esses modos tendem a reforçar-se mutuamente, produzindo efeitos em cascata.]
+    end
+```
 
+### Como interpretar:
 
+* **Campo Relacional Compartilhado**: é a base da triádica — significado compartilhado, coordenação, confiança.
+* **Colapso do Campo**: ocorre quando o solo relacional se fragmenta.
+* **Quebra de Coerência**: desalinhamento entre camadas temporais, funcionais e normativas.
+* **Erosão/Extrapolação de Limites**: falha na articulação das fronteiras, podendo diluir ou rigidificar regras e responsabilidades.
+* As setas mostram **interdependência e reforço mútuo** entre os modos de ruptura.
 
-
-
-
-
-
-
-
+---
 
 
 
