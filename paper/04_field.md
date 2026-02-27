@@ -1,5 +1,7 @@
 # 04 — Field
 
+Among the three elements of the proposed triadic structure, this chapter introduces the first: the Field.
+
 ## 4.1 Definition of Field
 
 In the context of hybrid human–AI–institutional systems, **Field** is defined as the
@@ -111,4 +113,5 @@ If *Field* defines *where* interactions occur,
 *Coherence* defines *how* these interactions remain intelligible, compatible, and sustainable over time.
 
 The next section introduces a formal definition of **Coherence** as a structural property emerging within — and constrained by — the field.
+
 
