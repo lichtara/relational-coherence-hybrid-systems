@@ -34,11 +34,16 @@ Tratar o Campo como uma condição estrutural torna possível explicar por que f
 
 Um campo é composto por dimensões estruturais interativas, incluindo, mas não se limitando a:
 
-1. Topologia relacional A configuração das conexões entre agentes (humanos, algorítmicos e institucionais).
-2. Estruturas de restrição Regras formais e informais, políticas, affordances técnicas e proibições.
-3. Fluxos informacionais A forma como a informação é gerada, filtrada, amplificada, suprimida ou retardada.
-4. Dinâmicas temporais Os ritmos, ciclos de retroalimentação e atrasos que governam interação e resposta.
-5. Distribuição de poder Assimetrias na agência, na autoridade decisória e na alavancagem sistêmica.
+1. **Topologia relacional**
+A configuração das conexões entre agentes (humanos, algorítmicos e institucionais).
+2. **Estruturas de restrição**
+Regras formais e informais, políticas, affordances técnicas e proibições.
+3. **Fluxos informacionais** 
+A forma como a informação é gerada, filtrada, amplificada, suprimida ou retardada.
+5. **Dinâmicas temporais** 
+Os ritmos, ciclos de retroalimentação e atrasos que governam interação e resposta.
+6. **Distribuição de poder**
+Assimetrias na agência, na autoridade decisória e na alavancagem sistêmica.
 
 Essas dimensões determinam conjuntamente o estado do campo em um dado momento.
 
