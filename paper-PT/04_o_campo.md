@@ -1,5 +1,7 @@
 # 04 — Campo
 
+Dentre os três elementos da estrutura triádica proposta, este capítulo introduz o primeiro: o Campo.
+
 ## 4.1 Definição de Campo
 
 No contexto de sistemas híbridos humano–IA–institucionais, Campo é definido como o espaço relacional estruturado no interior do qual interações, decisões, restrições e influências ocorrem — e por meio do qual a governabilidade é sustentada ou degradada.
