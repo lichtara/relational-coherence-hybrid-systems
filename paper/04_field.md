@@ -3,31 +3,35 @@
 ## 4.1 Definition of Field
 
 In the context of hybrid human–AI–institutional systems, **Field** is defined as the
-**structured relational space** within which interactions, decisions, constraints, and influences occur.
+**structured relational space** within which interactions, decisions, constraints, and influences occur — and through which governability is either sustained or degraded.
 
-A field is not an entity, agent, or substrate.  
-It is a **relational configuration** that emerges from the interaction of:
+Field does not refer to an entity, an agent, or a technical substrate.
+It designates a **relational configuration** that emerges from the ongoing coupling of:
 
-- Human agents
-- Artificial systems
-- Institutional rules
-- Informational flows
-- Temporal and contextual constraints
+* Human agents
+* Artificial systems
+* Institutional rules and procedures
+* Informational flows
+* Temporal and contextual constraints
 
-Formally, a field can be understood as the **set of relational conditions** that determine what actions are possible, probable, or constrained for the agents operating within it.
+Rather than describing individual actions, Field captures the **conditions that precede and shape action**. Formally, it can be understood as the **set of relational conditions** that determine which actions are possible, probable, intelligible, or effectively constrained for agents operating within a system.
+
+This definition directly addresses a central problem identified in contemporary AI governance: systems may remain technically functional while losing relational clarity, making it increasingly difficult to locate agency, interpret decisions, or assign responsibility. Field names the level at which such losses occur.
 
 ## 4.2 Field as a Structural Condition (Not a Metaphor)
 
-In this model, *Field* is treated as a **structural and ontological condition**, not as a metaphorical or symbolic construct.
+In this model, *Field* is treated as a **structural and ontological condition**, not as a metaphorical, symbolic, or purely analytical construct.
 
 The field is:
 
-- **Observable indirectly** through interaction patterns, decision dynamics, and systemic outcomes
-- **Structuring**, not descriptive — it shapes behavior rather than merely reflecting it
-- **Non-neutral**, as it embeds asymmetries of power, visibility, access, and influence
+* **Indirectly observable**, through patterns of interaction, decision dynamics, and systemic outcomes
+* **Structuring rather than descriptive**, shaping behavior instead of merely reflecting it
+* **Non-neutral**, embedding asymmetries of power, visibility, access, and influence
 
-A field exists whenever relational constraints precede individual actions.  
-No agent operates outside a field; agents operate *through* it.
+A field exists wherever relational constraints precede individual action.
+No agent — human, institutional, or artificial — operates outside a field; all agency is exercised *through* it.
+
+Treating Field as a structural condition makes it possible to explain why governance failures often emerge without any single point of breakdown. When the field itself becomes opaque, fragmented, or misaligned, systems may continue to perform while progressively losing intelligibility, accountability, and legitimacy. Addressing governability therefore requires attention not only to actions or rules, but to the relational structure that conditions them.
 
 ## 4.3 Components of a Field
 
@@ -65,29 +69,29 @@ The field is therefore not static; it evolves as models are retrained, policies 
 
 ## 4.5 Field and Governability
 
-Governability depends not on isolated agents, but on the **structural properties of the field**.
+Governability in hybrid human–AI systems depends not on the behavior of isolated agents, but on the **structural properties of the field** within which those agents operate.
 
-A system becomes difficult or impossible to govern when:
+A system becomes difficult or impossible to govern when the field fails to provide stable conditions for intelligibility, coordination, and responsibility. This occurs, in particular, when:
 
-- Field boundaries are undefined or unstable
-- Informational flows are asymmetric or opaque
-- Constraints are implicit rather than explicit
-- Feedback loops operate faster than institutional response
+* **Field boundaries are undefined or unstable**, making it unclear where authority, responsibility, or intervention rights begin and end
+* **Informational flows are asymmetric or opaque**, preventing participants from understanding how decisions are produced or propagated
+* **Constraints remain implicit rather than explicit**, relying on tacit assumptions instead of inspectable rules or procedures
+* **Feedback loops operate faster than institutional response**, outpacing human oversight, deliberation, or corrective capacity
 
-In such cases, governance attempts focus on surface behaviors while the underlying field remains unaddressed.
+Under these conditions, governance efforts tend to focus on regulating surface behaviors, outputs, or isolated decisions. The underlying relational structure remains unexamined, allowing systemic drift to continue even as formal compliance or performance targets are met.
 
 ## 4.6 Pathological Field Conditions
 
-Certain field configurations systematically undermine coherence and sustainability.
+Certain configurations of the field systematically undermine coherence, accountability, and long-term sustainability. These **pathological field conditions** do not typically manifest as immediate technical failures, but as gradual degradation of relational intelligibility.
 
-Examples include:
+Common patterns include:
 
-- **Overconstrained fields**, where agents lack meaningful degrees of freedom
-- **Underconstrained fields**, where responsibility and accountability dissolve
-- **Fragmented fields**, where agents operate under incompatible local logics
-- **Opaque fields**, where causal relations are inaccessible to participants
+* **Overconstrained fields**, in which agents lack meaningful degrees of freedom, leading to rigidity, performative compliance, or suppressed judgment
+* **Underconstrained fields**, in which responsibilities are weakly specified, allowing agency and accountability to diffuse across human, institutional, and algorithmic layers
+* **Fragmented fields**, where agents operate under incompatible local logics, producing coordination failures and inconsistent interpretations of authority or obligation
+* **Opaque fields**, where causal relations, decision pathways, or sources of influence are inaccessible to participants, eroding trust and contestability
 
-These conditions often precede systemic failure, erosion of trust, and institutional collapse.
+These conditions often precede systemic failure rather than follow it. By the time breakdowns become visible at the level of outcomes or harms, the field has typically already lost the relational structure required for effective intervention, repair, or institutional learning.
 
 ## 4.7 Field as a Necessary but Insufficient Condition
 
@@ -107,3 +111,4 @@ If *Field* defines *where* interactions occur,
 *Coherence* defines *how* these interactions remain intelligible, compatible, and sustainable over time.
 
 The next section introduces a formal definition of **Coherence** as a structural property emerging within — and constrained by — the field.
+
