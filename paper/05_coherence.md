@@ -107,6 +107,8 @@ A system may remain internally coherent while producing unsustainable, unjust, o
 
 Coherence, therefore, must be **structurally constrained** in order to support long-term governability.
 
+In the absence of structural limits, coherence itself may become a vector of systemic overreach.
+
 ## 5.8 Relationship Between Field and Coherence
 
 Field and coherence are analytically distinct but structurally interdependent.
@@ -127,3 +129,4 @@ and *Coherence* defines *how* those interactions remain intelligible,
 then *Limit* defines **how far** a system may expand, adapt, or automate without destabilizing its own conditions of governability.
 
 The next section introduces **Limit** as a structural condition that preserves differentiation of agency, accountability, and long-term systemic sustainability.
+
