@@ -1,5 +1,3 @@
-# 
-
 # 04 — Campo
 
 ## 4.1 Definição de Campo
