@@ -2,31 +2,34 @@
 
 ## 4.1 Definição de Campo
 
-No contexto de sistemas híbridos humano–IA–institucionais, **Campo** é definido como o **espaço relacional estruturado** dentro do qual ocorrem interações, decisões, restrições e influências.
+No contexto de sistemas híbridos humano–IA–institucionais, **Campo** é definido como o **espaço relacional estruturado** no interior do qual interações, decisões, restrições e influências ocorrem — e por meio do qual a governabilidade é sustentada ou degradada.
 
-Um campo não é uma entidade, agente ou substrato.
-Ele é uma **configuração relacional** que emerge da interação entre:
+Campo não se refere a uma entidade, a um agente ou a um substrato técnico. Ele designa uma **configuração relacional** que emerge do acoplamento contínuo entre:
 
-* Agentes humanos
-* Sistemas artificiais
-* Regras institucionais
-* Fluxos informacionais
-* Restrições temporais e contextuais
+* agentes humanos
+* sistemas artificiais
+* regras e procedimentos institucionais
+* fluxos informacionais
+* restrições temporais e contextuais
 
-Formalmente, um campo pode ser compreendido como o **conjunto de condições relacionais** que determinam quais ações são possíveis, prováveis ou restringidas para os agentes que operam em seu interior.
+Em vez de descrever ações individuais, o Campo captura as **condições que precedem e moldam a ação**. De forma mais formal, pode ser compreendido como o **conjunto de condições relacionais** que determinam quais ações são possíveis, prováveis, inteligíveis ou efetivamente restringidas para os agentes que operam em um sistema.
+
+Essa definição aborda diretamente um problema central identificado na governança contemporânea da IA: sistemas podem permanecer tecnicamente funcionais enquanto perdem clareza relacional, tornando cada vez mais difícil localizar a agência, interpretar decisões ou atribuir responsabilidade. Campo nomeia o nível no qual tais perdas ocorrem.
+interior.
 
 ## 4.2 Campo como Condição Estrutural (Não Metafórica)
 
-Neste modelo, *Campo* é tratado como uma **condição estrutural e ontológica**, e não como um constructo metafórico ou simbólico.
+Neste modelo, *Campo* é tratado como uma **condição estrutural e ontológica**, e não como um construto metafórico, simbólico ou meramente analítico.
 
-O campo é:
+O Campo é:
 
-* **Observável de forma indireta**, por meio de padrões de interação, dinâmicas decisórias e resultados sistêmicos
-* **Estruturante**, e não meramente descritivo — ele molda o comportamento em vez de apenas refletí-lo
-* **Não neutro**, pois incorpora assimetrias de poder, visibilidade, acesso e influência
+* **indiretamente observável**, por meio de padrões de interação, dinâmicas decisórias e resultados sistêmicos
+* **estruturante, e não descritivo**, moldando o comportamento em vez de apenas refletí-lo
+* **não neutro**, incorporando assimetrias de poder, visibilidade, acesso e influência
 
-Um campo existe sempre que restrições relacionais precedem ações individuais.
-Nenhum agente opera fora de um campo; os agentes operam *através* dele.
+Um campo existe sempre que restrições relacionais precedem a ação individual. Nenhum agente — humano, institucional ou artificial — opera fora de um campo; toda agência é exercida *através* dele.
+
+Tratar o Campo como uma condição estrutural torna possível explicar por que falhas de governança frequentemente emergem sem um único ponto identificável de ruptura. Quando o próprio campo se torna opaco, fragmentado ou desalinhado, os sistemas podem continuar a performar enquanto perdem progressivamente inteligibilidade, responsabilização e legitimidade. Abordar a governabilidade exige, portanto, atenção não apenas às ações ou às regras, mas à estrutura relacional que as condiciona.
 
 ## 4.3 Componentes de um Campo
 
@@ -64,29 +67,29 @@ O campo, portanto, não é estático; ele evolui à medida que modelos são reen
 
 ## 4.5 Campo e Governabilidade
 
-A **governabilidade** não depende de agentes isolados, mas das **propriedades estruturais do campo**.
+A governabilidade em sistemas híbridos humano–IA não depende do comportamento de agentes isolados, mas das **propriedades estruturais do campo** no interior do qual esses agentes operam.
 
-Um sistema torna-se difícil ou impossível de governar quando:
+Um sistema torna-se difícil — ou mesmo impossível — de governar quando o campo deixa de oferecer condições estáveis de inteligibilidade, coordenação e responsabilidade. Isso ocorre, em particular, quando:
 
-* As fronteiras do campo são indefinidas ou instáveis
-* Os fluxos informacionais são assimétricos ou opacos
-* As restrições são implícitas em vez de explícitas
-* Ciclos de **retroalimentação** operam mais rapidamente do que a resposta institucional
+* **as fronteiras do campo são indefinidas ou instáveis**, tornando incerto onde começam e terminam autoridade, responsabilidade ou direitos de intervenção
+* **os fluxos informacionais são assimétricos ou opacos**, impedindo que os participantes compreendam como decisões são produzidas ou propagadas
+* **as restrições permanecem implícitas em vez de explícitas**, apoiando-se em pressupostos tácitos em lugar de regras ou procedimentos inspecionáveis
+* **os ciclos de feedback operam mais rapidamente do que a resposta institucional**, superando a capacidade humana de supervisão, deliberação ou correção
 
-Nesses casos, as tentativas de **governança** concentram-se em comportamentos de superfície, enquanto o campo subjacente permanece inalterado.
+Sob essas condições, os esforços de governança tendem a se concentrar na regulação de comportamentos de superfície, outputs ou decisões isoladas. A estrutura relacional subjacente permanece inexplorada, permitindo que a deriva sistêmica continue mesmo quando requisitos formais de conformidade ou metas de desempenho são aparentemente atendidos.
 
 ## 4.6 Condições Patológicas de Campo
 
-Certas configurações de campo minam sistematicamente a coerência e a sustentabilidade.
+Certas configurações do campo minam sistematicamente a coerência, a responsabilização e a sustentabilidade de longo prazo. Essas **condições patológicas do campo** geralmente não se manifestam como falhas técnicas imediatas, mas como uma degradação gradual da inteligibilidade relacional.
 
-Exemplos incluem:
+Padrões recorrentes incluem:
 
-* **Campos super-restritos**, nos quais os agentes carecem de graus de liberdade significativos
-* **Campos sub-restritos**, nos quais responsabilidade e *accountability* se dissolvem
-* **Campos fragmentados**, nos quais agentes operam sob lógicas locais incompatíveis
-* **Campos opacos**, nos quais as relações causais são inacessíveis aos participantes
+* **campos excessivamente constrangidos**, nos quais os agentes carecem de graus significativos de liberdade, levando à rigidez, à conformidade performativa ou à supressão do julgamento
+* **campos sub-restritos**, nos quais as responsabilidades são fracamente especificadas, permitindo que agência e responsabilização se difundam entre camadas humanas, institucionais e algorítmicas
+* **campos fragmentados**, nos quais agentes operam sob lógicas locais incompatíveis, produzindo falhas de coordenação e interpretações inconsistentes de autoridade ou obrigação
+* **campos opacos**, nos quais relações causais, trajetórias decisórias ou fontes de influência são inacessíveis aos participantes, corroendo a confiança e a contestabilidade
 
-Essas condições frequentemente antecedem falhas sistêmicas, erosão da confiança e colapso institucional.
+Essas condições frequentemente **precedem** a falha sistêmica, em vez de segui-la. Quando rupturas se tornam visíveis no nível de resultados ou danos, o campo geralmente já perdeu a estrutura relacional necessária para uma intervenção eficaz, para processos de reparação ou para o aprendizado institucional.
 
 ## 4.7 Campo como Condição Necessária, mas Não Suficiente
 
