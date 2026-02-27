@@ -16,6 +16,8 @@ Optimization-driven models, common in AI alignment, control theory, and performa
 
 Regulatory and compliance-based approaches, by contrast, foreground boundaries, constraints, and formal accountability mechanisms as primary tools of governance. Although indispensable, these approaches frequently operate without a relational understanding of the systems they seek to govern. Limits imposed without sensitivity to field dynamics and coherence processes may become symbolic, selectively enforced, or actively destabilizing. In such cases, boundaries fail to sustain meaningful accountability or adaptive capacity, and may inadvertently undermine the very relational conditions required for effective governance.
 
+---
+
 The core problem addressed in this paper is therefore not the absence of governance mechanisms, but the lack of an integrated structural model capable of explaining how governability emerges and deteriorates in hybrid human–AI systems. Existing frameworks tend to treat field conditions, coherence processes, and limits as separable concerns, rather than as mutually constitutive elements of a single relational structure.
 
 This fragmentation obscures early signs of systemic drift. Hybrid systems may continue to meet performance benchmarks and compliance requirements while progressively losing relational legibility, diffusing responsibility, and undermining institutional trust. Governance failures thus tend to be detected only after harm has occurred, when corrective intervention is costly, contested, or ineffective.
@@ -23,3 +25,4 @@ This fragmentation obscures early signs of systemic drift. Hybrid systems may co
 This paper addresses this gap by formulating the problem of AI governance as a structural problem of relational coherence. It argues that governability in hybrid human–AI systems depends on a minimal and irreducible triadic structure composed of Field, Coherence, and Limit. Without an explicit account of how these elements interact, governance efforts remain reactive, fragmented, and vulnerable to cascading failure.
 
 By articulating this problem, the paper shifts the focus of AI governance from controlling behavior or optimizing outputs to sustaining the structural conditions under which agency, accountability, and meaning remain intelligible over time. This reframing establishes the foundation for the triadic model developed in subsequent sections and for the adaptive governance implications derived from it.
+
