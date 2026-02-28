@@ -540,7 +540,7 @@ O modelo triádico apresenta **relevância direta para a governança e o desenho
 
 Como preparação para a Seção 8, a estrutura triádica atua como **ponte conceitual entre análise estrutural e governança aplicada**, orientando o desenvolvimento de diretrizes práticas, salvaguardas institucionais e intervenções políticas destinadas a sustentar a coerência relacional em ambientes sociotécnicos caracterizados pela integração de agentes humanos e artificiais. O próximo capítulo expandirá esta base teórica para explorar **estratégias de governança específicas, mecanismos de supervisão e implicações políticas**, demonstrando como o modelo triádico pode orientar o desenho e a avaliação de sistemas híbridos responsáveis, adaptativos e eticamente alinhados.
 
-## 7.X Minimalidade da Estrutura Triádica
+## 7.6 Minimalidade da Estrutura Triádica
 
 A estrutura triádica proposta — **Campo, Coerência e Limite** — pretende ser não apenas integrada, mas **mínima**. Afirmar minimalidade implica sustentar que nenhum elemento adicional é estruturalmente necessário para explicar as condições de possibilidade da governabilidade em sistemas híbridos humano–IA.
 
@@ -568,3 +568,6 @@ A estrutura triádica é, portanto, mínima no sentido de que abrange as condiç
 
 Assim compreendida, a tríade não compete com frameworks adicionais, mas fornece o plano estrutural dentro do qual tais frameworks podem ser situados, avaliados ou integrados.
 
+## 7.7
+
+Tendo estabelecido a tríade como condição estrutural mínima da governabilidade, a seção seguinte traduz essa arquitetura em implicações diagnósticas e normativas para o desenho e supervisão de sistemas híbridos humano–IA.
