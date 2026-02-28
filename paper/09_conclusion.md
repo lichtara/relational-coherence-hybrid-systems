@@ -37,3 +37,5 @@ Where any one of them is neglected, fragility accumulates — often silently.
 The future of hybrid human–AI systems will not be determined solely by technical capability, but by whether institutions can preserve the structural conditions that make responsibility, accountability, and correction possible.
 
 The triadic framework offered here provides a minimal architecture for that task.
+
+Governability is not an intrinsic property of systems, but a structural condition that endures only while the field remains intelligible, coherence remains compatible, and limits differentiate agency — when these foundations erode, governance does not fail: it dissolves.
