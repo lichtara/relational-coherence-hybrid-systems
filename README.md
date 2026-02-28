@@ -1,4 +1,4 @@
-# Toward a Structural Model of Relational Coherence for Hybrid Human–AI Systems
+# The Triadic Structural Conditions of Governability in Hybrid Human–AI Systems.
 
 This repository contains the working materials for an academic paper proposing a **structural model of relational coherence** applicable to **hybrid human–AI–institutional systems**.
 
@@ -34,3 +34,4 @@ Work in progress — **conceptual paper (theoretical contribution)**.
 * **White paper** applying the model to real-world platforms and institutions
 * **Governance-oriented protocols** derived from the structural model
 * **Ontological formalization** of Field, Coherence, and Limit
+
