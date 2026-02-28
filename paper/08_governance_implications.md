@@ -18,7 +18,7 @@ For **Coherence**, governance must focus on alignment across temporal, functiona
 
 For **Limits**, governance requires treating boundaries as designed conditions of accountability rather than static constraints. Limits must define scopes of authority, escalation paths, and override conditions, and they must be subject to structured review as system scale, speed, or context changes.
 
-Taken together, these requirements imply a shift in governance posture: from reactive compliance toward **continuous structural stewardship**. Governance is no longer limited to enforcing rules after failure, but to maintaining the integrity of the relational conditions that make accountability, intelligibility, and adaptive control possible in the first place.
+Taken together, these requirements imply a shift in governance posture: from reactive compliance toward **continuous structural stewardship**. Governance is no longer limited to enforcing rules after failure, but to maintaining the integrity of the relational conditions that make accountability, intelligibility, and adaptive control possible in the first place. Governance thus shifts from regulating isolated outputs to stewarding structural conditions of intelligibility, accountability, and adaptive capacity.
 
 ### 8.2 Governing the Relational Field
 
@@ -71,6 +71,10 @@ Governing coherence in hybrid human–AI systems presents a structural tension: 
 
 The core governance challenge is distinguishing between **genuine systemic coherence**—which sustains alignment across layers while preserving agency—and **superficial consistency**, which masks misalignment through optimization or standardization. Governance mechanisms must therefore assess coherence without assuming that convergence, uniformity, or performance metrics are sufficient proxies for governability.
 
+Field governance therefore constitutes the infrastructural layer of adaptive governance, without which coherence assessment and boundary management cannot operate meaningfully. 
+
+Coherence governance must therefore remain epistemically modest: alignment is maintained, not imposed.
+
 #### 8.3.1 Evaluating Automated Coherence
 
 Coherence in automated and semi-automated systems must be evaluated across three interdependent dimensions: temporal, functional, and normative. Governance requires that each dimension be explicitly auditable, rather than inferred from aggregate system behavior.
@@ -107,7 +111,7 @@ In this sense, coherence governance is inseparable from institutional reflexivit
 
 This section reframes limits not as static constraints imposed on hybrid systems, but as **dynamic governance instruments** that actively sustain responsibility, intelligibility, and adaptability over time. In hybrid human–AI systems, limits are not peripheral safeguards; they are structural conditions that determine whether agency remains differentiated, accountable, and governable as systems evolve.
 
-Treating limits as fixed rules assumes a stable system topology. Hybrid systems violate this assumption by design: scale, speed, learning dynamics, and institutional embedding continuously shift the conditions under which decisions are made. Governance frameworks that rely on static limits therefore tend to fail in one of two ways—either through gradual erosion or through excessive rigidity. Dynamic limits are introduced here as a response to this structural reality.
+Treating limits as fixed rules assumes a stable system topology. Hybrid systems violate this assumption by design: scale, speed, learning dynamics, and institutional embedding continuously shift the conditions under which decisions are made. Governance frameworks that rely on static limits therefore tend to fail in one of two ways—either through gradual erosion or through excessive rigidity. Dynamic limits are introduced here as a response to this structural reality. Dynamic limits operationalize the third structural condition of governability, preserving differentiation under conditions of systemic evolution.
 
 #### 8.4.1 Designing Limits for Hybrid Agency
 
@@ -183,7 +187,7 @@ Anticipatory governance accepts uncertainty as a structural condition of hybrid 
 
 By operationalizing failure modes as governance diagnostics, this section establishes a practical bridge between the triadic theory of Chapter 07 and the adaptive governance paradigm developed in this chapter. The final section synthesizes these insights into a relational model of governance oriented toward long-term sustainability rather than short-term control.
 
-# 8.6 · Toward Adaptive and Relational Governance
+### 8.6 · Toward Adaptive and Relational Governance
 
 This chapter concludes by articulating a shift from static, rule-centered models of governance toward an **adaptive and relational paradigm** suited to hybrid human–AI systems. The preceding sections have demonstrated that governability does not arise from optimization alone, nor from compliance in isolation, but from the sustained integrity of relational structures that remain intelligible, contestable, and revisable over time.
 
@@ -198,3 +202,4 @@ Relational governance also reframes the role of institutions. Rather than acting
 In hybrid human–AI systems, governance cannot be fully delegated, automated, or stabilized once and for all. It must remain **situated, reflexive, and structurally aware**. The triadic framework developed in this work offers a minimal and irreducible lens for this task: when Field, Coherence, and Limit are jointly sustained, systems retain the capacity for adaptive governance. When any element is neglected, fragility accumulates, often invisibly.
 
 Toward adaptive and relational governance, then, is not a call for more regulation or more control, but for deeper structural attentiveness. Governable systems are not those that eliminate uncertainty, but those that can recognize misalignment, respond to emerging rupture, and recalibrate their relational foundations without collapsing into coercion or chaos.
+
