@@ -2,129 +2,149 @@
 
 ## 5.1 Definição de Coerência
 
-No âmbito de sistemas híbridos humano–IA–institucionais, **Coerência** é definida como a **compatibilidade estrutural e a inteligibilidade das interações que ocorrem dentro de um campo ao longo do tempo**.
+Em sistemas híbridos humano–IA–institucionais, **Coerência** é definida como a **compatibilidade estrutural e a inteligibilidade sustentada das interações que se desdobram em um Campo ao longo do tempo**.
 
-Coerência não é consenso, alinhamento de valores ou uniformidade comportamental.
-Trata-se de uma **propriedade sistêmica** que determina se as interações:
+Se o Campo define o espaço relacional onde a ação se torna possível, a Coerência define as condições sob as quais essa ação permanece mutuamente interpretável, não contraditória e estruturalmente sustentável.
 
-* permanecem mutuamente interpretáveis;
-* produzem resultados não contraditórios;
-* preservam a continuidade funcional entre agentes e subsistemas.
+Coerência não implica consenso, uniformidade normativa ou homogeneidade comportamental. Trata-se de uma **propriedade estrutural sistêmica** que determina se as dinâmicas internas de um sistema:
 
-Formalmente, um sistema apresenta coerência quando suas relações internas não geram contradições persistentes, fragmentação ou ciclos de retroalimentação desestabilizadores.
+- Permanecem interpretáveis entre agentes heterogêneos e subsistemas
+- Produzem resultados que não geram contradições estruturais persistentes
+- Preservam continuidade funcional à medida que decisões se propagam
 
-A coerência manifesta-se como uma **propriedade dinâmica**, observável na continuidade e na estabilidade das relações ao longo do tempo.
+Formalmente, há Coerência quando a dinâmica relacional de um sistema não produz fragmentação, negação silenciosa entre subsistemas ou ciclos de feedback desestabilizadores capazes de corroer inteligibilidade e governabilidade.
 
-## 5.2 Coerência como Propriedade Estrutural
+Sem Coerência, o Campo pode existir, mas torna-se internamente instável.
 
-A coerência é uma **condição estrutural emergente**, e não uma percepção subjetiva ou um juízo normativo.
+## 5.2 Coerência como Condição Estrutural Irredutível
 
-Um sistema pode aparentar ordem enquanto permanece estruturalmente incoerente.
-Por outro lado, um sistema pode admitir diversidade e dissenso mantendo-se coerente.
+Coerência é uma condição estrutural emergente — não percepção subjetiva, preferência normativa ou juízo avaliativo.
 
-A coerência existe quando:
+Ela não pode ser reduzida:
 
-* as ações realizadas dentro do campo são compatíveis com suas restrições;
-* os ciclos de retroalimentação reforçam a inteligibilidade em vez de amplificar ruído;
-* as decisões entre subsistemas não se anulam mutuamente.
+- Ao **Campo**, que define possibilidades relacionais mas não garante compatibilidade dinâmica.
+- Ao **Limite**, que estabelece fronteiras mas não assegura continuidade interpretativa dentro delas.
 
-É, portanto, possível analisar a coerência independentemente de avaliações morais, reconhecendo simultaneamente sua necessidade para a governabilidade.
+Um Campo pode estar claramente estruturado e ainda assim operar sob dinâmicas incoerentes.
 
-## 5.3 Dimensões da Coerência
+Limites podem estar formalmente estabelecidos e, ainda assim, decisões internas podem se anular mutuamente ou produzir efeitos contraditórios.
 
-A coerência manifesta-se em múltiplas dimensões estruturais:
+Coerência diz respeito à **compatibilidade estrutural das dinâmicas internas do sistema ao longo do tempo**.
+
+Sem ela:
+
+- A agência permanece localizada, mas torna-se imprevisível.
+- A responsabilidade pode estar formalmente atribuída, mas perde estabilidade interpretativa.
+- A coordenação se torna frágil ou meramente superficial.
+
+O que colapsa não é o funcionamento técnico imediato, mas a inteligibilidade contínua necessária à governabilidade.
+
+## 5.3 Dimensões Estruturais da Coerência
+
+A Coerência manifesta-se em dimensões interdependentes:
 
 1. **Coerência semântica**
-   Interpretabilidade compartilhada de sinais, categorias e resultados entre agentes.
-
+    
+    Interpretabilidade compartilhada de categorias, outputs e estados do sistema.
+    
 2. **Coerência operacional**
-   Compatibilidade entre procedimentos, protocolos e regras decisórias.
-
+    
+    Compatibilidade entre procedimentos, protocolos e lógicas de decisão.
+    
 3. **Coerência temporal**
-   Alinhamento entre tempos de resposta do sistema, ciclos de aprendizagem e ritmos institucionais.
-
+    
+    Alinhamento entre ciclos de aprendizagem, tempos de resposta e ritmos institucionais.
+    
 4. **Coerência relacional**
-   Estabilidade das expectativas entre agentes e subsistemas em interação.
-
+    
+    Estabilidade de expectativas quanto a papéis, autoridade e responsabilidade.
+    
 5. **Coerência causal**
-   Rastreabilidade entre ações, decisões e resultados, permitindo atribuição consistente de causalidade e responsabilidade.
+    
+    Rastreabilidade entre decisões, ações e consequências.
+    
 
-A ruptura em qualquer uma dessas dimensões pode comprometer a coerência global do sistema.
+O comprometimento persistente de qualquer dimensão tende a propagar instabilidade para o sistema como um todo.
 
-## 5.4 Coerência em Sistemas Híbridos Humano–IA
+## 5.4 Incoerência em Sistemas Híbridos Humano–IA
 
-Sistemas híbridos enfrentam desafios específicos de coerência devido às assimetrias entre componentes humanos e artificiais.
+Sistemas híbridos enfrentam desafios específicos de Coerência devido a assimetrias de velocidade, escala, representação e agência.
 
 Fontes recorrentes de incoerência incluem:
 
-* modelos interpretativos divergentes entre humanos e algoritmos;
-* objetivos de otimização desalinhados em relação às metas institucionais;
-* decisões automatizadas operando além das escalas temporais ou cognitivas humanas;
-* atualizações de modelos que alteram o comportamento do sistema sem adaptação institucional correspondente.
+- Modelos interpretativos divergentes entre atores humanos e sistemas algorítmicos
+- Objetivos de otimização desconectados de compromissos institucionais
+- Processos automatizados que excedem capacidades humanas de acompanhamento
+- Atualizações de modelo que alteram comportamento sem adaptação institucional correspondente
 
-Nesses sistemas, a incoerência frequentemente emerge não de falhas técnicas, mas de **desalinhamentos estruturais**.
+Nesses casos, a incoerência não decorre de falha técnica isolada, mas de **desalinhamento estrutural entre camadas do sistema**.
+
+O sistema pode continuar performando enquanto se torna internamente incompatível.
 
 ## 5.5 Coerência e Confiança
 
-A confiança não é a causa da coerência; ela é uma **consequência** de coerência sustentada ao longo do tempo.
+Confiança não é a origem da Coerência; é seu efeito estrutural ao longo do tempo.
 
-Quando sistemas exibem coerência:
+Quando há Coerência:
 
-* agentes podem formar expectativas confiáveis;
-* atribuições de responsabilidade tornam-se significativas;
-* erros podem ser identificados e corrigidos.
+- Expectativas tornam-se estabilizáveis
+- Atribuições de responsabilidade tornam-se contestáveis e revisáveis
+- Erros tornam-se detectáveis e corrigíveis
 
-Em contraste, a incoerência persistente leva à erosão da confiança, mesmo em sistemas tecnicamente funcionais.
+Quando há incoerência persistente, a confiança se deteriora mesmo sob eficiência operacional.
 
-O colapso da confiança é, portanto, mais bem compreendido como um **sintoma de incoerência estrutural**, e não apenas como um fenômeno social ou psicológico.
+O colapso de confiança deve ser entendido como sintoma estrutural de incoerência, não como fenômeno meramente psicológico.
 
 ## 5.6 Padrões Patológicos de Incoerência
 
-Diversos padrões recorrentes de incoerência são observados em sistemas híbridos contemporâneos:
+Padrões recorrentes incluem:
 
-* **Deriva semântica**
-  Quando o significado das saídas do sistema se altera mais rapidamente do que os usuários conseguem se adaptar.
+- **Deriva semântica** — categorias mudam mais rápido do que sua interpretação institucional
+- **Desalinhamento de feedback** — ciclos de aprendizagem reforçam distorções
+- **Difusão de responsabilidade** — cadeias causais atravessam camadas sem estabilização interpretativa
+- **Dessicronização temporal** — automação supera capacidade deliberativa
 
-* **Desalinhamento de retroalimentação**
-  Quando ciclos de otimização reforçam comportamentos não intencionais.
+Esses padrões tendem a se reforçar mutuamente antes que falhas visíveis ocorram.
 
-* **Difusão de responsabilidade**
-  Quando cadeias causais atravessam fronteiras institucionais e algorítmicas sem accountability.
+## 5.7 Coerência como Condição Necessária
 
-* **Dessincronização temporal**
-  Quando processos automatizados superam os mecanismos de governança.
+Coerência é condição necessária da governabilidade porque sustenta a continuidade interpretativa e a compatibilidade estrutural ao longo do tempo.
 
-Esses padrões frequentemente coexistem e se reforçam mutuamente.
+Sem Coerência:
 
-## 5.7 Coerência como Condição Necessária, mas Não Suficiente
+- O Campo permanece como espaço relacional, mas torna-se internamente contraditório.
+- Limites podem existir, mas tornam-se arbitrários ou inconsistentes em aplicação.
+- Intervenções tornam-se reativas, pois não há base estável para avaliação e correção.
 
-Embora a coerência seja essencial para a estabilidade do sistema, ela não impede, por si só, a sobreextensão, a exploração ou danos sistêmicos.
+Portanto, Coerência é necessária — mas, assim como o Campo, não suficiente.
 
-Um sistema pode ser internamente coerente e ainda assim produzir resultados insustentáveis ou injustos se:
+Ela requer:
 
-* carecer de fronteiras explícitas;
-* expandir seu escopo operacional sem controle;
-* produzir efeitos que excedam a capacidade institucional.
+- Um Campo estruturado onde possa emergir.
+- Limites que impeçam expansão ou automação desestabilizadoras.
 
-Assim, a coerência deve ser estruturalmente limitada.
+## 5.8 Relação Estrutural com Campo e Limite
 
-## 5.8 Relação entre Campo e Coerência
+A tríade começa aqui a se tornar inevitável:
 
-Campo e coerência são distintos, porém interdependentes.
+- **Campo** — condição espacial da agência.
+- **Coerência** — condição dinâmica de inteligibilidade.
+- **Limite** — condição reguladora de estabilidade e diferenciação.
 
-* O **campo** define o espaço relacional no qual as interações ocorrem.
-* A **coerência** determina se essas interações permanecem inteligíveis e compatíveis ao longo do tempo.
+Campo sem Coerência gera fragmentação.
 
-Um campo mal definido compromete a coerência.
-Um sistema coerente não pode existir em um campo estruturalmente incoerente.
+Coerência sem Limite gera fechamento excessivo ou expansão descontrolada.
 
-Ainda assim, mesmo uma configuração campo–sistema coerente requer limites para permanecer sustentável.
+Limite sem Coerência produz rigidez formal sem inteligibilidade.
+
+Governabilidade exige a interação sustentada dos três.
 
 ## 5.9 Transição para Limite
 
-Se *Campo* define *onde* as interações ocorrem,
-e *Coerência* define *como* elas permanecem inteligíveis,
+Se Campo define onde a ação ocorre,
 
-então *Limite* define **até onde** um sistema pode se expandir, adaptar ou automatizar sem se desestabilizar.
+e Coerência define como ela permanece inteligível,
 
-A próxima seção introduz **Limite** como uma condição estrutural para a sustentabilidade sistêmica e a governabilidade.
+então **Limite** define até onde o sistema pode se expandir, adaptar ou automatizar sem comprometer as condições estruturais de sua própria governabilidade.
+
+A próxima seção introduz Limite como condição estrutural de diferenciação, contenção e sustentabilidade sistêmica.
