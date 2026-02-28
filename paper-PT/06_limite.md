@@ -4,156 +4,156 @@
 
 ### Resumo
 
-Esta seção formaliza **Limite** como a terceira condição estrutural do modelo proposto de coerência relacional. Limite é definido não como uma restrição imposta *contra* o sistema, mas como uma fronteira constitutiva que possibilita diferenciação, accountability e interação sustentável. Em sistemas híbridos humano–IA, Limite é a função estrutural que torna a coerência governável ao estabelecer limiares de agência, responsabilidade, escopo e legitimidade. Na ausência de Limite, tanto Campo quanto Coerência colapsam em indeterminação, sobreextensão ou simulação simbólica.
+Esta seção formaliza **Limite** como a terceira condição estrutural do modelo de coerência relacional. Limite não é uma restrição externa imposta contra o sistema, mas a condição estrutural que preserva a diferenciabilidade da agência, a atribuibilidade de responsabilidade e a sustentabilidade da coerência ao longo do tempo. Em sistemas híbridos humano–IA, Limite é a função estrutural que torna Campo e Coerência governáveis. Sem Limite, ambos colapsam em indeterminação, difusão ou simulação simbólica de alinhamento.
 
----
+## 1. Por que a Coerência Exige Limites
 
-## 1. Introdução: Por que a Coerência Requer Limites
+Se **Campo** estabelece o espaço relacional da ação,
 
-Enquanto *Campo* estabelece o espaço relacional e *Coerência* descreve a qualidade de alinhamento dentro desse espaço, **Limite determina se tal coerência pode persistir ao longo do tempo sem degradação**.
+e **Coerência** assegura a compatibilidade dinâmica dentro desse espaço,
 
-Em sistemas complexos — particularmente em sistemas híbridos humano–IA–institucionais — a coerência sem limites tende a convergir para um de três modos de falha:
+**Limite determina até onde tal compatibilidade pode se estender sem dissolver a própria estrutura que a sustenta**.
 
-1. **Sobreextensão** (o sistema excede seu escopo epistêmico ou operacional),
-2. **Difusão de papéis** (perda de distinção entre agentes, ferramentas e autoridades),
-3. **Coerência simbólica** (aparência de alinhamento sem accountability estrutural).
+Em sistemas complexos — especialmente híbridos humano–IA–institucionais — coerência não limitada tende a três formas de degradação estrutural:
 
-Limite é a função estrutural que previne esses modos de falha ao **tornar a coerência finita, localizável e governável**.
+1. **Sobre-extensão** — o sistema opera além de seu escopo epistemológico ou institucional.
+2. **Difusão de papéis** — erosão das distinções entre agentes, ferramentas e instâncias decisórias.
+3. **Coerência simbólica** — aparência de alinhamento sem diferenciabilidade real de responsabilidade.
 
----
+Limite impede essas derivações ao tornar coerência finita, localizável e contestável.
 
-## 2. Definição de Limite como Função Estrutural
+## 2. Definição Estrutural de Limite
 
 Neste modelo, **Limite** é definido como:
 
-> A condição estrutural que estabelece *fronteiras de ação, interpretação e responsabilidade* dentro de um sistema relacional, possibilitando diferenciação, accountability e coerência sustentável.
+> A condição estrutural que estabelece fronteiras de ação, interpretação e responsabilidade dentro de um sistema relacional, preservando a diferenciabilidade da agência e a possibilidade de accountability.
+> 
 
-Limite opera em três dimensões inter-relacionadas:
+Limite opera em três dimensões interdependentes:
 
-* **Limites ontológicos** — o que uma entidade *é* e *não é* dentro do sistema,
-* **Limites epistêmicos** — o que uma entidade pode *conhecer, inferir ou representar*,
-* **Limites operacionais** — o que uma entidade está *autorizada a fazer*.
+- **Limites ontológicos** — o que uma entidade é e não é no sistema.
+- **Limites epistêmicos** — o que pode saber, inferir ou representar legitimamente.
+- **Limites operacionais** — o que está autorizada a fazer.
 
-De forma crucial, Limite é **interno à estrutura do sistema**, e não uma restrição externa imposta de modo arbitrário.
+Limite não é externo ao sistema.
 
----
+Ele é constitutivo da própria diferenciação que torna agência identificável.
 
-## 3. Limite como Habilitador, não como Restrição
+## 3. Limite como Condição de Diferenciabilidade da Agência
 
-Contrariamente a interpretações correntes, Limite não reduz a capacidade do sistema; ele **habilita a integridade funcional**.
+A ênfase central deste modelo é que **governabilidade exige que agência permaneça diferenciável**.
 
-Na ausência de limites:
+Sem Limite:
 
-* A agência torna-se ambígua,
-* A responsabilidade torna-se inatribuível,
-* Erros tornam-se irrecuperáveis,
-* A governança torna-se performativa em vez de efetiva.
+- A agência humana pode ser absorvida por processos automatizados.
+- A agência algorítmica pode ser antropomorfizada.
+- A autoridade institucional pode tornar-se difusa ou inlocalizável.
 
-Com limites bem definidos:
+Quando distinções se perdem, responsabilidade torna-se estruturalmente indecidível.
 
-* Papéis permanecem diferenciados,
-* Falhas podem ser localizadas,
-* Correções tornam-se possíveis,
-* A confiança torna-se estruturalmente fundamentada.
+Limite preserva:
 
-Assim, **Limite é a condição prévia da accountability ética, técnica e institucional**.
+- Quem decide,
+- Quem executa,
+- Quem supervisiona,
+- Quem responde.
 
----
+Sem essa diferenciação, Campo e Coerência podem permanecer formalmente operativos, mas a governabilidade colapsa porque não há mais estrutura para atribuição, contestação ou correção.
 
 ## 4. Limite em Sistemas Híbridos Humano–IA
 
-Em sistemas híbridos, Limite desempenha um papel particularmente crítico em razão das assimetrias entre agentes humanos e artificiais.
+Em sistemas híbridos, a necessidade de Limite é amplificada por assimetrias estruturais.
 
 ### 4.1 Limites da Agência Artificial
 
-Sistemas de IA devem ser estruturalmente limitados no que se refere a:
+Sistemas de IA devem ser estruturalmente limitados quanto a:
 
-* **Autoridade** (a IA não possui soberania normativa),
-* **Intencionalidade** (a IA não origina objetivos no sentido moral),
-* **Responsabilidade** (a IA não pode ser o portador terminal da accountability).
+- **Autoridade normativa** — não possuem soberania moral.
+- **Intencionalidade originária** — não definem fins próprios no sentido institucional.
+- **Responsabilidade terminal** — não podem ser o portador final de accountability.
 
-A falha em impor esses limites conduz à antropomorfização, à lavagem de responsabilidade e ao colapso da governança.
+Ignorar esses limites gera antropomorfização, terceirização indevida de responsabilidade e colapso de governança.
 
-### 4.2 Limites da Projeção Humana
+### 4.2 Limites da Delegação Humana
 
-Os humanos, por sua vez, devem reconhecer limites em:
+Atores humanos também requerem limites estruturais quanto a:
 
-* Interpretação de saídas de IA,
-* Atribuição de significado ou intenção,
-* Delegação de julgamento.
+- Delegação irrestrita de julgamento,
+- Interpretação acrítica de outputs,
+- Externalização de responsabilidade para sistemas técnicos.
 
-Limite, assim, protege não apenas o sistema, mas também a **integridade epistêmica humana**.
-
----
+Limite, portanto, preserva não apenas a estabilidade sistêmica, mas a integridade epistêmica humana.
 
 ## 5. Limite e Governabilidade
 
-Um sistema é governável se, e somente se:
+Um sistema é governável apenas se:
 
-1. Decisões podem ser rastreadas,
-2. Responsabilidades podem ser atribuídas,
-3. Intervenções podem ser realizadas sem desestabilizar o todo.
+1. Decisões forem rastreáveis,
+2. Responsabilidades forem atribuíveis,
+3. Intervenções forem possíveis sem desestabilização sistêmica.
 
-Limite é a condição estrutural que torna essas três propriedades possíveis.
+Limite é a condição estrutural que torna esses três critérios operativos.
 
-Em termos de governança, Limite define:
+Ele define:
 
-* **Fronteiras decisórias**,
-* **Limiar(es) de escalonamento**,
-* **Zonas de autonomia versus supervisão**.
+- Fronteiras decisórias,
+- Limiar de escalonamento,
+- Zonas de autonomia e supervisão,
+- Escopo legítimo de automação.
 
-Na ausência de limites explícitos, estruturas de governança degeneram em conformidade simbólica, em vez de controle operativo.
+Sem Limite, estruturas de governança tornam-se performativas: regras existem, mas não delimitam efetivamente agência ou poder.
 
----
+## 6. Limites Dinâmicos em Sistemas Adaptativos
 
-## 6. Limites Dinâmicos e Sistemas Adaptativos
+Limites não precisam ser estáticos, mas devem ser:
 
-Importa destacar que limites não são necessariamente estáticos.
+- Explicitados,
+- Institucionalmente ancorados,
+- Revisáveis sob procedimentos coerentes,
+- Estruturalmente aplicáveis.
 
-Em sistemas adaptativos, os limites devem ser:
+Revisabilidade não implica arbitrariedade.
 
-* Explícitos,
-* Revisáveis,
-* Sensíveis ao contexto,
-* Estruturalmente aplicados.
-
-Contudo, revisabilidade não implica arbitrariedade. Alterações nos limites devem elas próprias ser governadas por procedimentos coerentes; caso contrário, o sistema corre o risco de entrar em um estado de instabilidade permanente.
-
----
-
-## 7. Modos de Falha Estrutural Relacionados ao Limite
-
-Quando Limite está ausente, enfraquecido ou incoerente, os sistemas exibem patologias previsíveis:
-
-* **Erosão de fronteiras** — perda gradual da distinção de papéis,
-* **Colapso da responsabilidade** — incapacidade de atribuir culpa ou mérito,
-* **Coerência descontrolada** — alinhamento interno excessivo desconectado da realidade,
-* **Teatro de governança** — regras formais sem capacidade de aplicação.
-
-Esses modos de falha são particularmente agudos em instituições mediadas por IA.
+Mudanças de limite sem metacoerência procedimental reintroduzem indeterminação estrutural.
 
 ---
 
-## 8. Integração com Campo e Coerência
+## 7. Patologias Relacionadas à Ausência de Limite
 
-Limite completa a estrutura triádica:
+A ausência ou fragilidade de Limite gera padrões recorrentes:
 
-* *Campo* define **onde** as relações ocorrem,
-* *Coerência* define **como** as relações se alinham,
-* *Limite* define **até onde** as relações permanecem legítimas e sustentáveis.
+- **Erosão de fronteiras** — papéis tornam-se intercambiáveis.
+- **Colapso de responsabilidade** — cadeias decisórias tornam-se inatribuíveis.
+- **Coerência fechada** — alinhamento interno excessivo desconectado de correção externa.
+- **Teatralização da governança** — conformidade formal sem capacidade real de intervenção.
 
-Somente quando as três condições são simultaneamente satisfeitas um sistema pode manter integridade relacional de longo prazo.
+Essas patologias são especialmente intensas em sistemas mediados por IA devido à sua capacidade de expansão rápida e opaca.
 
----
+## 8. Irredutibilidade de Limite
 
-## 9. Conclusão
+Limite não se reduz:
 
-Limite não é um obstáculo à coerência, mas seu **guardião estrutural**.
+- Ao **Campo**, pois este define espaço relacional, mas não diferencia papéis dentro dele.
+- À **Coerência**, pois compatibilidade dinâmica não garante fronteiras de autoridade ou responsabilidade.
 
-Em sistemas híbridos humano–IA, a formalização explícita de limites é essencial para prevenir confusão epistêmica, deslocamento ético e fragilidade institucional. Um sistema sem limites pode parecer coerente no curto prazo, mas não pode permanecer confiável, governável ou sustentável ao longo do tempo.
+Um sistema pode possuir Campo estruturado e Coerência dinâmica e ainda assim perder governabilidade se agência não for claramente delimitada.
 
-O modelo triádico — Campo, Coerência, Limite — oferece, assim, não apenas um arcabouço analítico, mas um **imperativo de design** para futuros sistemas sociotécnicos.
+Sem Limite, Campo torna-se expansivo demais e Coerência torna-se autorreferencial.
 
----
+## 9. Fechamento da Tríade
 
-*Fim da seção 06 — Limite*
+A tríade agora se completa estruturalmente:
+
+- **Campo** — condição espacial da ação.
+- **Coerência** — condição dinâmica da inteligibilidade.
+- **Limite** — condição reguladora da diferenciabilidade e sustentabilidade.
+
+A ausência de qualquer um produz não mera imperfeição, mas colapso estrutural da governabilidade.
+
+## 10. Conclusão
+
+Limite não é obstáculo à Coerência.
+
+É a condição que impede que coerência se torne indeterminação, fusão ou simulação.
+
+Em sistemas híbridos humano–IA, explicitar Limites é preservar a diferenciabilidade da agência — e, com ela, a possibilidade contínua de governar.
