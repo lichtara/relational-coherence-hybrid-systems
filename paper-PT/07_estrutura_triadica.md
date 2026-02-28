@@ -540,5 +540,31 @@ O modelo triádico apresenta **relevância direta para a governança e o desenho
 
 Como preparação para a Seção 8, a estrutura triádica atua como **ponte conceitual entre análise estrutural e governança aplicada**, orientando o desenvolvimento de diretrizes práticas, salvaguardas institucionais e intervenções políticas destinadas a sustentar a coerência relacional em ambientes sociotécnicos caracterizados pela integração de agentes humanos e artificiais. O próximo capítulo expandirá esta base teórica para explorar **estratégias de governança específicas, mecanismos de supervisão e implicações políticas**, demonstrando como o modelo triádico pode orientar o desenho e a avaliação de sistemas híbridos responsáveis, adaptativos e eticamente alinhados.
 
+## 7.X Minimalidade da Estrutura Triádica
 
+A estrutura triádica proposta — **Campo, Coerência e Limite** — pretende ser não apenas integrada, mas **mínima**. Afirmar minimalidade implica sustentar que nenhum elemento adicional é estruturalmente necessário para explicar as condições de possibilidade da governabilidade em sistemas híbridos humano–IA.
+
+A minimalidade aqui reivindicada não é empírica, mas estrutural. Ela se refere às condições fundamentais sem as quais governabilidade deixa de ser inteligível como tal.
+
+Qualquer sistema governável deve necessariamente satisfazer três tipos de condição:
+
+1. **Condição espacial-relacional** — deve existir um espaço estruturado no qual agentes, regras e interações se tornem possíveis e inteligíveis. Essa condição corresponde ao **Campo**.
+2. **Condição dinâmica-temporal** — as interações que ocorrem nesse espaço devem manter compatibilidade suficiente ao longo do tempo para evitar fragmentação, contradição estrutural ou perda de inteligibilidade. Essa condição corresponde à **Coerência**.
+3. **Condição de fronteira-diferenciação** — deve haver delimitações que preservem a diferenciabilidade da agência, a atribuibilidade de responsabilidade e a possibilidade de intervenção. Essa condição corresponde ao **Limite**.
+
+Se qualquer uma dessas condições estiver ausente, o que permanece pode ser coordenação técnica, controle funcional ou conformidade formal — mas não governabilidade.
+
+A alegação de minimalidade pode ser examinada por meio da tentativa de introduzir um quarto elemento estrutural. Conceitos frequentemente invocados na literatura de governança — como transparência, confiança, poder, participação, supervisão ou accountability — podem ser reconduzidos a um ou mais componentes da tríade.
+
+- **Transparência** refere-se à legibilidade do Campo e à rastreabilidade sustentada pela Coerência.
+- **Confiança** emerge da Coerência ao longo do tempo, dentro de limites estáveis.
+- **Poder** opera como propriedade estrutural do Campo e é delimitado por Limites.
+- **Accountability** depende da diferenciabilidade garantida pelos Limites e da inteligibilidade sustentada pela Coerência.
+- **Supervisão** constitui mecanismo institucional de Limite operando em um Campo inteligível.
+
+Nenhum desses elementos introduz uma nova categoria estrutural; todos dependem das três condições fundamentais já identificadas.
+
+A estrutura triádica é, portanto, mínima no sentido de que abrange as condições espaciais, dinâmicas e de fronteira necessárias para a governabilidade. Não se trata de um modelo exaustivo de todos os fenômenos relevantes, mas de uma articulação das **condições estruturais sem as quais governabilidade não pode ser sustentada**.
+
+Assim compreendida, a tríade não compete com frameworks adicionais, mas fornece o plano estrutural dentro do qual tais frameworks podem ser situados, avaliados ou integrados.
 
