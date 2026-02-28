@@ -290,9 +290,10 @@ A estrutura triádica é, portanto, mínima no sentido de que abrange as condiç
 
 Assim compreendida, a tríade não compete com frameworks adicionais, mas fornece o plano estrutural dentro do qual tais frameworks podem ser situados, avaliados ou integrados.
 
-## 7.7
+## 7.7 Transição para Implicações de Governança
 
 Tendo estabelecido a tríade como condição estrutural mínima da governabilidade, a seção seguinte traduz essa arquitetura em implicações diagnósticas e normativas para o desenho e supervisão de sistemas híbridos humano–IA.
+
 
 
 
