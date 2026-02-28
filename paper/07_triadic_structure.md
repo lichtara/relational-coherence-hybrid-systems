@@ -262,7 +262,7 @@ The triadic model is **directly relevant for governance and institutional design
 
 In preparation for Section 8, the triadic framework serves as a **conceptual bridge between structural analysis and applied governance**. It informs the development of practical guidelines, institutional safeguards, and policy interventions aimed at sustaining relational coherence in socio-technical environments characterized by the integration of human and AI agents. The next chapter will extend this theoretical foundation to explore **specific governance strategies, oversight mechanisms, and policy implications**, illustrating how the triadic model can guide the design and evaluation of accountable, adaptive, and ethically aligned hybrid systems.
 
-## 7.X Minimalidade da Estrutura Triádica
+## 7.6 Minimalidade da Estrutura Triádica
 
 A estrutura triádica proposta — **Campo, Coerência e Limite** — pretende ser não apenas integrada, mas **mínima**. Afirmar minimalidade implica sustentar que nenhum elemento adicional é estruturalmente necessário para explicar as condições de possibilidade da governabilidade em sistemas híbridos humano–IA.
 
@@ -289,6 +289,10 @@ Nenhum desses elementos introduz uma nova categoria estrutural; todos dependem d
 A estrutura triádica é, portanto, mínima no sentido de que abrange as condições espaciais, dinâmicas e de fronteira necessárias para a governabilidade. Não se trata de um modelo exaustivo de todos os fenômenos relevantes, mas de uma articulação das **condições estruturais sem as quais governabilidade não pode ser sustentada**.
 
 Assim compreendida, a tríade não compete com frameworks adicionais, mas fornece o plano estrutural dentro do qual tais frameworks podem ser situados, avaliados ou integrados.
+
+## 7.7
+
+Tendo estabelecido a tríade como condição estrutural mínima da governabilidade, a seção seguinte traduz essa arquitetura em implicações diagnósticas e normativas para o desenho e supervisão de sistemas híbridos humano–IA.
 
 
 
