@@ -530,16 +530,6 @@ A gestão eficaz de sistemas híbridos humano–IA requer atenção contínua à
 
 A aplicação desses princípios permite que os mecanismos de governança **potencializem as capacidades da IA** enquanto mitigam os riscos sistêmicos identificados na Seção 7.4.2. O modelo triádico fornece, assim, um **quadro conceitual e operacional** para projetar, monitorar e adaptar sistemas híbridos humano–IA, sustentando inteligibilidade, confiança e accountability ao longo do tempo.
 
-## 7.6 Resumo e Transição para Implicações de Governança
-
-Este capítulo apresentou um **modelo triádico de coerência relacional**, integrando **Campo, Coerência e Limite** como condições estruturais mutuamente constitutivas, essenciais para a governabilidade de sistemas híbridos humano–IA. Cada componente desempenha um papel distinto, mas interdependente: o Campo fornece o substrato relacional para interações significativas; a Coerência sustenta o alinhamento temporal, funcional e normativo; e os Limites estabelecem fronteiras que permitem accountability, diferenciação de agência e estabilidade sistêmica.
-
-A análise evidencia que a estrutura triádica é **mínima e irreduzível**. A remoção ou enfraquecimento de qualquer elemento produz patologias sistêmicas: interações desfundamentadas quando o Campo é negligenciado; coerência coercitiva ou frágil na ausência de Limites; e processos opacos ou desalinhados quando os limiares de Coerência são insuficientes. Além disso, as interações dinâmicas entre os três elementos geram **ciclos de retroalimentação**, que podem reforçar a estabilidade ou precipitar rupturas graduais, conforme ilustrado nas condições e modos de instabilidade descritos na Seção 7.4.
-
-O modelo triádico apresenta **relevância direta para a governança e o desenho institucional**. Ao conceituar sistemas de IA como participantes ativos de um Campo relacional e ao reconhecer a necessidade estrutural de Coerência e Limites, formuladores de políticas e designers institucionais podem antecipar riscos de sobre-automação, desalinhamento e opacidade. O modelo oferece um arcabouço conceitual e operacional para **desenvolver mecanismos de governança adaptativa**, assegurando que sistemas híbridos permaneçam inteligíveis, responsáveis e resilientes ao longo do tempo.
-
-Como preparação para a Seção 8, a estrutura triádica atua como **ponte conceitual entre análise estrutural e governança aplicada**, orientando o desenvolvimento de diretrizes práticas, salvaguardas institucionais e intervenções políticas destinadas a sustentar a coerência relacional em ambientes sociotécnicos caracterizados pela integração de agentes humanos e artificiais. O próximo capítulo expandirá esta base teórica para explorar **estratégias de governança específicas, mecanismos de supervisão e implicações políticas**, demonstrando como o modelo triádico pode orientar o desenho e a avaliação de sistemas híbridos responsáveis, adaptativos e eticamente alinhados.
-
 ## 7.6 Minimalidade da Estrutura Triádica
 
 A estrutura triádica proposta — **Campo, Coerência e Limite** — pretende ser não apenas integrada, mas **mínima**. Afirmar minimalidade implica sustentar que nenhum elemento adicional é estruturalmente necessário para explicar as condições de possibilidade da governabilidade em sistemas híbridos humano–IA.
