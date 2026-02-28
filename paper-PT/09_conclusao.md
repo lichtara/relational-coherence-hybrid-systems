@@ -36,39 +36,4 @@ O futuro dos sistemas híbridos humano–IA não será determinado apenas por su
 
 O arcabouço triádico aqui proposto oferece uma arquitetura mínima para essa tarefa.
 
----
-
-## Tradução das Frases Finais (PT-BR)
-
-### Opção 1 — Estrutural e sóbria
-
-> A governabilidade em sistemas híbridos humano–IA não é garantida por desempenho ou controle, mas pela diferenciação sustentada da agência em um campo relacional inteligível e delimitado.
-> 
-
----
-
-### Opção 2 — Mais condensada e citável
-
-> Onde a agência deixa de ser diferenciada, a governabilidade torna-se indistinguível do controle.
-> 
-
----
-
-### Opção 3 — Tríade implícita
-
-> Sistemas permanecem governáveis apenas onde as relações são inteligíveis, os alinhamentos são compatíveis e os limites preservam a responsabilidade.
-> 
-
----
-
-### Opção 4 — Mais arquitetural
-
-> A governabilidade não é uma propriedade dos sistemas, mas uma condição estrutural sustentada por Campo, Coerência e Limite.
-> 
-
----
-
-### Opção 5 — Mais quase-transcendental
-
-> Sem um campo inteligível, uma coerência compatível e limites diferenciadores, a governança não fracassa — ela se dissolve.
->
+A governabilidade não é uma propriedade intrínseca dos sistemas, mas uma condição estrutural que só subsiste enquanto o campo permanece inteligível, a coerência permanece compatível e os limites diferenciam a agência — quando esses fundamentos se perdem, a governança não fracassa: dissolve-se.
