@@ -210,81 +210,292 @@ Coherence is thus sustained not by eliminating variation but by maintaining inte
 
 A system remains governable not because it never diverges, but because divergence can be detected, interpreted, and recalibrated without collapsing Field integrity or eroding Limits.
 
+## 8.4 Limits as the Structural Guardians of Agency Differentiation
 
+If Field secures relational intelligibility and Coherence preserves cross-layer compatibility, **Limits determine whether agency itself remains differentiable, attributable, and governable**.
 
+In hybrid human–AI systems, the central governance risk is not merely malfunction or misalignment. It is the gradual **collapse of agency differentiation**. As automation scales, learning systems adapt, and institutional processes embed algorithmic mediation, the boundaries between human judgment, institutional authority, and machine execution become increasingly blurred.
 
+When these boundaries blur without structural articulation, responsibility diffuses, authority becomes ambiguous, and accountability dissolves. Governance failure, in such cases, is not the absence of rules—but the erosion of differentiated agency.
 
+Limits are therefore not peripheral constraints. They are the **structural guardians of agency differentiation**.
 
+### 8.4.1 Agency Differentiation as the Core Governance Problem
 
+Hybrid systems distribute action across heterogeneous agents:
 
+- Humans exercise judgment, interpretation, and moral responsibility.
+- Institutions allocate authority, define mandates, and sustain legitimacy.
+- Algorithmic systems execute operations, optimize parameters, and mediate interaction.
 
+These forms of agency are not interchangeable. They differ in intentionality, epistemic capacity, normative standing, and accountability structure.
 
+Governance becomes structurally unstable when these differences are obscured.
 
+Three recurrent pathologies illustrate the point:
 
+1. **Delegation without differentiation**
+    
+    Automated systems are granted operational scope without explicit articulation of their authority boundaries. Humans begin to treat outputs as self-justifying, while institutions fail to specify review conditions.
+    
+2. **Anthropomorphic projection**
+    
+    Machine outputs are interpreted as if they carried intention or moral authorship, displacing human accountability.
+    
+3. **Institutional abdication through technical embedding**
+    
+    Decisions migrate into automated infrastructures without corresponding preservation of escalation and intervention authority.
+    
 
+In each case, the failure is not technical but structural: the system no longer sustains a clear map of who can act, who may decide, and who must answer.
 
+Without differentiated agency, governability collapses into performative compliance or opaque automation.
 
+### 8.4.2 Designing Limits as Agency-Structuring Instruments
 
+To preserve differentiated agency, limits must be designed not merely as prohibitions, but as **structural articulations of role, scope, and authority**.
 
+This requires explicit governance commitments in three domains:
 
+**(1) Authority Localization**
 
-### 8.5 Failure Modes as Governance Diagnostics
+Limits must specify where legitimate decision authority resides. This includes defining which decisions may be automated, which require human validation, and which remain institutionally reserved. Authority cannot be inferred from system capability; it must be normatively allocated.
 
-This section operationalizes the **modes of rupture** identified in Chapter 07 as diagnostic instruments for governance, rather than as post hoc explanations of failure. Instead of treating breakdowns as exceptional events or isolated malfunctions, this framework interprets Field collapse, Coherence breakdown, and Limit erosion as **early-warning signals** of declining governability in hybrid human–AI systems.
+**(2) Escalation Integrity**
 
-Traditional governance approaches tend to respond to failure reactively, through compliance checks, incident reviews, or corrective regulation after harm has occurred. Such responses often address surface symptoms while leaving underlying structural misalignments intact. By contrast, a diagnostic approach treats failure modes as indicators of stress within the triadic structure itself, enabling earlier intervention before collapse becomes systemic.
+Governable systems preserve viable intervention pathways. Escalation must remain operationally feasible under real system conditions of speed and scale. If automation outpaces intervention capacity, limits become nominal rather than functional.
 
-#### 8.5.1 Failure as Signal, Not Exception
+**(3) Reversibility and Correctability**
 
-In hybrid systems, failure rarely appears suddenly. It accumulates through subtle shifts in relational structure: responsibilities blur, decision pathways become opaque, or boundaries are quietly bypassed. These shifts often remain invisible to performance metrics and compliance dashboards, precisely because systems may continue to function technically while losing intelligibility and accountability.
+Decisions taken within system boundaries must remain contestable and, where appropriate, reversible. Irreversible automated pathways foreclose governance itself.
 
-Reframing failure as a diagnostic signal allows governance actors to ask a different class of questions. Rather than asking whether rules were violated or outputs degraded, diagnostic governance asks whether the Field remains legible, whether Coherence across layers is still sustained, and whether Limits continue to function as meaningful boundaries of agency.
+These structural commitments prevent two symmetrical failure modes:
 
-Each rupture mode corresponds to a distinct diagnostic dimension. Field collapse signals erosion of shared meaning, trust, or relational orientation. Coherence breakdown indicates misalignment between temporal, functional, or normative layers. Limit erosion or extrapolation reveals failures in boundary articulation, accountability, or escalation integrity. Treated diagnostically, these are not endpoints, but indicators of structural drift.
+- **Under-specification**, where agency expands silently and responsibility diffuses.
+- **Over-specification**, where rigid constraints suppress legitimate judgment and induce informal circumvention.
 
-#### 8.5.2 Using Rupture Modes as Early-Warning Indicators
+Dynamic limits prevent both collapse and rigidity by continuously articulating who may act, under what conditions, and with what review capacity.
 
-Field collapse functions as an early warning when participants can no longer reliably interpret how decisions are made or how authority is exercised. Warning signs include growing reliance on informal workarounds, contested interpretations of system outputs, and declining confidence in institutional processes. Governance responses must focus on restoring relational legibility—through transparency, participatory sense-making, and clarification of roles—rather than imposing additional controls.
+### 8.4.3 Dynamic Limits as Boundary Processes
 
-Coherence breakdown becomes visible when actions across system layers fall out of sync. Temporal mismatches, such as automation outpacing human oversight, or functional mismatches, such as optimization objectives conflicting with institutional mandates, indicate declining integrative capacity. Diagnostic governance treats these mismatches as signals to recalibrate alignment mechanisms, audit cross-layer interactions, and reassess whether coherence is being engineered or merely assumed.
+Hybrid systems evolve. Authority boundaries that were adequate at one scale or speed may become obsolete under new operational conditions.
 
-Limit erosion or extrapolation manifests when boundaries cease to structure responsibility. Erosion appears as gradual normalization of exceptions, unchecked delegation to automated systems, or ambiguity about who may intervene. Extrapolation appears as rigid constraints that suppress judgment and adaptive response. Both signal that limits are no longer functioning as generative governance instruments. Early detection enables recalibration before responsibility diffusion or rigidity becomes entrenched.
+Limits must therefore be treated as **boundary processes rather than boundary states**.
 
-Crucially, these signals often emerge asymmetrically. A system may exhibit strong coherence while limits erode, or clear limits while the field becomes illegible. Diagnostic governance therefore requires monitoring the **relations among the three elements**, not isolated indicators.
+Dynamic limit governance requires:
 
-#### 8.5.3 Cascading Failure Patterns and Structural Drift
+- Formal review cycles for boundary calibration;
+- Versioned documentation of authority allocations;
+- Structured change approval procedures;
+- Rollback mechanisms for boundary misconfiguration;
+- Stress-testing of escalation feasibility under current system load.
 
-Failure modes rarely remain isolated. Because Field, Coherence, and Limit are mutually constitutive, degradation in one dimension tends to propagate across the triad. Field collapse undermines coherence by dissolving shared interpretive frames; coherence breakdown strains limits by producing ambiguous authority; limit erosion accelerates field collapse by diffusing responsibility.
+These practices transform limits from static rule sets into **institutionalized boundary maintenance systems**.
 
-These cascading patterns are especially dangerous because they can remain latent while the system appears operational. Governance that focuses exclusively on output quality or rule compliance may miss the accumulation of structural fragility. Diagnostic use of rupture modes enables governance actors to identify these cascades early and intervene at the level of structure rather than symptoms.
+Importantly, dynamic recalibration must not undermine differentiation itself. Flexibility is not equivalent to arbitrariness. Boundary revision must remain procedurally constrained to prevent silent authority creep under performance pressure or crisis.
 
-Recognizing cascading failure also reframes accountability. Instead of assigning blame for discrete incidents, diagnostic governance examines how institutional design, automation choices, and boundary management collectively contributed to structural drift. This shift supports learning-oriented responses rather than punitive cycles that further degrade trust and coherence.
+### 8.4.4 Limits as Conditions of Accountability
 
-#### 8.5.4 From Reactive Compliance to Anticipatory Governance
+Accountability presupposes differentiability.
 
-The diagnostic use of failure modes enables a transition from reactive compliance to **anticipatory governance**. Anticipatory governance does not aim to predict every failure, but to maintain sensitivity to early signs of misalignment and to preserve the capacity for timely recalibration.
+If it is unclear whether a decision originated from human discretion, institutional mandate, or algorithmic optimization, responsibility cannot be meaningfully assigned. Appeals cannot be directed. Corrections cannot be targeted.
 
-This approach requires institutional commitment to monitoring relational indicators, not just performance metrics. It also requires procedural legitimacy for acting on diagnostic signals before harm occurs, which may challenge traditional accountability frameworks oriented around ex post justification.
+In this sense, Limits operationalize the very possibility of accountability.
 
-Anticipatory governance accepts uncertainty as a structural condition of hybrid systems. Rather than treating uncertainty as a governance gap to be eliminated, it treats it as a signal that adaptive capacity must be preserved. Diagnostic use of rupture modes supports this posture by making structural integrity observable, discussable, and actionable.
+They do not merely restrict action; they create the structural conditions under which:
 
-By operationalizing failure modes as governance diagnostics, this section establishes a practical bridge between the triadic theory of Chapter 07 and the adaptive governance paradigm developed in this chapter. The final section synthesizes these insights into a relational model of governance oriented toward long-term sustainability rather than short-term control.
+- Responsibility can be attributed;
+- Authority can be contested;
+- Oversight can be exercised;
+- Correction can occur without systemic collapse.
 
-### 8.6 · Toward Adaptive and Relational Governance
+Limits are therefore not opposed to innovation or automation. They are the condition under which innovation remains governable rather than absorptive.
 
-This chapter concludes by articulating a shift from static, rule-centered models of governance toward an **adaptive and relational paradigm** suited to hybrid human–AI systems. The preceding sections have demonstrated that governability does not arise from optimization alone, nor from compliance in isolation, but from the sustained integrity of relational structures that remain intelligible, contestable, and revisable over time.
+### 8.4.5 From Boundary Setting to Agency Stewardship
 
-Adaptive and relational governance recognizes that systems evolve not only in scale and technical capacity, but in their relational topology. As automated systems reshape visibility, tempo, and agency, governance must remain responsive to changes in the Field, recalibrate coherence across layers, and continuously renegotiate limits as generative boundaries. This requires abandoning the assumption that stability is achieved through fixed solutions, and instead embracing governance as an ongoing process of alignment under conditions of uncertainty.
+Reframing limits as dynamic guardians of agency differentiation shifts the governance paradigm.
 
-Crucially, this paradigm demands **institutional humility and reflexivity** as operational capacities. Institutional humility means acknowledging the limits of prediction and centralized control; reflexivity means building mechanisms that enable institutions to observe, learn from, and revise their own practices in response to emergent relational dynamics. Together, these capacities are not optional virtues but functional requirements for sustaining adaptive governance in practice.
+The question is no longer:
 
-Within this paradigm, governance is not exercised solely through top-down control or ex-post enforcement. It operates through **continuous relational maintenance**: monitoring how meaning is constructed, how responsibility is distributed, and how authority is interpreted in practice. Adaptive governance privileges intelligibility over mere efficiency, and legitimacy over superficial consistency. It accepts friction, pluralism, and contestation not as failures of governance, but as conditions of its vitality.
+“How do we constrain automated systems?”
 
-Relational governance also reframes the role of institutions. Rather than acting only as rule-setters or enforcers, institutions become stewards of systemic coherence, responsible for sustaining the conditions under which human and artificial agents can interact responsibly. This stewardship includes creating spaces for deliberation, preserving escalation pathways, embedding reflexive review into operational cycles, and ensuring that automation remains anchored within accountable social and institutional contexts.
+It becomes:
 
-In hybrid human–AI systems, governance cannot be fully delegated, automated, or stabilized once and for all. It must remain **situated, reflexive, and structurally aware**. The triadic framework developed in this work offers a minimal and irreducible lens for this task: when Field, Coherence, and Limit are jointly sustained, systems retain the capacity for adaptive governance. When any element is neglected, fragility accumulates, often invisibly.
+“How do we preserve differentiated agency under conditions of technological mediation and institutional embedding?”
 
-Toward adaptive and relational governance, then, is not a call for more regulation or more control, but for deeper structural attentiveness. Governable systems are not those that eliminate uncertainty, but those that can recognize misalignment, respond to emerging rupture, and recalibrate their relational foundations without collapsing into coercion or chaos.
+This reframing positions governance not as resistance to automation, but as **stewardship of agency architecture**.
 
+In hybrid human–AI systems, agency will continue to distribute and reconfigure. The task of governance is to ensure that such distribution remains legible, accountable, and structurally differentiated.
 
+When limits fulfill this function, hybrid systems can evolve without dissolving the conditions of responsibility. When limits erode, agency fuses into opacity—and governability becomes symbolic rather than real.
 
+# 8.5 Failure Modes as Structural Diagnostics
+
+The modes of rupture identified in Chapter 07—Field collapse, Coherence breakdown, and Limit erosion—are not merely explanatory categories. They constitute a **diagnostic architecture** for governance under conditions of hybrid agency.
+
+Traditional governance frameworks treat failure as exception: an incident, a breach, a malfunction. Corrective action is triggered after harm becomes visible. This reactive posture presupposes that system integrity is intact until proven otherwise.
+
+The triadic model rejects this presupposition.
+
+In hybrid human–AI systems, governability degrades gradually through structural drift. The question is therefore not whether failure has occurred, but whether the **conditions of governability remain structurally intact**.
+
+Failure modes must be treated as **diagnostic signals of structural stress**.
+
+## 8.5.1 The Three Diagnostic Axes
+
+Each element of the triad corresponds to a diagnostic axis:
+
+### (1) Field Integrity
+
+**Diagnostic Question:**
+
+Does the relational environment remain intelligible to participants?
+
+Early-warning indicators include:
+
+- Increasing opacity in decision provenance;
+- Growth of informal workarounds;
+- Conflicting interpretations of system authority;
+- Declining trust in institutional explanations.
+
+Field degradation often precedes measurable performance decline. Systems may remain efficient while becoming relationally unintelligible.
+
+Governance response:
+
+- Restore relational visibility;
+- Re-map authority structures;
+- Re-engage participatory sensing mechanisms.
+
+### (2) Coherence Stability
+
+**Diagnostic Question:**
+
+Do temporal, functional, and normative layers remain mutually compatible?
+
+Early-warning indicators include:
+
+- Automation outpacing oversight capacity;
+- Optimization objectives drifting from institutional mandates;
+- Divergence between declared values and operational behavior;
+- Increasing reliance on procedural compliance to mask interpretive tension.
+
+Coherence breakdown signals misalignment across system layers—even when outputs remain consistent.
+
+Governance response:
+
+- Cross-layer audits;
+- Objective reconciliation;
+- Temporal recalibration;
+- Normative review processes.
+
+### (3) Limit Functionality
+
+**Diagnostic Question:**
+
+Do boundaries still differentiate agency and sustain accountability?
+
+Early-warning indicators include:
+
+- Normalization of exceptions;
+- Delegation without explicit authority articulation;
+- Ambiguity about escalation rights;
+- Rigid constraints suppressing legitimate discretion.
+
+Limit failure may manifest either as erosion (boundary collapse) or extrapolation (boundary rigidity).
+
+Governance response:
+
+- Boundary re-articulation;
+- Escalation stress-testing;
+- Review of delegation scope;
+- Restoration of reversibility mechanisms.
+
+## 8.5.2 Cascading Patterns of Structural Drift
+
+Because Field, Coherence, and Limit are mutually constitutive, degradation rarely remains isolated.
+
+Typical cascade patterns include:
+
+- Field opacity → coherence breakdown → limit ambiguity;
+- Limit erosion → responsibility diffusion → field illegibility;
+- Over-enforced coherence → suppressed contestation → hidden field drift.
+
+These cascades are especially dangerous because they can remain invisible within performance dashboards.
+
+The triadic diagnostic lens therefore requires governance actors to monitor not only each axis independently, but also their **interactions**.
+
+Governance failure is often a relational cascade rather than a discrete breach.
+
+## 8.5.3 From Compliance Monitoring to Structural Monitoring
+
+Compliance monitoring asks:
+
+“Were the rules followed?”
+
+Structural monitoring asks:
+
+“Do the conditions that make rule-following meaningful still exist?”
+
+This shift redefines the object of governance.
+
+Under structural monitoring:
+
+- Informal adaptations are treated as signals, not noise;
+- Friction is interpreted diagnostically;
+- Escalation failure is monitored as rigorously as output error;
+- Institutional memory becomes a governance asset rather than administrative residue.
+
+This framework enables regulators and institutional designers to move from reactive enforcement to **anticipatory recalibration**.
+
+## 8.5.4 A Practical Diagnostic Matrix
+
+To operationalize the triadic diagnostic model, governance bodies may institutionalize periodic structural reviews structured around three recurring questions:
+
+1. **Field Review**
+    - Can stakeholders situate decisions within a coherent authority map?
+    - Are interpretive disputes increasing?
+    - Are workarounds replacing formal pathways?
+2. **Coherence Review**
+    - Are automation speeds compatible with oversight?
+    - Are optimization goals aligned with institutional mandates?
+    - Are declared values reflected in operational practice?
+3. **Limit Review**
+    - Are boundaries of authority explicit and enforced?
+    - Are escalation channels viable under real conditions?
+    - Are exceptions documented and reviewed?
+
+This matrix does not replace domain-specific regulation.
+
+It provides a structural overlay applicable across sectors.
+
+It is domain-agnostic yet operationally concrete.
+
+# 8.6 Toward Adaptive and Relational Governance
+
+The triadic framework culminates in a reframing of governance itself.
+
+Governance in hybrid human–AI systems cannot be conceived as static rule enforcement or performance optimization. It must be understood as the **continuous stewardship of relational conditions**.
+
+Adaptive and relational governance rests on four structural commitments:
+
+1. **Relational attentiveness** — monitoring Field integrity.
+2. **Alignment maintenance** — sustaining Coherence without enforcing uniformity.
+3. **Agency differentiation** — preserving Limits as guardians of accountability.
+4. **Institutional reflexivity** — enabling recalibration without collapse.
+
+This paradigm rejects two illusions:
+
+- The illusion of total control;
+- The illusion of self-regulating automation.
+
+Hybrid systems are inherently dynamic. Stability cannot be frozen; it must be maintained.
+
+Governability is therefore not a static property but a sustained structural achievement.
+
+When Field remains intelligible, Coherence remains compatible, and Limits remain differentiating, systems retain the capacity for correction, contestation, and learning.
+
+When any element degrades, fragility accumulates—often invisibly.
+
+Adaptive and relational governance is not a call for more regulation, nor for deregulation. It is a call for **structural vigilance**: the disciplined preservation of the minimal conditions under which responsibility, accountability, and institutional legitimacy remain possible.
+
+The triadic model thus offers not a competing regulatory doctrine, but a foundational lens. It identifies the structural architecture that must be maintained—regardless of sector, jurisdiction, or technological modality—if hybrid human–AI systems are to remain governable over time.
