@@ -300,3 +300,87 @@ Assim compreendida, a tríade não compete com frameworks adicionais, mas fornec
 Tendo estabelecido a tríade como condição estrutural mínima da governabilidade, a seção seguinte traduz essa arquitetura em implicações diagnósticas e normativas para o desenho e supervisão de sistemas híbridos humano–IA.
 
 
+# 06.X — The Structural Irreducibility of Governability
+
+## 1. Governability as a Condition of Possibility
+
+Governability is not identical with effective coordination, behavioral control, or procedural compliance. It is the structural condition under which collective power can be exercised in a manner that remains intelligible, attributable, and revisable over time.
+
+To govern is not merely to produce outcomes, but to exercise authority within a relational order in which agency can be located, responsibility can be attributed, and intervention remains possible.
+
+Under conditions of hybridized agency—where human, artificial, and institutional actors are densely coupled—these structural requirements do not disappear. They intensify.
+
+The question, therefore, is not whether Field, Coherence, and Limit are useful analytic distinctions, but whether governability can exist in their absence.
+
+## 2. Three Structural Dimensions of Governability
+
+The triadic model corresponds to three irreducible dimensions of political order:
+
+- **Relational Intelligibility** (Field)
+- **Dynamic Compatibility** (Coherence)
+- **Differentiated Authority** (Limit)
+
+Each responds to a distinct condition of possibility.
+
+### 2.1 Field and the Condition of Situated Agency
+
+Governance presupposes a structured relational space within which actions can be interpreted as belonging to agents. Without such a configuration, actions may occur, but they do not take place within a shared horizon of authority and responsibility.
+
+Absent Field, power may operate, but it does so without a stable locus. Authority becomes disembedded from relational intelligibility. Governance collapses into dispersed operation.
+
+Field is therefore the condition under which agency becomes politically locatable.
+
+### 2.2 Coherence and the Condition of Temporal Continuity
+
+Governance unfolds over time. Decisions propagate, consequences accumulate, interpretations shift. For governance to remain possible, the system’s dynamics must sustain sufficient compatibility across temporal, functional, and normative dimensions.
+
+Without Coherence, authority may exist and roles may be bounded, yet decisions undermine one another. Fragmentation replaces intelligibility. Accountability becomes episodic rather than structural.
+
+Coherence is therefore the condition under which political order remains temporally sustainable.
+
+### 2.3 Limit and the Condition of Differentiable Authority
+
+Governance presupposes not only action but distinction: who decides, who executes, who supervises, who answers.
+
+Without Limit, agency becomes fused or diffused. Human authority may dissolve into automation; institutional responsibility may become unlocatable; control may persist without answerability.
+
+Limit is therefore the condition under which power remains differentiable and thus accountable.
+
+## 3. Categorial Non-Substitutability
+
+These three dimensions are not interchangeable because they correspond to distinct structural requirements:
+
+- Relational space (Field) cannot be derived from dynamic compatibility.
+- Compatibility (Coherence) cannot be inferred from bounded roles.
+- Bounded roles (Limit) cannot emerge from relational density alone.
+
+To remove any one is not to weaken governance incrementally but to undermine a categorical condition of its possibility.
+
+A system may retain coordination without Field, alignment without Coherence, or constraint without Limit. In each case, what persists is operation—not governability.
+
+Thus:
+
+- Field without Coherence yields fragmentation.
+- Coherence without Limit yields absorption or closure.
+- Limit without Field yields formalism without relational intelligibility.
+
+No dyadic configuration satisfies all three dimensions simultaneously.
+
+## 4. Necessity
+
+Because governability requires:
+
+1. A structured relational locus of agency,
+2. Sustained compatibility across time and function,
+3. Differentiable and accountable authority,
+
+it follows that Field, Coherence, and Limit are jointly necessary and irreducible.
+
+The triadic structure is not an interpretive preference.
+
+It articulates the minimal architecture under which political power can remain governable in hybrid systems.
+
+To deny one element is not to revise the model.
+
+It is to abandon governability as such.
+
