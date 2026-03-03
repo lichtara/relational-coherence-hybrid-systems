@@ -174,7 +174,7 @@ Second, systemic dynamics must remain sufficiently compatible across time and fu
 
 Third, agency must remain differentiable. Without Limit, distinctions between deciding, executing, supervising, and answering collapse. Power may persist, but it becomes indistinguishable from absorption or diffusion.
 
-These are not empirical variables. They are structural dimensions of political order.
+These are not empirical variables. They are structural dimensions of political order. They articulate the minimal grammar within which political power can appear as accountable rather than merely effective.
 
 ### 3. Non-Substitutability
 
@@ -231,6 +231,7 @@ Institutions do not add a fourth dimension to the architecture. They operate wit
 Institutional translation, therefore, does not move beyond the triadic structure. It assumes responsibility for its maintenance.
 
 Section 08 turns from categorial necessity to structural stewardship.
+
 
 
 
