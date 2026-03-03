@@ -32,7 +32,7 @@ To intervene without attention to Field is to act upon outcomes while neglecting
 
 Field cannot be decomposed into empirical components. Yet its stabilization becomes intelligible along recurrent structural axes.
 
-Field acquires determinate form through patterned relational topology, normative constraint, informational ordering, temporal structuration, and asymmetrical distributions of power. These axes do not compose Field as parts compose a whole. Rather, they mark the dimensions along which relational space becomes structured, stabilized, or destabilized.
+Field attains determinate structure along recurrent relational axes—topological configuration, normative constraint, informational ordering, temporal structuration, and asymmetrical power distribution. These axes do not compose Field as parts compose a whole. Rather, they mark the dimensions along which relational space becomes structured, stabilized, or destabilized.
 
 Relational topology concerns the configuration of connections through which authority and coordination circulate.
 
@@ -99,5 +99,6 @@ If Field constitutes the spatial condition under which agency becomes locatable,
 **Coherence** concerns the temporal condition under which that relational configuration remains sustainable.
 
 The following section formalizes Coherence as a distinct structural dimension that emerges within Field yet cannot be reduced to it.
+
 
 
