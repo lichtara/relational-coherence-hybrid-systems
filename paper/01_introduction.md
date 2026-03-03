@@ -19,3 +19,27 @@ The triadic model is not presented as an additional governance framework, but as
 This article makes four contributions. First, it introduces a unified triadic architecture that integrates relational, dynamic, and boundary conditions into a single structural model of governability. Second, it demonstrates the irreducibility of these conditions and explains why diadic or modular approaches permit forms of structural drift that remain undetected by performance metrics. Third, it formalizes modes of structural rupture—field collapse, coherence breakdown, and boundary erosion—as analytic categories for diagnosing fragility in hybrid systems. Fourth, it translates structural theory into institutional design requirements, including relational field visibility, cross-layer coherence monitoring, and boundary codification with escalation mechanisms.
 
 The remainder of the article proceeds as follows. Section 2 clarifies the structural distinction between performance and governability and situates the argument within existing governance literatures. Sections 3 through 6 develop the triadic conditions—Field, Coherence, and Limit—as irreducible structural components. Section 7 integrates these elements into a unified architecture and analyzes conditions of stability and rupture. Section 8 concludes by articulating the ontological and institutional implications of treating governability as a structural condition of possibility rather than as a derivative effect of control.
+
+### 02 — Performance, Control, and the Limits of Fragmented Governance
+
+Debates on AI governance have evolved across multiple intellectual traditions. Sociotechnical systems theory has long emphasized the co-production of technology and social order (Jasanoff), the relational constitution of artifacts (Bijker; Callon), and the situated character of human–machine interaction (Suchman). These approaches illuminate how technological systems are embedded within social practices and institutional arrangements. However, they tend to focus on interactional dynamics without fully articulating the structural conditions under which such interactions remain governable over time.
+
+In parallel, alignment and control research—exemplified by work on the “control problem” (Bostrom) and human-compatible AI (Russell)—frames governance primarily as the problem of ensuring that artificial systems pursue specified goals. Optimization and behavioral alignment become central. Yet alignment of outputs does not guarantee intelligibility of authority or stability of responsibility across institutional layers. A system may behave as intended while the structure of accountability remains diffuse.
+
+Normative governance and accountability scholarship (Bovens; Pettit; Ostrom) foregrounds responsibility, contestability, and institutional design. These contributions clarify how power can be rendered answerable and revisable. However, they often presuppose relatively stable boundaries of agency and institutional coherence—conditions that hybrid human–AI systems actively destabilize.
+
+The common limitation across these literatures is not conceptual weakness but structural fragmentation. Interaction, alignment, and boundary-setting are treated as partially independent problems. What remains under-theorized is the minimal structural architecture within which relational intelligibility, dynamic compatibility, and differentiated authority must co-exist for governability to be sustained.
+
+The triadic model proposed here addresses this structural gap.
+
+### 02.1 — Canonical Terminology of the Triadic Model
+
+The triadic structural model advanced in this article will be referred to consistently as the Triadic Theory of Governability (TTG). Within TTG, the following terms carry precise structural meaning:
+
+- Field: the structured relational configuration within which agency, authority, and interpretive orientation become possible.
+- Coherence: the sustained compatibility of temporal, functional, and normative dynamics across system layers.
+- Limit: the differentiated boundary conditions that preserve agency distinguishability, responsibility attribution, and intervention capacity.
+
+These conditions are irreducible and mutually constitutive. They are not analytical lenses, normative ideals, or policy instruments. They are structural conditions of possibility for governability in systems characterized by distributed and hybridized agency.
+
+The remainder of the article uses this terminology canonically.
