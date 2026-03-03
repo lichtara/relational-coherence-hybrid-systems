@@ -23,3 +23,5 @@ The triadic model therefore offers more than diagnostic clarity. It reorients go
 ### Absolute Closing Paragraph
 
 Governability is not the effect of power successfully exercised. It is the structural condition under which power can appear as political at all — locatable within a shared relational horizon, sustainable across time without self-negation, and differentiated such that responsibility remains attributable. The triadic architecture does not describe a preferred arrangement of governance. It identifies the minimal structural grammar of political order under conditions of distributed and hybridized agency. Where these conditions endure, power remains accountable. Where they erode, governance persists only as operation or appearance. The enduring question is therefore not how to perfect control, but how to preserve the structural conditions under which control can remain answerable.
+
+The triadic architecture exhausts the structural dimensions of governability because every governance phenomenon must manifest either as relational configuration, temporal propagation, or boundary differentiation.
