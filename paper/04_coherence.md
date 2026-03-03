@@ -1,110 +1,119 @@
 # 04 — Coherence
 
-## 4.1 Definition of Coherence
+## Coherence as the Structural Condition of Temporal Sustainability
 
-If Field designates the structured relational configuration within which agency becomes politically locatable, **Coherence** designates the condition under which that configuration remains intelligible and non-contradictory over time.
+### 4.1 Coherence and the Temporal Condition of Order
 
-In hybrid human–AI–institutional systems, Coherence refers to the structural compatibility of relational dynamics as they unfold temporally. It concerns whether decisions, interpretations, and institutional processes remain mutually interpretable and sustain a continuity of meaning across heterogeneous agents and system layers.
+If Field establishes the structured relational horizon within which agency becomes politically locatable, Coherence designates the condition under which that horizon remains temporally sustainable.
 
-Coherence does not imply consensus, uniformity, or normative agreement. It is not psychological alignment nor behavioral convergence. It is a structural property of systemic dynamics: the condition under which internal processes do not silently negate one another or generate cumulative contradictions that erode intelligibility.
+Political order does not exist merely in space. It unfolds. Decisions propagate. Interpretations sediment. Authority extends across sequences of action. Coherence names the structural condition under which this unfolding does not dissolve into contradiction.
 
-Without Coherence, Field may persist as a relational configuration, yet its internal dynamics become unstable. Governance then operates within a space that exists structurally but fractures temporally.
+It is not agreement, convergence, or psychological alignment. It is the compatibility of systemic dynamics across time such that actions, interpretations, and institutional processes do not negate one another as they accumulate.
 
-Coherence is thus the condition of temporal sustainability of governable order.
+Without Coherence, a relational Field may remain formally structured, yet its internal dynamics fragment. Authority persists in discrete instances, but continuity collapses. Governance becomes episodic rather than sustained.
 
-## 4.2 Coherence as Irreducible Structural Condition
+Coherence is therefore the temporal condition under which governable order can endure.
 
-Coherence is emergent but not subjective. It cannot be reduced to perception, preference, or evaluative judgment. Nor can it be reduced to either of the other triadic conditions.
+### 4.2 Irreducibility of Coherence
 
-It is not reducible to **Field**, because a relational configuration may be well-defined while its internal dynamics remain mutually contradictory.
+Coherence cannot be reduced to Field.
 
-It is not reducible to **Limit**, because clearly demarcated boundaries of authority do not guarantee that decisions propagate in a manner that preserves systemic intelligibility.
+A relational configuration may be well-defined while its temporal propagation generates cumulative contradiction. Spatial intelligibility does not guarantee temporal compatibility.
 
-A Field may be structurally present, and Limits may be formally stable, yet incoherence may still arise when temporal sequences of action undermine one another.
+Coherence cannot be reduced to Limit.
 
-Coherence concerns the compatibility of systemic dynamics across time. It ensures that interpretive frameworks, decision pathways, and institutional processes do not generate structural self-negation.
+Differentiated authority does not ensure that decisions, once enacted, remain mutually interpretable across sequences of interaction. Boundaries may be explicit while systemic dynamics undermine themselves.
 
-When Coherence collapses, what erodes is not immediate technical function but the continuity of meaning necessary for sustained governability.
+Coherence concerns neither spatial location nor boundary articulation, but the compatibility of unfolding processes.
 
-## 4.3 Structural Manifestations of Coherence
+It is the structural condition that prevents systemic self-negation across time.
 
-Coherence becomes intelligible through the stability of several interrelated structural axes:
+Where Coherence collapses, what erodes is not immediate operation but continuity of intelligibility. Decisions may still be executed. Outputs may still be produced. Yet the interpretive horizon within which responsibility can be traced becomes unstable.
 
-- the persistence of shared interpretive frames across heterogeneous agents,
-- the compatibility of procedural logics across institutional and algorithmic layers,
-- the temporal alignment between decision cycles and institutional capacity for response,
-- the continuity between action and attributable consequence.
+Coherence is thus categorially distinct within the triadic architecture.
 
-These are not discrete dimensions in the sense of separable components. They are structural expressions of a deeper requirement: that systemic dynamics remain mutually interpretable as they propagate.
+### 4.3 Temporal Compatibility as Structural Requirement
 
-When this requirement is met, institutional order sustains temporal intelligibility. When it is violated persistently, fragmentation precedes visible failure.
+Political order requires more than synchronized action. It requires that successive decisions remain intelligible in relation to one another.
 
-## 4.4 Incoherence Under Hybrid Conditions
+Temporal compatibility entails that interpretive frameworks do not shift so radically as to invalidate prior commitments; that procedural logics do not propagate effects that undermine their own normative premises; and that institutional processes do not accumulate contradictions beyond interpretive repair.
 
-Hybrid systems intensify the risk of incoherence because they combine agents operating under distinct temporalities, representational logics, and optimization structures.
+These are not empirical features but structural requirements. A system may function efficiently while silently eroding the compatibility of its own sequences.
 
-Algorithmic processes may update at speeds that exceed institutional comprehension. Institutional commitments may evolve independently of model objectives. Decision outputs may remain technically effective while generating interpretive contradictions across layers.
+Coherence ensures that propagation does not become self-cancellation.
 
-In such cases, incoherence does not originate in isolated malfunction. It emerges from structural misalignment in the propagation of decisions across heterogeneous temporal and normative regimes.
+Where this condition fails, fragmentation precedes visible breakdown. The system continues to act, yet no longer integrates its own history.
 
-The system may continue to perform while progressively undermining the continuity required for governability.
+### 4.4 Coherence Under Hybrid Conditions
 
-## 4.5 Coherence and the Structural Basis of Trust
+Hybridization intensifies the temporal problem of political order.
 
-Trust is not the source of Coherence; it is its derivative effect.
+Human deliberation, institutional procedure, and algorithmic iteration operate under heterogeneous temporalities. Optimization cycles may compress decision intervals beyond institutional reflexivity. Normative commitments may evolve independently of technical updating. Interpretive categories may drift across layers without reciprocal adjustment.
 
-Where Coherence persists, expectations stabilize across time. Interpretations remain contestable yet intelligible. Errors can be identified as deviations within a shared structural horizon.
+Under such conditions, incoherence does not arise from malfunction but from temporal misalignment among structurally distinct regimes of action.
 
-Where incoherence stabilizes, trust erodes not because actors lose goodwill, but because the system ceases to provide a continuous interpretive frame within which responsibility can be traced.
+The danger is not immediate collapse but cumulative contradiction. A system may maintain surface performance while progressively undermining the continuity required for governability.
 
-The collapse of trust is thus symptomatic of structural incoherence.
+Coherence functions here as the structural integrator of heterogeneous temporalities.
 
-## 4.6 Pathologies of Incoherence
+### 4.5 Coherence and the Conditions of Trust
 
-Persistent incoherence manifests as structural drift in temporal continuity.
+Trust is not an independent structural dimension. It emerges where Coherence persists.
 
-This may take the form of semantic destabilization, where categories shift faster than institutional interpretation; feedback asymmetry, where learning cycles amplify distortion; diffusion of causality across layers without stable attribution; or desynchronization between automated processes and deliberative capacity.
+When systemic dynamics remain compatible across time, expectations stabilize. Interpretive disagreement remains possible without dissolving shared meaning. Errors can be situated as deviations rather than as structural ruptures.
 
-These are not isolated technical failures. They are structural distortions in the temporal sustainability of relational order.
+When incoherence stabilizes, trust erodes not because actors withdraw goodwill, but because the temporal continuity necessary for expectation formation collapses.
 
-When stabilized, they undermine governability prior to visible breakdown.
+Trust is therefore derivative of temporal sustainability.
 
-## 4.7 Coherence as Necessary but Not Sufficient
+### 4.6 Pathologies of Temporal Incompatibility
 
-Coherence is a necessary condition of governability because it preserves the continuity of intelligibility across time.
+Persistent incoherence manifests not as isolated failure but as structural drift in temporal integration.
 
-Without Coherence, Field remains as a relational configuration but becomes internally contradictory. Limits may exist, yet their application becomes arbitrary or unstable within shifting interpretive regimes.
+Interpretive categories may shift without institutional recalibration. Feedback mechanisms may amplify distortion rather than correct it. Decision cycles may desynchronize from oversight capacities. Causal pathways may proliferate without stable attribution.
 
-Intervention under conditions of incoherence becomes reactive rather than structural, as no stable horizon of evaluation persists.
+These are not technical anomalies. They are distortions in the temporal compatibility of relational order.
 
-Yet Coherence alone does not secure governability. A system may remain dynamically compatible while lacking differentiated authority or relational localization.
+When such distortions stabilize, governance remains formally operative yet structurally fragile.
+
+### 4.7 Necessity Without Sufficiency
+
+Coherence is necessary because without temporal compatibility, relational intelligibility disintegrates across sequences of action.
+
+Field may remain structured, yet become internally contradictory.
+
+Limits may remain articulated, yet lose stability within shifting interpretive regimes.
+
+Intervention under conditions of incoherence becomes reactive, as no continuous horizon of evaluation persists.
+
+Yet Coherence alone does not secure governability.
+
+Temporal compatibility without relational localization produces abstraction.
+
+Compatibility without differentiated authority produces integration without accountability.
 
 Coherence is therefore necessary but not sufficient.
 
-## 4.8 Structural Relation within the Triad
+### 4.8 Structural Position Within the Triad
 
-The triadic structure becomes evident at this point:
+The triadic structure becomes clearer at the level of temporal analysis.
 
-Field establishes the relational locus of agency.
+Field establishes the relational locus within which agency appears.
 
-Coherence sustains the temporal intelligibility of that locus.
+Coherence sustains the compatibility of that locus across time.
 
-Limit differentiates and stabilizes authority within it.
+Limit differentiates authority within and across that unfolding.
 
-Field without Coherence yields fragmentation.
+Field without Coherence yields spatial order without temporal integration.
 
-Coherence without Limit risks closure or undifferentiated expansion.
+Coherence without Limit yields compatibility without differentiation.
 
-Limit without Coherence produces rigid formalism without sustained meaning.
+Limit without Coherence yields rigid segmentation without continuity.
 
-Governability requires the sustained interaction of all three.
+Governability requires the sustained interaction of spatial intelligibility, temporal compatibility, and differentiated authority.
 
-## 4.9 Transition
+### 4.9 Transition
 
-If Field constitutes the spatial condition of governable agency,
+If Field secures the spatial condition of agency, and Coherence secures its temporal sustainability, then Limit determines whether authority within that unfolding remains differentiated, accountable, and structurally bounded.
 
-and Coherence secures its temporal continuity,
-
-then **Limit** articulates the condition under which expansion, delegation, and automation remain structurally differentiable and accountable.
-
-The following section formalizes Limit as the third irreducible condition of governability.
+The next section formalizes Limit as the third irreducible condition of governability.
