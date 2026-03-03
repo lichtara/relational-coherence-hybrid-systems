@@ -40,7 +40,7 @@ Temporal compatibility entails that interpretive frameworks do not shift so radi
 
 These are not empirical features but structural requirements. A system may function efficiently while silently eroding the compatibility of its own sequences.
 
-Coherence ensures that propagation does not become self-cancellation.
+Coherence prevents systemic propagation from degenerating into temporal self-negation.
 
 Where this condition fails, fragmentation precedes visible breakdown. The system continues to act, yet no longer integrates its own history.
 
@@ -119,4 +119,5 @@ Governability requires the sustained interaction of spatial intelligibility, tem
 If Field secures the spatial condition of agency, and Coherence secures its temporal sustainability, then Limit determines whether authority within that unfolding remains differentiated, accountable, and structurally bounded.
 
 The next section formalizes Limit as the third irreducible condition of governability.
+
 
