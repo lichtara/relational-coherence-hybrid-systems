@@ -35,7 +35,7 @@ To govern without attention to Field is to intervene at the level of outcomes wh
 
 ## 3.3 Structural Dimensions of Field
 
-While Field is irreducible to its components, it can be analytically described through structural dimensions that stabilize relational order:
+While Field cannot be decomposed into empirical parts, its structural stabilization becomes intelligible along certain relational axes.
 
 1. **Relational Topology**
     
@@ -66,7 +66,7 @@ The state of a Field at any given moment determines the relational intelligibili
 
 Hybrid human–AI systems intensify the structural complexity of Field.
 
-Algorithmic mediation reorganizes perceptual horizons, redistributes informational visibility, and alters temporal dynamics. Institutional embedding of automated processes reconfigures authority pathways. Optimization feedback loops amplify certain relational patterns while attenuating others.
+Hybridization does not merely increase systemic complexity; it reconstitutes the relational conditions under which agency becomes locatable. Institutional embedding of automated processes reconfigures authority pathways. Optimization feedback loops amplify certain relational patterns while attenuating others.
 
 These transformations do not merely introduce new actors. They reconstitute the relational configuration within which agency is situated.
 
@@ -83,12 +83,7 @@ Governability does not arise from isolated acts of control. It presupposes a rel
 
 When Field loses structural stability, governability erodes even if performance persists.
 
-This erosion occurs when:
-
-- relational configurations become opaque,
-- informational asymmetries undermine interpretive orientation,
-- authority pathways become ambiguous,
-- or temporal structuration exceeds institutional capacity for oversight.
+Structural erosion manifests when relational intelligibility becomes opaque, authority pathways indeterminate, informational ordering asymmetrical beyond interpretive recovery, or temporal structuration exceeds the horizon of institutional comprehension.
 
 In such conditions, interventions target behavior while the relational order that conditions behavior remains unexamined. Governance becomes reactive rather than structural.
 
@@ -103,7 +98,7 @@ These include:
 - **Fragmented Fields**, structured by incompatible local logics lacking integrative relational order.
 - **Opaque Fields**, in which causal and authority pathways are inaccessible to participants.
 
-These pathologies represent distortions of relational intelligibility. When stabilized, they prefigure systemic fragility even in the presence of technical efficiency.
+These pathologies represent structural distortions in the conditions under which agency can appear as accountable. When stabilized, they prefigure systemic fragility even in the presence of technical efficiency.
 
 ## 3.7 Field as Necessary but Not Sufficient
 
@@ -127,3 +122,4 @@ If Field defines the structural locus within which agency is situated,
 **Coherence** concerns the conditions under which that relational locus remains dynamically sustainable over time.
 
 The following section formalizes Coherence as a distinct structural dimension that emerges within Field but cannot be reduced to it.
+
