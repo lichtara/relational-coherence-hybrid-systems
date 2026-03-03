@@ -1,8 +1,8 @@
-# **04 — Campo**
+# **03 — Campo**
 
 Entre os três elementos da estrutura triádica proposta, este capítulo introduz o primeiro: **Campo**.
 
-## **4.1 Definição de Campo**
+## **3.1 Definição de Campo**
 
 No contexto de sistemas híbridos humano–IA–institucionais, **Campo** é definido como o **espaço relacional estruturado** dentro do qual interações, decisões, restrições e influências se tornam possíveis — e dentro do qual a governabilidade pode ser sustentada ou degradada.
 
@@ -22,7 +22,7 @@ Sem Campo, não há espaço relacional no qual agência possa ser exercida de mo
 
 A noção de Campo responde diretamente ao problema identificado no capítulo anterior: sistemas podem permanecer funcionalmente operativos enquanto perdem clareza relacional. Essa perda não ocorre no nível de decisões isoladas, mas no nível do Campo que as estrutura.
 
-## **4.2 Campo como Condição Estrutural (Não Metáfora)**
+## **3.2 Campo como Condição Estrutural (Não Metáfora)**
 
 Neste modelo, **Campo é tratado como condição estrutural e ontológica**, não como metáfora heurística.
 
@@ -40,7 +40,7 @@ Governar ações sem considerar o Campo equivale a intervir nos efeitos ignorand
 
 ---
 
-## **4.3 Dimensões Estruturais do Campo**
+## **3.3 Dimensões Estruturais do Campo**
 
 O Campo é composto por dimensões estruturais interdependentes, entre as quais:
 
@@ -68,7 +68,7 @@ O Campo é composto por dimensões estruturais interdependentes, entre as quais:
 Essas dimensões determinam o **estado do Campo** em um dado momento — isto é, a configuração estrutural que condiciona agência e responsabilidade.
 
 
-## **4.4 Campo em Sistemas Híbridos Humano–IA**
+## **3.4 Campo em Sistemas Híbridos Humano–IA**
 
 Em sistemas híbridos, o Campo é **coproduzido** por componentes humanos e artificiais.
 
@@ -83,7 +83,7 @@ O Campo não é estático. Ele evolui à medida que modelos são atualizados, po
 
 ---
 
-## **4.5 Campo e Governabilidade**
+## **3.5 Campo e Governabilidade**
 
 A governabilidade não depende primariamente do comportamento de agentes isolados, mas das propriedades estruturais do Campo que tornam tais comportamentos inteligíveis e responsivos.
 
@@ -120,7 +120,7 @@ Entre elas:
 Quando tais configurações se estabilizam, a governabilidade já está comprometida antes que danos se tornem visíveis.
 
 
-## **4.7 Campo como Condição Necessária e Irredutível**
+## **3.7 Campo como Condição Necessária e Irredutível**
 
 Campo é condição necessária da governabilidade porque define o espaço estrutural dentro do qual agência pode se tornar inteligível.
 
@@ -136,10 +136,11 @@ Campo é, portanto, necessário — mas não suficiente.
 A governabilidade requer que o Campo seja acoplado a processos de Coerência e estabilizado por Limites estruturais.
 
 
-## **4.8 Transição para Coerência**
+## **3.8 Transição para Coerência**
 
 Se **Campo** define o espaço estrutural onde agência ocorre,
 
 **Coerência** define as condições sob as quais esse espaço permanece inteligível e compatível ao longo do tempo.
 
 A seção seguinte formaliza Coerência como propriedade estrutural que emerge no Campo — mas que não se reduz a ele.
+
