@@ -46,7 +46,7 @@ Hybrid human–AI systems intensify the necessity of structural limitation becau
 
 Under such conditions, differentiation is not spontaneously preserved. It must be structurally maintained.
 
-Hybridization intensifies the problem of boundary maintenance because agency becomes operationally distributed without becoming normatively equivalent. To attribute to them undifferentiated authority is to collapse the distinction between execution and judgment.
+Hybridization intensifies the problem of boundary maintenance because agency becomes operationally distributed without becoming normatively equivalent. To attribute undifferentiated authority within such distributed configurations collapses the distinction between execution and judgment.
 
 Conversely, human and institutional actors may externalize responsibility into automated processes, treating outputs as self-justifying. Such displacement does not eliminate responsibility; it renders it opaque.
 
@@ -132,3 +132,4 @@ In hybrid human–AI systems, to articulate Limits is not to constrain progress.
 Where Limit is sustained, authority remains political.
 
 Where it erodes, governance becomes either absorption or simulation.
+
