@@ -1,3 +1,20 @@
+08 — Institutional Translation
+
+📌 Reestruturar 08_governance_implications.md:
+
+Subseções:
+
+8.1 Relational Field Visibility
+8.2 Cross-Layer Coherence Monitoring
+8.3 Boundary Codification and Escalation
+8.4 Diagnostic Application of the Triadic Model
+
+Menos linguagem pedagógica.
+Mais arquitetura institucional.
+
+---
+
+
 ## Chapter 08 – Governance Implications of the Triadic Model
 
 ### Objective
@@ -499,3 +516,4 @@ When any element degrades, fragility accumulates—often invisibly.
 Adaptive and relational governance is not a call for more regulation, nor for deregulation. It is a call for **structural vigilance**: the disciplined preservation of the minimal conditions under which responsibility, accountability, and institutional legitimacy remain possible.
 
 The triadic model thus offers not a competing regulatory doctrine, but a foundational lens. It identifies the structural architecture that must be maintained—regardless of sector, jurisdiction, or technological modality—if hybrid human–AI systems are to remain governable over time.
+
