@@ -1,151 +1,110 @@
-# 04 — Coerência
+# 04 — Coherence
 
-## 4.1 Definição de Coerência
+## 4.1 Definition of Coherence
 
-Em sistemas híbridos humano–IA–institucionais, **Coerência** é definida como a **compatibilidade estrutural e a inteligibilidade sustentada das interações que se desdobram em um Campo ao longo do tempo**.
+If Field designates the structured relational configuration within which agency becomes politically locatable, **Coherence** designates the condition under which that configuration remains intelligible and non-contradictory over time.
 
-Se o Campo define o espaço relacional onde a ação se torna possível, a Coerência define as condições sob as quais essa ação permanece mutuamente interpretável, não contraditória e estruturalmente sustentável.
+In hybrid human–AI–institutional systems, Coherence refers to the structural compatibility of relational dynamics as they unfold temporally. It concerns whether decisions, interpretations, and institutional processes remain mutually interpretable and sustain a continuity of meaning across heterogeneous agents and system layers.
 
-Coerência não implica consenso, uniformidade normativa ou homogeneidade comportamental. Trata-se de uma **propriedade estrutural sistêmica** que determina se as dinâmicas internas de um sistema:
+Coherence does not imply consensus, uniformity, or normative agreement. It is not psychological alignment nor behavioral convergence. It is a structural property of systemic dynamics: the condition under which internal processes do not silently negate one another or generate cumulative contradictions that erode intelligibility.
 
-- Permanecem interpretáveis entre agentes heterogêneos e subsistemas
-- Produzem resultados que não geram contradições estruturais persistentes
-- Preservam continuidade funcional à medida que decisões se propagam
+Without Coherence, Field may persist as a relational configuration, yet its internal dynamics become unstable. Governance then operates within a space that exists structurally but fractures temporally.
 
-Formalmente, há Coerência quando a dinâmica relacional de um sistema não produz fragmentação, negação silenciosa entre subsistemas ou ciclos de feedback desestabilizadores capazes de corroer inteligibilidade e governabilidade.
+Coherence is thus the condition of temporal sustainability of governable order.
 
-Sem Coerência, o Campo pode existir, mas torna-se internamente instável.
+## 4.2 Coherence as Irreducible Structural Condition
 
-## 4.2 Coerência como Condição Estrutural Irredutível
+Coherence is emergent but not subjective. It cannot be reduced to perception, preference, or evaluative judgment. Nor can it be reduced to either of the other triadic conditions.
 
-Coerência é uma condição estrutural emergente — não percepção subjetiva, preferência normativa ou juízo avaliativo.
+It is not reducible to **Field**, because a relational configuration may be well-defined while its internal dynamics remain mutually contradictory.
 
-Ela não pode ser reduzida:
+It is not reducible to **Limit**, because clearly demarcated boundaries of authority do not guarantee that decisions propagate in a manner that preserves systemic intelligibility.
 
-- Ao **Campo**, que define possibilidades relacionais mas não garante compatibilidade dinâmica.
-- Ao **Limite**, que estabelece fronteiras mas não assegura continuidade interpretativa dentro delas.
+A Field may be structurally present, and Limits may be formally stable, yet incoherence may still arise when temporal sequences of action undermine one another.
 
-Um Campo pode estar claramente estruturado e ainda assim operar sob dinâmicas incoerentes.
+Coherence concerns the compatibility of systemic dynamics across time. It ensures that interpretive frameworks, decision pathways, and institutional processes do not generate structural self-negation.
 
-Limites podem estar formalmente estabelecidos e, ainda assim, decisões internas podem se anular mutuamente ou produzir efeitos contraditórios.
+When Coherence collapses, what erodes is not immediate technical function but the continuity of meaning necessary for sustained governability.
 
-Coerência diz respeito à **compatibilidade estrutural das dinâmicas internas do sistema ao longo do tempo**.
+## 4.3 Structural Manifestations of Coherence
 
-Sem ela:
+Coherence becomes intelligible through the stability of several interrelated structural axes:
 
-- A agência permanece localizada, mas torna-se imprevisível.
-- A responsabilidade pode estar formalmente atribuída, mas perde estabilidade interpretativa.
-- A coordenação se torna frágil ou meramente superficial.
+- the persistence of shared interpretive frames across heterogeneous agents,
+- the compatibility of procedural logics across institutional and algorithmic layers,
+- the temporal alignment between decision cycles and institutional capacity for response,
+- the continuity between action and attributable consequence.
 
-O que colapsa não é o funcionamento técnico imediato, mas a inteligibilidade contínua necessária à governabilidade.
+These are not discrete dimensions in the sense of separable components. They are structural expressions of a deeper requirement: that systemic dynamics remain mutually interpretable as they propagate.
 
-## 5.3 Dimensões Estruturais da Coerência
+When this requirement is met, institutional order sustains temporal intelligibility. When it is violated persistently, fragmentation precedes visible failure.
 
-A Coerência manifesta-se em dimensões interdependentes:
+## 4.4 Incoherence Under Hybrid Conditions
 
-1. **Coerência semântica**
-    
-    Interpretabilidade compartilhada de categorias, outputs e estados do sistema.
-    
-2. **Coerência operacional**
-    
-    Compatibilidade entre procedimentos, protocolos e lógicas de decisão.
-    
-3. **Coerência temporal**
-    
-    Alinhamento entre ciclos de aprendizagem, tempos de resposta e ritmos institucionais.
-    
-4. **Coerência relacional**
-    
-    Estabilidade de expectativas quanto a papéis, autoridade e responsabilidade.
-    
-5. **Coerência causal**
-    
-    Rastreabilidade entre decisões, ações e consequências.
-    
+Hybrid systems intensify the risk of incoherence because they combine agents operating under distinct temporalities, representational logics, and optimization structures.
 
-O comprometimento persistente de qualquer dimensão tende a propagar instabilidade para o sistema como um todo.
+Algorithmic processes may update at speeds that exceed institutional comprehension. Institutional commitments may evolve independently of model objectives. Decision outputs may remain technically effective while generating interpretive contradictions across layers.
 
-## 4.4 Incoerência em Sistemas Híbridos Humano–IA
+In such cases, incoherence does not originate in isolated malfunction. It emerges from structural misalignment in the propagation of decisions across heterogeneous temporal and normative regimes.
 
-Sistemas híbridos enfrentam desafios específicos de Coerência devido a assimetrias de velocidade, escala, representação e agência.
+The system may continue to perform while progressively undermining the continuity required for governability.
 
-Fontes recorrentes de incoerência incluem:
+## 4.5 Coherence and the Structural Basis of Trust
 
-- Modelos interpretativos divergentes entre atores humanos e sistemas algorítmicos
-- Objetivos de otimização desconectados de compromissos institucionais
-- Processos automatizados que excedem capacidades humanas de acompanhamento
-- Atualizações de modelo que alteram comportamento sem adaptação institucional correspondente
+Trust is not the source of Coherence; it is its derivative effect.
 
-Nesses casos, a incoerência não decorre de falha técnica isolada, mas de **desalinhamento estrutural entre camadas do sistema**.
+Where Coherence persists, expectations stabilize across time. Interpretations remain contestable yet intelligible. Errors can be identified as deviations within a shared structural horizon.
 
-O sistema pode continuar performando enquanto se torna internamente incompatível.
+Where incoherence stabilizes, trust erodes not because actors lose goodwill, but because the system ceases to provide a continuous interpretive frame within which responsibility can be traced.
 
-## 4.5 Coerência e Confiança
+The collapse of trust is thus symptomatic of structural incoherence.
 
-Confiança não é a origem da Coerência; é seu efeito estrutural ao longo do tempo.
+## 4.6 Pathologies of Incoherence
 
-Quando há Coerência:
+Persistent incoherence manifests as structural drift in temporal continuity.
 
-- Expectativas tornam-se estabilizáveis
-- Atribuições de responsabilidade tornam-se contestáveis e revisáveis
-- Erros tornam-se detectáveis e corrigíveis
+This may take the form of semantic destabilization, where categories shift faster than institutional interpretation; feedback asymmetry, where learning cycles amplify distortion; diffusion of causality across layers without stable attribution; or desynchronization between automated processes and deliberative capacity.
 
-Quando há incoerência persistente, a confiança se deteriora mesmo sob eficiência operacional.
+These are not isolated technical failures. They are structural distortions in the temporal sustainability of relational order.
 
-O colapso de confiança deve ser entendido como sintoma estrutural de incoerência, não como fenômeno meramente psicológico.
+When stabilized, they undermine governability prior to visible breakdown.
 
-## 4.6 Padrões Patológicos de Incoerência
+## 4.7 Coherence as Necessary but Not Sufficient
 
-Padrões recorrentes incluem:
+Coherence is a necessary condition of governability because it preserves the continuity of intelligibility across time.
 
-- **Deriva semântica** — categorias mudam mais rápido do que sua interpretação institucional
-- **Desalinhamento de feedback** — ciclos de aprendizagem reforçam distorções
-- **Difusão de responsabilidade** — cadeias causais atravessam camadas sem estabilização interpretativa
-- **Dessicronização temporal** — automação supera capacidade deliberativa
+Without Coherence, Field remains as a relational configuration but becomes internally contradictory. Limits may exist, yet their application becomes arbitrary or unstable within shifting interpretive regimes.
 
-Esses padrões tendem a se reforçar mutuamente antes que falhas visíveis ocorram.
+Intervention under conditions of incoherence becomes reactive rather than structural, as no stable horizon of evaluation persists.
 
-## 4.7 Coerência como Condição Necessária
+Yet Coherence alone does not secure governability. A system may remain dynamically compatible while lacking differentiated authority or relational localization.
 
-Coerência é condição necessária da governabilidade porque sustenta a continuidade interpretativa e a compatibilidade estrutural ao longo do tempo.
+Coherence is therefore necessary but not sufficient.
 
-Sem Coerência:
+## 4.8 Structural Relation within the Triad
 
-- O Campo permanece como espaço relacional, mas torna-se internamente contraditório.
-- Limites podem existir, mas tornam-se arbitrários ou inconsistentes em aplicação.
-- Intervenções tornam-se reativas, pois não há base estável para avaliação e correção.
+The triadic structure becomes evident at this point:
 
-Portanto, Coerência é necessária — mas, assim como o Campo, não suficiente.
+Field establishes the relational locus of agency.
 
-Ela requer:
+Coherence sustains the temporal intelligibility of that locus.
 
-- Um Campo estruturado onde possa emergir.
-- Limites que impeçam expansão ou automação desestabilizadoras.
+Limit differentiates and stabilizes authority within it.
 
-## 4.8 Relação Estrutural com Campo e Limite
+Field without Coherence yields fragmentation.
 
-A tríade começa aqui a se tornar inevitável:
+Coherence without Limit risks closure or undifferentiated expansion.
 
-- **Campo** — condição espacial da agência.
-- **Coerência** — condição dinâmica de inteligibilidade.
-- **Limite** — condição reguladora de estabilidade e diferenciação.
+Limit without Coherence produces rigid formalism without sustained meaning.
 
-Campo sem Coerência gera fragmentação.
+Governability requires the sustained interaction of all three.
 
-Coerência sem Limite gera fechamento excessivo ou expansão descontrolada.
+## 4.9 Transition
 
-Limite sem Coerência produz rigidez formal sem inteligibilidade.
+If Field constitutes the spatial condition of governable agency,
 
-Governabilidade exige a interação sustentada dos três.
+and Coherence secures its temporal continuity,
 
-## 4.9 Transição para Limite
+then **Limit** articulates the condition under which expansion, delegation, and automation remain structurally differentiable and accountable.
 
-Se Campo define onde a ação ocorre,
-
-e Coerência define como ela permanece inteligível,
-
-então **Limite** define até onde o sistema pode se expandir, adaptar ou automatizar sem comprometer as condições estruturais de sua própria governabilidade.
-
-A próxima seção introduz Limite como condição estrutural de diferenciação, contenção e sustentabilidade sistêmica.
-
+The following section formalizes Limit as the third irreducible condition of governability.
