@@ -1,4 +1,4 @@
-# 06 — Limite
+# 05 — Limite
 
 ## A Função Estrutural da Limitação em Sistemas Relacionalmente Coerentes
 
@@ -157,3 +157,4 @@ Limite não é obstáculo à Coerência.
 É a condição que impede que coerência se torne indeterminação, fusão ou simulação.
 
 Em sistemas híbridos humano–IA, explicitar Limites é preservar a diferenciabilidade da agência — e, com ela, a possibilidade contínua de governar.
+
