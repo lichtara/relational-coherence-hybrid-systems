@@ -1,5 +1,7 @@
 # 08 — Institutional Translation
 
+If the triadic structure articulates the minimal architecture of governability, institutional translation does not add a fourth element. It concerns how this minimal architecture is sustained under conditions of systemic evolution.
+
 Governance, under the triadic model, ceases to be the regulation of outputs and becomes the structured preservation of the conditions under which governing remains possible.
 
 Institutional translation does not convert theory into a checklist. It articulates what governance becomes once its object is recognized as structural. If Field, Coherence, and Limit are irreducible conditions of governability, then governance cannot remain confined to rule enforcement, compliance verification, or performance optimization. It must assume responsibility for sustaining the relational architecture within which accountability, intelligibility, and correction remain possible.
@@ -97,3 +99,4 @@ When Field remains intelligible, Coherence remains compatible, and Limits remain
 When any element erodes, fragility accumulates—often invisibly—until governance becomes symbolic rather than operative.
 
 The triadic model therefore does not propose an additional regulatory doctrine. It articulates the structural architecture that must be preserved, regardless of sector or technological modality, if hybrid human–AI systems are to remain governable over time.
+
