@@ -1,54 +1,59 @@
-### 07 - Modos de Ruptura – Versão Visual
+## 07 — Structural Stability and Cascading Rupture
 
-Quando a estabilidade estrutural não é mantida, a **estrutura triádica** se torna vulnerável a modos distintos de ruptura. Estes surgem como **processos graduais, relacionais e sistêmicos** que corroem governabilidade, inteligibilidade e accountability.
+The triadic architecture specifies not only the conditions of governability, but the structural logic of its deterioration.
 
-| **Modo de Ruptura** | **Descrição** | **Exemplos em sistemas híbridos humano–IA** | **Efeitos na Governança** |
-|------------------------|----------------|-----------------------------------------------|-------------------------------|
-| **Colapso do Campo** | Perda do solo relacional compartilhado; atores perdem referência comum. | Opacidade em decisões; redistribuição assimétrica de agência; mudanças institucionais não acompanhadas por atualização do quadro interpretativo. | Decisões contestadas ou mal interpretadas; mecanismos formais tornam-se ineficazes; enfraquece construção coletiva de sentido. |
-| **Quebra de Coerência** | Desalinhamento entre dimensões temporais, funcionais ou normativas; campo parcialmente intacto. | Desalinhamento temporal: processos automatizados rápidos demais; funcional: conflito com papéis ou procedimentos; normativo: valores éticos dissociados do comportamento real. | Cadeias decisórias opacas; resultados inconsistentes; difusão de responsabilidade; confiança e legitimidade corroídas. |
-| **Erosão/Extrapolação de Limites** | Falha na articulação e operação das fronteiras estruturais. | Erosão: adiamento ou diluição da responsabilidade, dependência de sistemas automatizados. <br>Extrapolação: limites rígidos, proliferação de regras sem integração ao campo relacional. | Limites deixam de ser generativos; suprimem julgamento contextual; inibem aprendizado; conformidade performativa; accountability enfraquecida. |
+Rupture does not originate in isolated malfunction. It emerges when one of the triadic conditions falls below structural viability and begins to destabilize the others. Because Field, Coherence, and Limit are mutually constitutive, failure is rarely confined to a single dimension. It propagates.
 
-**Padrão estrutural comum:**  
-- Falha de governança surge de **desalinhamentos progressivos** na tríade.  
-- Colapso do campo compromete o solo relacional.  
-- Quebra de coerência desorganiza inteligibilidade entre camadas.  
-- Falhas de limites dissolvem responsabilidade e accountability.  
-- Os modos tendem a **reforçar-se mutuamente**, gerando efeitos em cascata.
+### 7.1 Field Destabilization
 
-**Conclusão:**  
-Para sistemas híbridos humano–IA, a governança eficaz requer **atenção contínua à integridade da estrutura triádica**, não apenas ao desempenho técnico ou conformidade formal.
+Field rupture occurs when the relational horizon of agency loses legibility.
 
+Authority pathways become indeterminate. Interpretive orientation fragments. Decisions continue to occur, yet no longer within a shared relational configuration.
 
-# Modos de Ruptura da Estrutura Triádica
+The immediate effect is not operational collapse, but erosion of intelligibility. Once relational orientation weakens, coherence assessments lose grounding and limits lose applicability. What begins as opacity in the Field progressively undermines temporal compatibility and boundary differentiation.
 
-```mermaid
-flowchart TB
-    classDef colapso fill:#FFCDD2,stroke:#B71C1C,stroke-width:2px,color:#B71C1C;
-    classDef coerencia fill:#BBDEFB,stroke:#0D47A1,stroke-width:2px,color:#0D47A1;
-    classDef limites fill:#C8E6C9,stroke:#1B5E20,stroke-width:2px,color:#1B5E20;
-    classDef link stroke:#333,stroke-width:1px;
+Field destabilization therefore initiates structural cascade.
 
-    A[Integridade da Estrutura Triádica] --> B[Colapso do Campo<br>Perda do solo relacional compartilhado]
-    A --> C[Quebra de Coerência<br>Desalinhamento entre camadas do sistema]
-    A --> D[Erosão ou Extrapolação de Limites<br>Falha na articulação das fronteiras]
+### 7.2 Coherence Destabilization
 
-    B -->|Causa fragilidade relacional| C
-    C -->|Desalinha processos e normas| D
-    D -->|Reduz accountability e supervisão| B
+Coherence rupture arises when systemic dynamics cease to remain mutually compatible across temporal and functional layers.
 
-    class B colapso;
-    class C coerencia;
-    class D limites;
-```
+Decisions propagate without interpretive continuity. Institutional commitments diverge from operational trajectories. Alignment becomes episodic rather than sustained.
 
+The Field may remain structured, and Limits may remain formally articulated, yet their interaction becomes temporally incoherent. Boundaries apply inconsistently; relational orientation shifts unpredictably.
 
-### Explicação Visual:
+Incoherence introduces cumulative contradiction. It does not immediately destroy structure, but it erodes its durability.
 
-- **Colapso do Campo (vermelho)**: indica a perda do solo relacional compartilhado, levando a fragilidade na coordenação e inteligibilidade.
-- **Quebra de Coerência (azul)**: representa o desalinhamento entre camadas temporais, funcionais ou normativas, gerando decisões opacas e inconsistentes.
-- **Erosão ou Extrapolação de Limites (amarelo)**: falha na articulação das fronteiras, causando difusão de responsabilidade e perda de governabilidade.
+### 7.3 Limit Destabilization
 
-**Setas de interdependência:**  
-Cada modo de ruptura influencia os demais, criando **ciclos de retroalimentação** que podem intensificar a fragilidade sistêmica.
+Limit rupture occurs when differentiation of authority loses structural integration.
 
+Erosion produces diffusion: responsibility becomes unlocatable, intervention loses traction, accountability dissolves.
 
+Hypertrophy produces rigidification: boundaries proliferate without relational grounding, suppressing adaptability while preserving formal segmentation.
+
+In both cases, differentiated authority ceases to function as a generative boundary condition. Without stable Limits, Field becomes expansively indeterminate and Coherence becomes absorptive or closed.
+
+### 7.4 Cascading Interaction
+
+Because the triadic conditions are internally relational, rupture propagates.
+
+Field opacity destabilizes coherence by removing interpretive grounding.
+
+Incoherence destabilizes limits by rendering boundaries arbitrary or symbolic.
+
+Boundary failure destabilizes Field by dissolving the differentiability upon which relational intelligibility depends.
+
+Structural fragility therefore accumulates gradually. Systems may retain surface performance while progressively losing triadic integrity.
+
+Collapse, when it appears, is often misdiagnosed as sudden failure. It is the endpoint of accumulated structural drift.
+
+### 7.5 Structural Insight
+
+Governability fails not when performance declines, but when the triadic architecture falls below minimal viability.
+
+The critical threshold is not output quality, but structural integration.
+
+Where Field remains legible, Coherence remains compatible, and Limits remain differentiating, rupture remains containable.
+
+Where one dimension deteriorates without structural recalibration, cascade becomes probable.
