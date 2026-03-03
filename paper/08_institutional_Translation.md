@@ -1,4 +1,4 @@
-# 08 — Institutional Translation (Revised, High-Density Version)
+# 08 — Institutional Translation 
 
 If the triadic structure articulates the minimal architecture of governability, institutional translation does not add a fourth element. It concerns how this minimal architecture is sustained under conditions of systemic evolution.
 
@@ -97,3 +97,4 @@ When Field remains intelligible, Coherence remains compatible, and Limits remain
 The triadic model therefore intervenes not merely in AI policy debates but in the architecture of political theory itself. It reframes governability as a structural condition composed of relational space, temporal sustainability, and differentiated authority. In doing so, it offers a minimal ontology of political order under conditions of hybridized agency.
 
 If contemporary crises of legitimacy, opacity, and institutional fragility signal anything, it is not simply regulatory insufficiency but structural drift. The question is no longer how to optimize governance, but how to preserve the conditions under which governance remains possible.
+
