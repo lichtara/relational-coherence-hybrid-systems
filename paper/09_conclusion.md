@@ -1,4 +1,4 @@
-## 00  — Conclusion
+## 09  — Conclusion
 
 ### Governability as a Structural Achievement
 
@@ -29,4 +29,5 @@ The triadic model thus offers both a diagnostic and a design principle. Diagnost
 In hybrid human–AI systems, the future of governance will not be secured by more optimization alone, nor by thicker layers of compliance. It will depend on whether institutions can sustain the triadic conditions that make governing possible in the first place.
 
 Governability is not the effect of power exercised. It is the structural condition under which power can be exercised responsibly at all.
+
 
