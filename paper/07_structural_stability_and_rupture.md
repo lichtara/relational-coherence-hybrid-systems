@@ -1,4 +1,4 @@
-### 6.4.2 Modos de Ruptura – Versão Visual
+### 07 - Modos de Ruptura – Versão Visual
 
 Quando a estabilidade estrutural não é mantida, a **estrutura triádica** se torna vulnerável a modos distintos de ruptura. Estes surgem como **processos graduais, relacionais e sistêmicos** que corroem governabilidade, inteligibilidade e accountability.
 
