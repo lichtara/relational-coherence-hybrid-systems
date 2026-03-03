@@ -160,7 +160,7 @@ Governability is not equivalent to coordination, efficiency, compliance, or cont
 
 To govern is not merely to produce outcomes, but to exercise authority within a relational order in which agency can be located, responsibility can be assigned, and intervention remains possible without collapsing the system’s intelligibility.
 
-Under conditions of hybridized agency—where human, institutional, and artificial capacities are densely interwoven—these structural requirements do not diminish. They become more explicit. Governability is therefore not a contingent feature of political order, but a condition of its possibility.
+Under conditions of hybridized agency—where human, institutional, and artificial capacities are densely interwoven—these structural requirements do not diminish. They become more explicit. Governability is therefore not a contingent feature added to political order. It is the structural condition under which political order can exist as such.
 
 The triadic architecture articulates this condition.
 
@@ -186,7 +186,7 @@ Compatibility cannot be inferred from bounded roles.
 
 Bounded roles cannot emerge from relational density alone.
 
-No dyadic configuration satisfies all three simultaneously.
+No dyadic configuration can satisfy the structural requirements of governability without covertly presupposing the absent third dimension.
 
 Field and Coherence without Limit yield absorption.
 
@@ -220,7 +220,7 @@ It articulates the irreducible conditions under which political order—under hy
 
 To deny one element is not to refine the model.
 
-It is to abandon governability as such.
+The triadic architecture does not describe one possible model of governance. It articulates the minimal structural grammar of political order under conditions of distributed and hybridized agency. It identifies not how governance ought to be arranged, but what must be structurally present for governance to remain possible at all.
 
 ## 6.7 Transition to Institutional Translation
 
@@ -231,6 +231,7 @@ Institutions do not add a fourth dimension to the architecture. They operate wit
 Institutional translation, therefore, does not move beyond the triadic structure. It assumes responsibility for its maintenance.
 
 Section 08 turns from categorial necessity to structural stewardship.
+
 
 
 
