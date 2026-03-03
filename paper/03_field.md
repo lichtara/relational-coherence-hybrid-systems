@@ -1,4 +1,4 @@
-# 03 — Field (Revised High-Density Version)
+# 03 — Field  
 
 Among the three elements of the triadic structure, **Field** names the first and most fundamental: the relational condition under which agency becomes politically intelligible.
 
@@ -99,3 +99,4 @@ If Field constitutes the spatial condition under which agency becomes locatable,
 **Coherence** concerns the temporal condition under which that relational configuration remains sustainable.
 
 The following section formalizes Coherence as a distinct structural dimension that emerges within Field yet cannot be reduced to it.
+
