@@ -1,59 +1,147 @@
+# III — Arquitetura Consolidada Recomendada
 
-## Estrutura Fundacional Recomendada
+Vou propor reorganização usando seus arquivos existentes.
 
-**00 — Abstract**
+---
 
-**01 — Introduction**
+## 00 — Abstract
 
-- Problema estrutural
-- Tese
-- Contribuições
+(mantido)
 
-**02 — Performance, Control, and Fragmented Governance**
+---
 
-- Diálogo estratégico com tradição
-- Lacuna estrutural
-- Canonical terminology subsection
+## 01 — Introduction
 
-**03 — Field**
+(conforme já revisado)
 
-- Definição
-- Estruturalidade
-- Irredutibilidade
+---
 
-**04 — Coherence**
+## 02 — Fragmented Governance and the Structural Gap
 
-- Definição
-- Dimensões
-- Irredutibilidade
+📌 Fusão de:
 
-**05 — Limit**
+- 02_background_related_work.md
+- 03_problem_statement.md
 
-- Definição
-- Diferenciação de agência
-- Irredutibilidade
+Estrutura interna:
 
-**06 — The Triadic Architecture**
+- Performance ≠ governability
+- Diálogo com:
+    - STS
+    - Alignment
+    - Accountability
+- Declaração da lacuna estrutural
+- 02.1 Canonical Terminology (TTG)
+
+O “Problem Statement” deixa de ser capítulo autônomo.
+
+Ele vira culminação do diálogo com literatura.
+
+---
+
+## 03 — Field
+
+📌 Mantém 04_field.md
+
+Mas com ajuste:
+
+- Remover duplicações didáticas
+- Reforçar estatuto ontológico
+- Enfatizar irredutibilidade ao final
+
+---
+
+## 04 — Coherence
+
+📌 Mantém 05_coherence.md
+
+Mas:
+
+- Encurtar repetições
+- Tornar explícita distinção de compatibilidade vs alinhamento
+
+---
+
+## 05 — Limit
+
+📌 Mantém 06_limit.md
+
+Mas:
+
+- Reforçar diferenciabilidade da agência
+- Eliminar qualquer tom normativo excessivo
+
+---
+
+## 06 — The Triadic Architecture
+
+📌 Reestruturar 07_triadic_structure.md como:
 
 - Integração formal
 - Interações diádicas
-- Não-reducibilidade lógica explícita
+- Formulação explícita de não-reduzibilidade
+- Transição para estabilidade
 
-**07 — Structural Stability and Rupture**
+Não repetir definições.
 
-- Condições mínimas
-- Modos de ruptura (1 tabela + 1 figura)
-- Diagnóstico estrutural
+Apenas integrar.
 
-**08 — Institutional Translation**
+---
 
-- Field visibility
-- Coherence monitoring
-- Boundary codification
-- Escalation design
+## 07 — Structural Stability and Rupture
 
-**09 — Conclusion**
+📌 Consolidar todas as versões visuais e tabelas.
 
-- Necessidade ontológica
-- Implicações institucionais
-- Fechamento quase-transcendental
+Escolher:
+
+- 1 tabela clara de modos de ruptura
+- 1 figura limpa
+
+Mover versões alternativas para apêndice (se necessário).
+
+---
+
+## 08 — Institutional Translation
+
+📌 Reestruturar 08_governance_implications.md:
+
+Subseções:
+
+8.1 Relational Field Visibility
+
+8.2 Cross-Layer Coherence Monitoring
+
+8.3 Boundary Codification and Escalation
+
+8.4 Diagnostic Application of the Triadic Model
+
+Menos linguagem pedagógica.
+
+Mais arquitetura institucional.
+
+---
+
+## 09 — Conclusion
+
+(conforme já elevado)
+
+---
+
+# IV — Arquitetura Final Consolidada
+
+```
+00 — Abstract
+01 — Introduction
+02 — Fragmented Governance and the Structural Gap
+    02.1 Canonical Terminology (TTG)
+03 — Field
+04 — Coherence
+05 — Limit
+06 — The Triadic Architecture
+07 — Structural Stability and Rupture
+08 — Institutional Translation
+09 — Conclusion
+references
+```
+
+---
