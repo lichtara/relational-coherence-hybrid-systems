@@ -1,6 +1,6 @@
-# 05 — Coerência
+# 04 — Coerência
 
-## 5.1 Definição de Coerência
+## 4.1 Definição de Coerência
 
 Em sistemas híbridos humano–IA–institucionais, **Coerência** é definida como a **compatibilidade estrutural e a inteligibilidade sustentada das interações que se desdobram em um Campo ao longo do tempo**.
 
@@ -16,7 +16,7 @@ Formalmente, há Coerência quando a dinâmica relacional de um sistema não pro
 
 Sem Coerência, o Campo pode existir, mas torna-se internamente instável.
 
-## 5.2 Coerência como Condição Estrutural Irredutível
+## 4.2 Coerência como Condição Estrutural Irredutível
 
 Coerência é uma condição estrutural emergente — não percepção subjetiva, preferência normativa ou juízo avaliativo.
 
@@ -66,7 +66,7 @@ A Coerência manifesta-se em dimensões interdependentes:
 
 O comprometimento persistente de qualquer dimensão tende a propagar instabilidade para o sistema como um todo.
 
-## 5.4 Incoerência em Sistemas Híbridos Humano–IA
+## 4.4 Incoerência em Sistemas Híbridos Humano–IA
 
 Sistemas híbridos enfrentam desafios específicos de Coerência devido a assimetrias de velocidade, escala, representação e agência.
 
@@ -81,7 +81,7 @@ Nesses casos, a incoerência não decorre de falha técnica isolada, mas de **de
 
 O sistema pode continuar performando enquanto se torna internamente incompatível.
 
-## 5.5 Coerência e Confiança
+## 4.5 Coerência e Confiança
 
 Confiança não é a origem da Coerência; é seu efeito estrutural ao longo do tempo.
 
@@ -95,7 +95,7 @@ Quando há incoerência persistente, a confiança se deteriora mesmo sob eficiê
 
 O colapso de confiança deve ser entendido como sintoma estrutural de incoerência, não como fenômeno meramente psicológico.
 
-## 5.6 Padrões Patológicos de Incoerência
+## 4.6 Padrões Patológicos de Incoerência
 
 Padrões recorrentes incluem:
 
@@ -106,7 +106,7 @@ Padrões recorrentes incluem:
 
 Esses padrões tendem a se reforçar mutuamente antes que falhas visíveis ocorram.
 
-## 5.7 Coerência como Condição Necessária
+## 4.7 Coerência como Condição Necessária
 
 Coerência é condição necessária da governabilidade porque sustenta a continuidade interpretativa e a compatibilidade estrutural ao longo do tempo.
 
@@ -123,7 +123,7 @@ Ela requer:
 - Um Campo estruturado onde possa emergir.
 - Limites que impeçam expansão ou automação desestabilizadoras.
 
-## 5.8 Relação Estrutural com Campo e Limite
+## 4.8 Relação Estrutural com Campo e Limite
 
 A tríade começa aqui a se tornar inevitável:
 
@@ -139,7 +139,7 @@ Limite sem Coerência produz rigidez formal sem inteligibilidade.
 
 Governabilidade exige a interação sustentada dos três.
 
-## 5.9 Transição para Limite
+## 4.9 Transição para Limite
 
 Se Campo define onde a ação ocorre,
 
@@ -148,3 +148,4 @@ e Coerência define como ela permanece inteligível,
 então **Limite** define até onde o sistema pode se expandir, adaptar ou automatizar sem comprometer as condições estruturais de sua própria governabilidade.
 
 A próxima seção introduz Limite como condição estrutural de diferenciação, contenção e sustentabilidade sistêmica.
+
