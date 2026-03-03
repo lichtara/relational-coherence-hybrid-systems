@@ -92,8 +92,6 @@ Temporal compatibility without relational localization produces abstraction.
 
 Compatibility without differentiated authority produces integration without accountability.
 
-Coherence is therefore necessary but not sufficient.
-
 Coherence provides the temporal continuity within which agency remains interpretable.
 
 ### 4.8 Structural Position Within the Triad
@@ -119,5 +117,6 @@ Governability requires the sustained interaction of spatial intelligibility, tem
 If Field secures the spatial condition of agency, and Coherence secures its temporal sustainability, then Limit determines whether authority within that unfolding remains differentiated, accountable, and structurally bounded.
 
 The next section formalizes Limit as the third irreducible condition of governability.
+
 
 
