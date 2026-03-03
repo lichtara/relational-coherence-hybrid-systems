@@ -34,12 +34,7 @@ Governability presupposes that agency remains differentiable.
 
 To govern is not merely to coordinate behavior, but to sustain distinctions between deciding, executing, supervising, and answering. Where such distinctions erode, responsibility becomes structurally undecidable.
 
-Limit preserves these distinctions by structuring:
-
-- who may decide,
-- who may implement,
-- who may intervene,
-- who may be held accountable.
+Limit preserves these distinctions by instituting the structural separability of decision, execution, supervision, and answerability.
 
 Without such differentiation, Field may remain relationally structured and Coherence may maintain compatibility, yet governance collapses into either diffusion or absorption. Authority persists, but its location becomes indeterminate.
 
@@ -51,7 +46,7 @@ Hybrid human–AI systems intensify the necessity of structural limitation becau
 
 Under such conditions, differentiation is not spontaneously preserved. It must be structurally maintained.
 
-Artificial systems operate without originating moral sovereignty, without terminal responsibility, and without independent institutional legitimacy. To attribute to them undifferentiated authority is to collapse the distinction between execution and judgment.
+Hybridization intensifies the problem of boundary maintenance because agency becomes operationally distributed without becoming normatively equivalent. To attribute to them undifferentiated authority is to collapse the distinction between execution and judgment.
 
 Conversely, human and institutional actors may externalize responsibility into automated processes, treating outputs as self-justifying. Such displacement does not eliminate responsibility; it renders it opaque.
 
@@ -76,7 +71,7 @@ In its absence, governance persists only symbolically. Rules may exist, but they
 
 Limits need not be static, but their revision must itself remain structured.
 
-Adaptive systems require recalibration of boundaries as scale, speed, and institutional embedding evolve. Yet revision without procedural coherence reintroduces indeterminacy at a higher level.
+Under systemic evolution, boundary conditions must remain structurally recalibrable without dissolving their differentiating function. Yet revision without procedural coherence reintroduces indeterminacy at a higher level.
 
 Dynamic limitation therefore requires not fluidity, but structured revisability. Boundaries must remain both differentiating and intelligible across time.
 
@@ -135,3 +130,4 @@ In hybrid human–AI systems, to articulate Limits is not to constrain progress.
 Where Limit is sustained, authority remains political.
 
 Where it erodes, governance becomes either absorption or simulation.
+
