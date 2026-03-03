@@ -86,7 +86,7 @@ Field is irreducible because it establishes the relational locus within which ot
 
 It is not reducible to Coherence, which concerns the compatibility of dynamics within a Field. Nor is it reducible to Limit, which concerns the differentiation of authority within that relational space.
 
-Field provides the spatial horizon. Coherence provides temporal sustainability. Limit provides differentiated boundary.
+Field provides the spatial horizon within which agency becomes locatable. Coherence provides temporal sustainability. Limit provides differentiated boundary.
 
 Field alone does not secure governability. A relational configuration may exist while remaining dynamically incoherent or normatively undifferentiated.
 
@@ -99,4 +99,5 @@ If Field constitutes the spatial condition under which agency becomes locatable,
 **Coherence** concerns the temporal condition under which that relational configuration remains sustainable.
 
 The following section formalizes Coherence as a distinct structural dimension that emerges within Field yet cannot be reduced to it.
+
 
