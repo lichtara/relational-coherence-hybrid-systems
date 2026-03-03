@@ -133,3 +133,7 @@ Where Limit is sustained, authority remains political.
 
 Where it erodes, governance becomes either absorption or simulation.
 
+Field makes agency locatable.
+Coherence makes it sustainable.
+Limit makes it answerable.
+
