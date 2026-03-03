@@ -32,7 +32,7 @@ To govern the Field is to preserve the conditions under which agency remains loc
 
 Relational intelligibility does not arise automatically from transparency in the narrow sense of disclosure. Data, documentation, and logs do not suffice if actors cannot situate decisions within a coherent authority structure. What must be preserved is the capacity to determine who acted, under what mandate, through which mediating structures, and with what possibility of intervention.
 
-Institutional arrangements capable of preserving Field integrity tend to share certain characteristics. They render authority pathways explicit rather than implicit. They maintain traceable linkages between automated processes and institutional mandates. They treat informal adaptations and interpretive disputes as signals of relational drift rather than as peripheral noise.
+Institutional forms that preserve Field integrity tend to share certain characteristics. They render authority pathways explicit rather than implicit. They maintain traceable linkages between automated processes and institutional mandates. They treat informal adaptations and interpretive disputes as signals of relational drift rather than as peripheral noise.
 
 Participation and contestability assume a structural function here. They are not primarily democratic embellishments but mechanisms through which the relational field becomes self-observing. Where structured avenues exist for articulating misalignment, relational opacity can be detected before it hardens into structural illegibility.
 
@@ -86,7 +86,7 @@ In this reframing, governance becomes anticipatory rather than reactive.
 
 ## 8.6 Toward Relational and Adaptive Governance
 
-The triadic model culminates in a redefinition of governance.
+The triadic model does not compete among regulatory doctrines. It articulates the structural horizon within which any doctrine must operate if governability is to remain possible.
 
 Governance in hybrid human–AI systems cannot be reduced to output regulation, performance maximization, or static rule enforcement. It becomes the disciplined preservation of relational conditions.
 
@@ -99,4 +99,5 @@ When Field remains intelligible, Coherence remains compatible, and Limits remain
 When any element erodes, fragility accumulates—often invisibly—until governance becomes symbolic rather than operative.
 
 The triadic model therefore does not propose an additional regulatory doctrine. It articulates the structural architecture that must be preserved, regardless of sector or technological modality, if hybrid human–AI systems are to remain governable over time.
+
 
