@@ -107,6 +107,8 @@ Limit is therefore irreducible within the triadic architecture.
 
 Without it, Field becomes expansively indeterminate and Coherence becomes self-referential integration.
 
+Limit provides the differentiating structure within which authority remains attributable.
+
 ### 5.9 Completion of the Triad
 
 With Limit, the triadic architecture attains structural closure.
@@ -130,4 +132,3 @@ In hybrid human–AI systems, to articulate Limits is not to constrain progress.
 Where Limit is sustained, authority remains political.
 
 Where it erodes, governance becomes either absorption or simulation.
-
