@@ -32,7 +32,7 @@ Institutional forms are therefore to be assessed not by their regulatory density
 
 To govern the Field is to preserve the conditions under which agency remains politically locatable.
 
-Relational intelligibility exceeds disclosure. Data may circulate abundantly while authority remains opaque. What must endure is the structured possibility of situating action: who acted, under what mandate, through which mediating structures, and with what avenue of intervention.
+Relational intelligibility exceeds mere disclosure. Data may circulate abundantly while authority remains opaque. What must endure is the structured possibility of situating action: who acted, under what mandate, through which mediating structures, and with what avenue of intervention.
 
 Institutional forms that sustain Field integrity tend to render authority pathways explicit, maintain traceability between automated processes and institutional mandates, and treat interpretive friction not as noise but as structural signal.
 
@@ -46,7 +46,7 @@ If Field secures the locus of agency, governance must also sustain its temporal 
 
 Coherence concerns whether heterogeneous layers of action remain mutually interpretable as they evolve. The danger lies in mistaking coherence for control. Control minimizes deviation. Coherence preserves compatibility across difference.
 
-A system may converge flawlessly toward predefined objectives while eroding the interpretive bridges that render its operations intelligible. Such systems exhibit performance without governability.
+A system may converge flawlessly toward predefined objectives while simultaneously eroding the interpretive bridges that render its operations intelligible. Such systems exhibit performance without governability.
 
 Structural coherence is not engineered uniformity but maintained compatibility. It requires that temporal cycles remain survivable across layers, that optimization logics do not silently displace institutional mandates, and that normative commitments do not detach from operational practice.
 
@@ -99,5 +99,6 @@ When Field remains intelligible, Coherence remains compatible, and Limits remain
 The triadic model therefore intervenes not merely in AI policy debates but in the architecture of political theory itself. It reframes governability as a structural condition composed of relational space, temporal sustainability, and differentiated authority. In doing so, it offers a minimal ontology of political order under conditions of hybridized agency.
 
 If contemporary crises of legitimacy, opacity, and institutional fragility signal anything, it is not simply regulatory insufficiency but structural drift. The question is no longer how to optimize governance, but how to preserve the conditions under which governance remains possible.
+
 
 
