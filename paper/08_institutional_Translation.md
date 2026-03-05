@@ -2,11 +2,11 @@
 
 If the previous section identified the structural conditions under which governability deteriorates, the question that follows is institutional: how can these conditions be preserved?
 
-If the triadic structure articulates the minimal architecture of governability, institutional translation does not add a fourth element. It concerns how this minimal architecture is sustained under conditions of systemic evolution.
+If the triadic structure articulates the minimal architecture of governability, institutional translation does not introduce an additional element. Rather, it concerns how this minimal architecture can be sustained under conditions of systemic evolution.
 
 Governance, under the triadic model, ceases to be the regulation of outputs and becomes the structured preservation of the conditions under which governing remains possible.
 
-Institutional translation does not operationalize theory; it transforms the concept of governance itself. Once Field, Coherence, and Limit are recognized as irreducible conditions of governability, governance can no longer be confined to compliance, optimization, or episodic correction. It assumes responsibility for sustaining the relational architecture within which accountability, intelligibility, and revision remain structurally viable.
+Once Field, Coherence, and Limit are recognized as irreducible conditions of governability, governance can no longer be confined to compliance, optimization, or episodic correction. It assumes responsibility for sustaining the relational architecture within which accountability, intelligibility, and revision remain structurally viable.
 
 The decisive question shifts accordingly. It is no longer whether systems perform or conform. It is whether the structural conditions that render governing intelligible endure across transformation.
 
@@ -14,7 +14,7 @@ The decisive question shifts accordingly. It is no longer whether systems perfor
 
 Field, Coherence, and Limit do not maintain themselves. Hybrid systems evolve through scale, automation, institutional embedding, and recursive optimization. Structural conditions, once established, are continuously exposed to drift.
 
-Governance therefore becomes a practice of **structural stewardship**: the sustained preservation of relational intelligibility, temporal compatibility, and differentiated authority under conditions of change.
+Governance therefore becomes a practice of structural stewardship: the sustained preservation of relational intelligibility, temporal compatibility, and differentiated authority under conditions of systemic change.
 
 This reorientation alters the object of governance. Rather than intervening primarily at the level of discrete decisions, governance concerns the architecture within which decisions become attributable, contestable, and correctable. It is not transactional but relational; not reactive but architectural.
 
@@ -80,7 +80,7 @@ Limit erosion reveals itself in responsibility diffusion or boundary rigidity.
 
 Because the triadic elements are mutually constitutive, deterioration rarely remains isolated. Opacity destabilizes compatibility; incompatibility undermines boundaries; boundary erosion renders the Field unintelligible.
 
-Structural monitoring therefore concerns the viability of governability itself. Informal adaptations, friction, and interpretive disputes become early indicators of architectural stress rather than anomalies to be suppressed.
+Structural monitoring therefore concerns the continued viability of governability itself. Informal adaptations, friction, and interpretive disputes become early indicators of architectural stress rather than anomalies to be suppressed.
 
 Governance, in this light, becomes anticipatory rather than merely corrective.
 
@@ -99,6 +99,7 @@ When Field remains intelligible, Coherence remains compatible, and Limits remain
 The triadic model therefore intervenes not merely in AI policy debates but in the architecture of political theory itself. It reframes governability as a structural condition composed of relational space, temporal sustainability, and differentiated authority. In doing so, it offers a minimal ontology of political order under conditions of hybridized agency.
 
 If contemporary crises of legitimacy, opacity, and institutional fragility signal anything, it is not simply regulatory insufficiency but structural drift. The question is no longer how to optimize governance, but how to preserve the conditions under which governance remains possible.
+
 
 
 
