@@ -2,7 +2,7 @@
 
 ## 6.1 From Analytical Distinction to Structural Necessity
 
-Field, Coherence, and Limit were introduced as analytically distinguishable dimensions of governability. This section advances a stronger claim: they are not merely complementary lenses, but **mutually constitutive and jointly necessary structural conditions**.
+Field, Coherence, and Limit were introduced as analytically distinguishable dimensions of governability. This section advances a stronger claim: Field, Coherence, and Limit are not merely complementary lenses, but mutually constitutive and jointly necessary structural conditions. Under conditions of distributed and hybrid agency, governability itself depends upon the preservation of this triadic structure.
 
 Governability does not arise from the aggregation of relational space, dynamic alignment, and bounded authority as separable features. It emerges only where these dimensions operate together as a unified architecture. Field provides no governable order without Coherence; Coherence cannot stabilize without Limit; Limit has no intelligible force outside a structured Field. Each presupposes the others as conditions of its own operability.
 
@@ -154,7 +154,7 @@ Limit failure is thus the structural consequence of boundary detachment — whet
 
 ## 6.6 Minimality and Categorial Irreducibility
 
-### 1. Governability as a Condition of Possibility
+### 6.6.1 Governability as a Condition of Possibility
 
 Governability is not equivalent to coordination, efficiency, compliance, or control. It designates the structural condition under which collective power can be exercised in a manner that remains intelligible, attributable, and revisable over time.
 
@@ -164,7 +164,7 @@ Under conditions of hybridized agency—where human, institutional, and artifici
 
 The triadic architecture articulates this condition.
 
-### 2. Three Categorial Requirements
+### 6.6.2 Three Categorial Requirements
 
 Any system that claims to be governable must satisfy three irreducible requirements.
 
@@ -176,7 +176,7 @@ Third, agency must remain differentiable. Without Limit, distinctions between de
 
 These are not empirical variables. They are structural dimensions of political order. They articulate the minimal grammar within which political power can appear as accountable rather than merely effective.
 
-### 3. Non-Substitutability
+### 6.6.3 Non-Substitutability
 
 The three dimensions are categorially distinct and therefore non-substitutable.
 
@@ -198,7 +198,7 @@ To remove any one element is not to weaken governability incrementally. It is to
 
 What remains may be operation, control, or compliance. It is not governability.
 
-### 4. The Impossibility of a Fourth Structural Element
+### 6.6.4 The Impossibility of a Fourth Structural Element
 
 If the triad is minimal, it must also be exhaustive at the categorial level.
 
@@ -231,6 +231,7 @@ Institutions do not add a fourth dimension to the architecture. They operate wit
 Institutional translation, therefore, does not move beyond the triadic structure. It assumes responsibility for its maintenance.
 
 Section 08 turns from categorial necessity to structural stewardship.
+
 
 
 
