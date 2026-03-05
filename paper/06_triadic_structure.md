@@ -8,13 +8,13 @@ Governability does not arise from the aggregation of relational space, dynamic a
 
 The triadic model therefore exceeds analytical pluralism. It articulates a **structural configuration** within which the exercise of power remains intelligible, attributable, and revisable over time. The relation among the three elements is not additive but constitutive: removing any one transforms the character of the whole.
 
-This interdependence grounds a further claim. If governability requires a structured relational locus, sustained dynamic compatibility, and differentiated authority, then Field, Coherence, and Limit correspond not to contingent features of governance arrangements but to **categorial conditions of political order under hybrid agency**.
+This interdependence grounds a further claim. If governability requires a structured relational locus, sustained dynamic compatibility, and differentiated authority, then Field, Coherence, and Limit cannot be understood as contingent features of governance arrangements. They correspond instead to structural conditions of political order under hybrid agency.
 
 The argument that follows does not defend the usefulness of the triad. It establishes its **irreducibility and minimal necessity**.
 
 ## 6.2 The Three Structural Dimensions of Political Order
 
-If governability is to be understood as a condition of political order under hybrid agency, then the triadic structure corresponds to three irreducible structural dimensions: relational intelligibility, temporal sustainability, and differentiated authority. These are not empirical variables but categorial requirements.
+If governability constitutes a structural condition of political order under hybrid agency, then the triadic architecture corresponds to three irreducible structural dimensions: relational intelligibility, temporal sustainability, and differentiated authority. These are not empirical variables but categorial requirements.
 
 ### 6.2.1 Field and Relational Intelligibility
 
@@ -231,6 +231,7 @@ Institutions do not add a fourth dimension to the architecture. They operate wit
 Institutional translation, therefore, does not move beyond the triadic structure. It assumes responsibility for its maintenance.
 
 Section 08 turns from categorial necessity to structural stewardship.
+
 
 
 
